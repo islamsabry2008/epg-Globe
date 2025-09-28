@@ -8,25 +8,125 @@
 <channel id="ptv-national.pk"><display-name>Ptv National.pk</display-name></channel>
 <channel id="ptv-news.pk"><display-name>Ptv News.pk</display-name></channel>
 <channel id="ptv-sports.pk"><display-name>Ptv Sports.pk</display-name></channel>
-<programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="ptv-home.pk"><title>KAINAAT</title><desc>(RPT)</desc></programme>
-<programme start="20250928040000 +0000" stop="20250928050000 +0000" channel="ptv-home.pk"><title>IQRA</title><desc>(EP: 44)</desc></programme>
-<programme start="20250928050000 +0000" stop="20250928053000 +0000" channel="ptv-home.pk"><title>PAGHAM E PAKISTAN</title><desc>(FRESH)</desc></programme>
-<programme start="20250928053000 +0000" stop="20250928070000 +0000" channel="ptv-home.pk"><title>BEST OF RISING PAKISTAN</title><desc>(RPT)</desc></programme>
-<programme start="20250928070000 +0000" stop="20250928073000 +0000" channel="ptv-home.pk"><title>PADHARO MARAY DES</title><desc>(EP: 16) (RPT)</desc></programme>
-<programme start="20250928073000 +0000" stop="20250928080000 +0000" channel="ptv-home.pk"><title>AJJU And BHOLA</title><desc>(EP: 02) (RPT)</desc></programme>
-<programme start="20250928080000 +0000" stop="20250928093000 +0000" channel="ptv-home.pk"><title>BEST OF MORNING @ HOME</title><desc>(RPT)</desc></programme>
-<programme start="20250928093000 +0000" stop="20250928103000 +0000" channel="ptv-home.pk"><title>PEHLA QADAM</title><desc>(RPT)</desc></programme>
-<programme start="20250928103000 +0000" stop="20250928120500 +0000" channel="ptv-home.pk"><title>WEEKEND @ HOME</title><desc>(LIVE)</desc></programme>
-<programme start="20250928120500 +0000" stop="20250928152000 +0000" channel="ptv-home.pk"><title>BARBAROSA</title><desc>(DRAMA SERIAL) (EP: 88 TO 91) (RPT)</desc></programme>
-<programme start="20250928152000 +0000" stop="20250928153000 +0000" channel="ptv-home.pk"><title>AL-QURA’AN</title><desc>AL-QURA’AN</desc></programme>
-<programme start="20250928153000 +0000" stop="20250928160000 +0000" channel="ptv-home.pk"><title>FUN FACTOR</title><desc>(EP: 03) (RPT)</desc></programme>
-<programme start="20250928160000 +0000" stop="20250928163000 +0000" channel="ptv-home.pk"><title>PADHARO MARAY DES</title><desc>(EP: 17) (RPT)</desc></programme>
-<programme start="20250928163000 +0000" stop="20250928170000 +0000" channel="ptv-home.pk"><title>AJJU And BHOLA</title><desc>(EP: 03) (RPT)</desc></programme>
-<programme start="20250928170000 +0000" stop="20250928175500 +0000" channel="ptv-home.pk"><title>DAR AND DARLING</title><desc>(EP: 55) (RPT)</desc></programme>
-<programme start="20250928175500 +0000" stop="20250928190000 +0000" channel="ptv-home.pk"><title>FASAL E GUL</title><desc>(RPT)</desc></programme>
-<programme start="20250928190000 +0000" stop="20250928191000 +0000" channel="ptv-home.pk"><title>KHABARNAMA</title><desc>(HEADLINES ONLY) (LIVE)</desc></programme>
-<programme start="20250928191000 +0000" stop="20250928193500 +0000" channel="ptv-home.pk"><title>MATTI RANG AUR KHUSHBU</title><desc>(EP: 09) (RPT)</desc></programme>
-<programme start="20250928193500 +0000" stop="20250928200000 +0000" channel="ptv-home.pk"><title>US NE CHAHA THA CHAND</title><desc>(EP: 14) (RPT)</desc></programme>
-<programme start="20250928200000 +0000" stop="20250928210000 +0000" channel="ptv-home.pk"><title>STAR And STYLE</title><desc>(FRESH)</desc></programme>
-<programme start="20250928210000 +0000" stop="20251001033000 +0000" channel="ptv-home.pk"><title>FASAL E GUL</title><desc>(RPT)</desc></programme>
+<programme start="20250928220000 +0000" stop="20250928220000 +0000" channel="ptv-bolan.pk"><title>CURRENT AFFAIRS TIME</title><desc>(REPEAT TELECAST)</desc></programme>
+<programme start="20250928220000 +0000" stop="20250929060000 +0000" channel="ptv-bolan.pk"><title>NATIONAL ANTHEM, And FLAG+CLOSE DOWN</title><desc>NATIONAL ANTHEM, And FLAG+CLOSE DOWN</desc></programme>
+<programme start="20250929060000 +0000" stop="20250929070000 +0000" channel="ptv-bolan.pk"><title>IQRA,</title><desc>(QURAAN-UL-HAKEEM) PARA NO 20/4 (PROGRAMME NO. 80).</desc></programme>
+<programme start="20250929070000 +0000" stop="20250929080000 +0000" channel="ptv-bolan.pk"><title>SUBH –E-BOLAN.</title><desc>(DMT- BRAHVI TIME) (LIVE)</desc></programme>
+<programme start="20250929080000 +0000" stop="20250929090000 +0000" channel="ptv-bolan.pk"><title>SUBH –E-BOLAN.</title><desc>(DMT- BALOCHI TIME) (LIVE)</desc></programme>
+<programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="ptv-bolan.pk"><title>SUBH –E-BOLAN.</title><desc>(DMT- PASHTO TIME) (LIVE)</desc></programme>
+<programme start="20250929110000 +0000" stop="20250929110500 +0000" channel="ptv-bolan.pk"><title>BALOCHI KHABRAIN</title><desc>(LIVE)</desc></programme>
+<programme start="20250929110500 +0000" stop="20250929111000 +0000" channel="ptv-bolan.pk"><title>BRAHVI KHABRAIN</title><desc>(LIVE)</desc></programme>
+<programme start="20250929111000 +0000" stop="20250929111500 +0000" channel="ptv-bolan.pk"><title>PASHTO KHABRAIN</title><desc>(LIVE)</desc></programme>
+<programme start="20250929111500 +0000" stop="20250929114000 +0000" channel="ptv-bolan.pk"><title>AW NAIKI DA KHANDA</title><desc>(PASHTO SERIAL PLAY ) EP NO 02 (REPEAT TELECAST)</desc></programme>
+<programme start="20250929114000 +0000" stop="20250929120000 +0000" channel="ptv-bolan.pk"><title>KHUND RUNG</title><desc>(PASHTO MUSIC PROGRAMME) (REPEAT TELECAST)</desc></programme>
+<programme start="20250929120000 +0000" stop="20250929124500 +0000" channel="ptv-bolan.pk"><title>BRAHVI TIME.</title><desc>(LIVE TRANSMISSION- REPEAT TELECAST)</desc></programme>
+<programme start="20250929124500 +0000" stop="20250929131000 +0000" channel="ptv-bolan.pk"><title>GUL RUNG</title><desc>(BRAHVI PROGRAMME) (REPEAT TELECAST)</desc></programme>
+<programme start="20250929131000 +0000" stop="20250929135500 +0000" channel="ptv-bolan.pk"><title>BALOCHI TIME.</title><desc>(LIVE TRANSMISSION- REPEAT TELECAST)</desc></programme>
+<programme start="20250929135500 +0000" stop="20250929141000 +0000" channel="ptv-bolan.pk"><title>ZEEMAL</title><desc>(BALOCHI MUSIC PROGRAMME (REPEAT TELECAST)</desc></programme>
+<programme start="20250929141000 +0000" stop="20250929150000 +0000" channel="ptv-bolan.pk"><title>PASHTO TIME.</title><desc>(LIVE TRANSMISSION- REPEAT TELECAST)</desc></programme>
+<programme start="20250929150000 +0000" stop="20250929151500 +0000" channel="ptv-bolan.pk"><title>ASMA-E-HUSANA+ASMA-E-RASOOL</title><desc>(SAW)+DAROOD-E-TAJ.+HAMD-O-NAAT)</desc></programme>
+<programme start="20250929151500 +0000" stop="20250929160000 +0000" channel="ptv-bolan.pk"><title>CURRENT AFFAIRS TIME</title><desc>(LIVE- BALOCHI)</desc></programme>
+<programme start="20250929160000 +0000" stop="20250929164000 +0000" channel="ptv-bolan.pk"><title>PAHAAR</title><desc>(BALOCHI SERIAL PLAY) EP NO. 06 (REPEAT TELECAST)</desc></programme>
+<programme start="20250929164000 +0000" stop="20250929170000 +0000" channel="ptv-bolan.pk"><title>ZEEMAL</title><desc>(BALOCHI MUSIC PROGRAMME) (REPEAT TELECAST)</desc></programme>
+<programme start="20250929170000 +0000" stop="20250929174000 +0000" channel="ptv-bolan.pk"><title>PAN RICH</title><desc>(BARAHVI SERIAL PLAY) EP NO.06 (REPEAT TELECAST)</desc></programme>
+<programme start="20250929174000 +0000" stop="20250929180000 +0000" channel="ptv-bolan.pk"><title>BULSUM</title><desc>(BRAHVI MUSIC PROGRAMME) (REPEAT TELECAST)</desc></programme>
+<programme start="20250929180000 +0000" stop="20250929181000 +0000" channel="ptv-bolan.pk"><title>BALOCHI KHABRAIN</title><desc>(LIVE)</desc></programme>
+<programme start="20250929181000 +0000" stop="20250929190000 +0000" channel="ptv-bolan.pk"><title>LIVE ANCHOR PERSON + GUEST + LIVE CALLS</title><desc>LIVE ANCHOR PERSON + GUEST + LIVE CALLS</desc></programme>
+<programme start="20250929190000 +0000" stop="20250929191000 +0000" channel="ptv-bolan.pk"><title>BRAHVI KHABRAIN</title><desc>(KHABRAAK). (LIVE)</desc></programme>
+<programme start="20250929191000 +0000" stop="20250929200000 +0000" channel="ptv-bolan.pk"><title>LIVE ANCHOR PERSON + GUEST + LIVE CALLS</title><desc>LIVE ANCHOR PERSON + GUEST + LIVE CALLS</desc></programme>
+<programme start="20250929200000 +0000" stop="20250929201000 +0000" channel="ptv-bolan.pk"><title>PASHTO KHABRAIN</title><desc>(KHABROONA). (LIVE)</desc></programme>
+<programme start="20250929201000 +0000" stop="20250929210500 +0000" channel="ptv-bolan.pk"><title>LIVE ANCHOR PE RSON + GUEST + LIVE CALLS</title><desc>LIVE ANCHOR PE RSON + GUEST + LIVE CALLS</desc></programme>
+<programme start="20250929210500 +0000" stop="20250929213000 +0000" channel="ptv-bolan.pk"><title>AW NAIKI DA KHANDA</title><desc>(PASHTO SERIAL PLAY ) EP NO 02 (REPEAT TELECAST)</desc></programme>
+<programme start="20250929213000 +0000" stop="20250929220000 +0000" channel="ptv-bolan.pk"><title>KHUND RUNG</title><desc>(PASHTO MUSIC PROGRAMME) (REPEAT TELECAST)</desc></programme>
+<programme start="20250929220000 +0000" stop="20250930060000 +0000" channel="ptv-bolan.pk"><title>NATIONAL ANTHEM, And FLAG+CLOSE DOWN</title><desc>NATIONAL ANTHEM, And FLAG+CLOSE DOWN</desc></programme>
+<programme start="20250929033000 +0000" stop="20250929040000 +0000" channel="ptv-home.pk"><title>IBTEDA</title><desc>(FRESH)</desc></programme>
+<programme start="20250929040000 +0000" stop="20250929050000 +0000" channel="ptv-home.pk"><title>IQRA</title><desc>(EP: 45)</desc></programme>
+<programme start="20250929050000 +0000" stop="20250929053000 +0000" channel="ptv-home.pk"><title>IBTEDA</title><desc>(FRESH)</desc></programme>
+<programme start="20250929053000 +0000" stop="20250929070000 +0000" channel="ptv-home.pk"><title>RISING PAKISTAN</title><desc>(LIVE)</desc></programme>
+<programme start="20250929070000 +0000" stop="20250929073000 +0000" channel="ptv-home.pk"><title>HERITAGE IN YOUNG HANDS</title><desc>(EP: 01)) (RPT)</desc></programme>
+<programme start="20250929073000 +0000" stop="20250929080000 +0000" channel="ptv-home.pk"><title>TASHREEF LAYE</title><desc>(EP: 09) (RPT)</desc></programme>
+<programme start="20250929080000 +0000" stop="20250929100000 +0000" channel="ptv-home.pk"><title>MORNING@ HOME:</title><desc>(LIVE)</desc></programme>
+<programme start="20250929100000 +0000" stop="20250929110500 +0000" channel="ptv-home.pk"><title>BARBAROSA</title><desc>(DRAMA SERIAL) (EP: 87) (RPT)</desc></programme>
+<programme start="20250929110500 +0000" stop="20250929120000 +0000" channel="ptv-home.pk"><title>STAR And STYLE</title><desc>(RPT)</desc></programme>
+<programme start="20250929120000 +0000" stop="20250929123500 +0000" channel="ptv-home.pk"><title>SOTAILAY</title><desc>(EP: 15) (RPT)</desc></programme>
+<programme start="20250929123500 +0000" stop="20250929130000 +0000" channel="ptv-home.pk"><title>RAWAITON KI LAZZAT</title><desc>(EP: 62) (RPT)</desc></programme>
+<programme start="20250929130000 +0000" stop="20250929133000 +0000" channel="ptv-home.pk"><title>LITTLE CHEF</title><desc>(EP: 06) (RPT)</desc></programme>
+<programme start="20250929133000 +0000" stop="20250929140000 +0000" channel="ptv-home.pk"><title>TASHREEF LAYE</title><desc>(EP: 09) (RPT)</desc></programme>
+<programme start="20250929140000 +0000" stop="20250929152000 +0000" channel="ptv-home.pk"><title>RISING PAKISTAN</title><desc>(RPT)</desc></programme>
+<programme start="20250929152000 +0000" stop="20250929153000 +0000" channel="ptv-home.pk"><title>AL-QURA’AN</title><desc>AL-QURA’AN</desc></programme>
+<programme start="20250929153000 +0000" stop="20250929160000 +0000" channel="ptv-home.pk"><title>LITTLE CHEF</title><desc>(EP: 07) (RPT)</desc></programme>
+<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="ptv-home.pk"><title>HERITAGE IN YOUNG HANDS</title><desc>(EP: 01) (RPT)</desc></programme>
+<programme start="20250929163000 +0000" stop="20250929170500 +0000" channel="ptv-home.pk"><title>TASHREEF LAYE</title><desc>(EP: 10)</desc></programme>
+<programme start="20250929170500 +0000" stop="20250929175500 +0000" channel="ptv-home.pk"><title>SOTAILAY</title><desc>(EP: 16)</desc></programme>
+<programme start="20250929175500 +0000" stop="20250929190000 +0000" channel="ptv-home.pk"><title>BARBAROSA</title><desc>(DRAMA SERIAL) (EP: 88)</desc></programme>
+<programme start="20250929190000 +0000" stop="20250929191000 +0000" channel="ptv-home.pk"><title>KHABARNAMA</title><desc>(HEADLINES ONLY) (LIVE)</desc></programme>
+<programme start="20250929191000 +0000" stop="20250929191000 +0000" channel="ptv-home.pk"><title>HERITAGE IN YOUNG HANDS</title><desc>(EP: 01) (RPT)</desc></programme>
+<programme start="20250929191000 +0000" stop="20250929200000 +0000" channel="ptv-home.pk"><title>SOTAILAY</title><desc>(EP: 16) (RPT)</desc></programme>
+<programme start="20250929200000 +0000" stop="20250929210000 +0000" channel="ptv-home.pk"><title>DAR AND DARLING</title><desc>(EP: 55)(RPT)</desc></programme>
+<programme start="20250929210000 +0000" stop="20250930033000 +0000" channel="ptv-home.pk"><title>BARBAROSA</title><desc>(DRAMA SERIAL) (EP: 88) (RPT)</desc></programme>
+<programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="ptv-home.pk"><title>IBTEDA</title><desc>(FRESH)</desc></programme>
+<programme start="20250930040000 +0000" stop="20250930050000 +0000" channel="ptv-home.pk"><title>IQRA</title><desc>(EP: 46)</desc></programme>
+<programme start="20250929030000 +0000" stop="20250929030500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929030500 +0000" stop="20250929040000 +0000" channel="ptv-news.pk"><title>Iqra</title><desc>Iqra</desc></programme>
+<programme start="20250929040000 +0000" stop="20250929050000 +0000" channel="ptv-news.pk"><title>News Bulletin</title><desc>News Bulletin</desc></programme>
+<programme start="20250929050000 +0000" stop="20250929050500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929050500 +0000" stop="20250929060000 +0000" channel="ptv-news.pk"><title>Ibteda</title><desc>Ibteda</desc></programme>
+<programme start="20250929060000 +0000" stop="20250929060500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929060500 +0000" stop="20250929070000 +0000" channel="ptv-news.pk"><title>Jaiza</title><desc>(LIVE)</desc></programme>
+<programme start="20250929070000 +0000" stop="20250929070500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929070500 +0000" stop="20250929080000 +0000" channel="ptv-news.pk"><title>Subha-e-Pakistan</title><desc>Subha-e-Pakistan</desc></programme>
+<programme start="20250929080000 +0000" stop="20250929080500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929080500 +0000" stop="20250929090000 +0000" channel="ptv-news.pk"><title>Subha-e-Pakistan</title><desc>Subha-e-Pakistan</desc></programme>
+<programme start="20250929090000 +0000" stop="20250929090500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929090500 +0000" stop="20250929100000 +0000" channel="ptv-news.pk"><title>Chotha Satoon</title><desc>(RPT)</desc></programme>
+<programme start="20250929100000 +0000" stop="20250929103000 +0000" channel="ptv-news.pk"><title>News bulletin</title><desc>News bulletin</desc></programme>
+<programme start="20250929103000 +0000" stop="20250929110000 +0000" channel="ptv-news.pk"><title>Sara Pakistan</title><desc>Sara Pakistan</desc></programme>
+<programme start="20250929110000 +0000" stop="20250929110500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929110500 +0000" stop="20250929120000 +0000" channel="ptv-news.pk"><title>Siasi Ahwal</title><desc>(Rpt)</desc></programme>
+<programme start="20250929120000 +0000" stop="20250929120500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250929120500 +0000" stop="20250929130000 +0000" channel="ptv-news.pk"><title>Sud Rang</title><desc>(RPT)</desc></programme>
+<programme start="20250929130000 +0000" stop="20250929130500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250929130500 +0000" stop="20250929133000 +0000" channel="ptv-news.pk"><title>Parliament News</title><desc>Parliament News</desc></programme>
+<programme start="20250929133000 +0000" stop="20250929140000 +0000" channel="ptv-news.pk"><title>Kashmiri News + Gojri + Sheena + Balti</title><desc>Kashmiri News + Gojri + Sheena + Balti</desc></programme>
+<programme start="20250929140000 +0000" stop="20250929140500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250929140500 +0000" stop="20250929150000 +0000" channel="ptv-news.pk"><title>Sports 360</title><desc>(LIVE)</desc></programme>
+<programme start="20250929150000 +0000" stop="20250929150500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250929150500 +0000" stop="20250929160000 +0000" channel="ptv-news.pk"><title>Baat Karobar Ki</title><desc>(LIVE)</desc></programme>
+<programme start="20250929160000 +0000" stop="20250929160500 +0000" channel="ptv-news.pk"><title>News Show @ 6</title><desc>News Show @ 6</desc></programme>
+<programme start="20250929160500 +0000" stop="20250929165500 +0000" channel="ptv-news.pk"><title>Capital View</title><desc>Capital View</desc></programme>
+<programme start="20250929165500 +0000" stop="20250929170000 +0000" channel="ptv-news.pk"><title>Arabic News</title><desc>Arabic News</desc></programme>
+<programme start="20250929170000 +0000" stop="20250929170500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250929170500 +0000" stop="20250929180000 +0000" channel="ptv-news.pk"><title>7 Bajay Gohar Kay Sath</title><desc>7 Bajay Gohar Kay Sath</desc></programme>
+<programme start="20250929180000 +0000" stop="20250929180500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250929180500 +0000" stop="20250929190000 +0000" channel="ptv-news.pk"><title>Riasat</title><desc>Riasat</desc></programme>
+<programme start="20250929190000 +0000" stop="20250929195500 +0000" channel="ptv-news.pk"><title>News Room 9</title><desc>News Room 9</desc></programme>
+<programme start="20250929195500 +0000" stop="20250929200000 +0000" channel="ptv-news.pk"><title>Kashmir Report</title><desc>Kashmir Report</desc></programme>
+<programme start="20250929200000 +0000" stop="20250929200500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250929200500 +0000" stop="20250929210000 +0000" channel="ptv-news.pk"><title>Sach Tu Yeh Hay</title><desc>Sach Tu Yeh Hay</desc></programme>
+<programme start="20250929210000 +0000" stop="20250929210500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250929210500 +0000" stop="20250930030000 +0000" channel="ptv-news.pk"><title>Current Affairs Special</title><desc>Current Affairs Special</desc></programme>
+<programme start="20250930030000 +0000" stop="20250930030500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250930030500 +0000" stop="20250930040000 +0000" channel="ptv-news.pk"><title>Iqra</title><desc>Iqra</desc></programme>
+<programme start="20250930040000 +0000" stop="20250930050000 +0000" channel="ptv-news.pk"><title>News bulletin</title><desc>News bulletin</desc></programme>
+<programme start="20250928221000 +0000" stop="20250929010000 +0000" channel="ptv-sports.pk"><title>EPL 2024-2025 CRYSTAL PALACE VS LIVERPOOL</title><desc>(30-05-25) (REPEAT)</desc></programme>
+<programme start="20250929010000 +0000" stop="20250929050000 +0000" channel="ptv-sports.pk"><title>WIMEBLDON CLASSIC 2019 NOVAK DJOKOVIC VS ROGER FEDERER</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929050000 +0000" stop="20250929060000 +0000" channel="ptv-sports.pk"><title>H/L ASIA CUP 2025 MATCH 5 SRI VS BAN</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929060000 +0000" stop="20250929070000 +0000" channel="ptv-sports.pk"><title>ABB FIA FORMULA E CHAMPIONSHIP ROUND 05 MIAMI</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929070000 +0000" stop="20250929080000 +0000" channel="ptv-sports.pk"><title>1st COMMERCIAL H/L ASIA CUP 2025 MATCH 6 PAK VS IND</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929080000 +0000" stop="20250929081000 +0000" channel="ptv-sports.pk"><title>SPORTS BULLETIN 1st</title><desc>(15-09-2025)</desc></programme>
+<programme start="20250929081000 +0000" stop="20250929090000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 3 BAN VS HONG KONG</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="ptv-sports.pk"><title>EPL 2024-25 CHELSEA VS CRYSTAL PALACE</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929110000 +0000" stop="20250929120000 +0000" channel="ptv-sports.pk"><title>2nd COMMERCIAL H/L ASIA CUP 2025 MATCH 6 PAK VS IND</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929120000 +0000" stop="20250929130000 +0000" channel="ptv-sports.pk"><title>WIMBLEDON CLASSIC 2022 DJOKOVIC VS KYRGIOUS FINAL</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929130000 +0000" stop="20250929132000 +0000" channel="ptv-sports.pk"><title>MMA 2025</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929132000 +0000" stop="20250929133000 +0000" channel="ptv-sports.pk"><title>SPORTS BULLETIN 2nd</title><desc>(15-09-2025)</desc></programme>
+<programme start="20250929133000 +0000" stop="20250929143000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 6 PAK VS IND</title><desc>(REPEAT)</desc></programme>
+<programme start="20250929143000 +0000" stop="20250929160000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 7 UAE VS OMAN LIVE</title><desc>ASIA CUP 2025 MATCH 7 UAE VS OMAN LIVE</desc></programme>
+<programme start="20250929160000 +0000" stop="20250929173000 +0000" channel="ptv-sports.pk"><title>PRE MATCH SHOW “GAME ON HAI” LIVE</title><desc>PRE MATCH SHOW “GAME ON HAI” LIVE</desc></programme>
+<programme start="20250929173000 +0000" stop="20250929210000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 8 SRI VS HONG KONG LIVE</title><desc>ASIA CUP 2025 MATCH 8 SRI VS HONG KONG LIVE</desc></programme>
+<programme start="20250929210000 +0000" stop="20250929220000 +0000" channel="ptv-sports.pk"><title>POST MATCH SHOW “GAME ON HAI” LIVE</title><desc>POST MATCH SHOW “GAME ON HAI” LIVE</desc></programme>
+<programme start="20250929220000 +0000" stop="20250929230000 +0000" channel="ptv-sports.pk"><title>EPL 2024-2025 CRYSTAL PALACE VS LIVERPOOL</title><desc>(30-05-25) (REPEAT)</desc></programme>
+<programme start="20250929230000 +0000" stop="20250930010000 +0000" channel="ptv-sports.pk"><title>BETVICTOR EUROPEAN MASTERS SF RONNIE O SULLIVAN VS LIANG</title><desc>(LAST 4 FRAMES) (REPEAT)</desc></programme>
+<programme start="20250930010000 +0000" stop="20250930020000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 13 SUPER 4 SRI VS BAN</title><desc>(REPEAT)</desc></programme>
+<programme start="20250930020000 +0000" stop="20250930060000 +0000" channel="ptv-sports.pk"><title>WIMEBLDON CLASSIC 2019 NOVAK DJOKOVIC VS ROGER FEDERER</title><desc>(REPEAT)</desc></programme>
 </tv>
