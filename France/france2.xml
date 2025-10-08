@@ -34,50 +34,56 @@
 <channel id="TV7.fr"><display-name>TV7.fr</display-name></channel>
 <channel id="W9.fr"><display-name>W9.fr</display-name></channel>
 <channel id="YouTube.fr"><display-name>YouTube.fr</display-name></channel>
-<programme start="20251007193000 +0000" stop="20251017193000 +0000" channel="BFM Lyon.fr"><title>Versailles · Villefranche-s.-S.</title><desc>Versailles · Villefranche-s.-S.</desc></programme>
-<programme start="20251007184500 +0000" stop="20251007210000 +0000" channel="Disney+.fr"><title>Juventus Turin · Benfica Fem.</title><desc>Juventus Turin · Benfica Fem.</desc></programme>
-<programme start="20251007210000 +0000" stop="20251007210000 +0000" channel="Disney+.fr"><title>Arsenal · Lyon OL Fem.</title><desc>Arsenal · Lyon OL Fem.</desc></programme>
-<programme start="20251007210000 +0000" stop="20251007210000 +0000" channel="Disney+.fr"><title>Barcelone · Bayern Fem.</title><desc>Barcelone · Bayern Fem.</desc></programme>
-<programme start="20251007210000 +0000" stop="20251008184500 +0000" channel="Disney+.fr"><title>Paris FC · Louvain Fem.</title><desc>Paris FC · Louvain Fem.</desc></programme>
-<programme start="20251008184500 +0000" stop="20251008184500 +0000" channel="Disney+.fr"><title>Real Madrid · Roma Fem.</title><desc>Real Madrid · Roma Fem.</desc></programme>
-<programme start="20251008184500 +0000" stop="20251008210000 +0000" channel="Disney+.fr"><title>Twente · Chelsea Fem.</title><desc>Twente · Chelsea Fem.</desc></programme>
-<programme start="20251008210000 +0000" stop="20251008210000 +0000" channel="Disney+.fr"><title>Wolfsbourg · Paris PSG Fem.</title><desc>Wolfsbourg · Paris PSG Fem.</desc></programme>
+<programme start="20251008184500 +0000" stop="20251008184500 +0000" channel="Disney+.fr"><title>Twente · Chelsea Fem.</title><desc>Twente · Chelsea Fem.</desc></programme>
+<programme start="20251008184500 +0000" stop="20251008210000 +0000" channel="Disney+.fr"><title>Real Madrid · Roma Fem.</title><desc>Real Madrid · Roma Fem.</desc></programme>
 <programme start="20251008210000 +0000" stop="20251008210000 +0000" channel="Disney+.fr"><title>Manchester United · Valerenga Fem.</title><desc>Manchester United · Valerenga Fem.</desc></programme>
-<programme start="20251008210000 +0000" stop="20251015184500 +0000" channel="Disney+.fr"><title>St-Polten · Atletico Fem.</title><desc>St-Polten · Atletico Fem.</desc></programme>
-<programme start="20251007213000 +0000" stop="20251008010000 +0000" channel="L’Equipe Live Foot.fr"><title>Ukraine · Espagne</title><desc>Ukraine · Espagne</desc></programme>
-<programme start="20251008010000 +0000" stop="20251008150000 +0000" channel="L’Equipe Live Foot.fr"><title>Chili · Mexique</title><desc>Chili · Mexique</desc></programme>
-<programme start="20251008150000 +0000" stop="20251008150000 +0000" channel="L’Equipe Live Foot.fr"><title>Libye · Cap Vert</title><desc>Libye · Cap Vert</desc></programme>
-<programme start="20251008150000 +0000" stop="20251008180000 +0000" channel="L’Equipe Live Foot.fr"><title>Maurice · Cameroun</title><desc>Maurice · Cameroun</desc></programme>
-<programme start="20251008180000 +0000" stop="20251008180000 +0000" channel="L’Equipe Live Foot.fr"><title>Comores · Madagascar</title><desc>Comores · Madagascar</desc></programme>
-<programme start="20251008180000 +0000" stop="20251008213000 +0000" channel="L’Equipe Live Foot.fr"><title>Djibouti · Egypte</title><desc>Djibouti · Egypte</desc></programme>
+<programme start="20251008210000 +0000" stop="20251008210000 +0000" channel="Disney+.fr"><title>St-Polten · Atletico Fem.</title><desc>St-Polten · Atletico Fem.</desc></programme>
+<programme start="20251008210000 +0000" stop="20251015184500 +0000" channel="Disney+.fr"><title>Wolfsbourg · Paris PSG Fem.</title><desc>Wolfsbourg · Paris PSG Fem.</desc></programme>
+<programme start="20251008150000 +0000" stop="20251008150000 +0000" channel="L’Equipe Live Foot.fr"><title>Maurice · Cameroun</title><desc>Maurice · Cameroun</desc></programme>
+<programme start="20251008150000 +0000" stop="20251008180000 +0000" channel="L’Equipe Live Foot.fr"><title>Libye · Cap Vert</title><desc>Libye · Cap Vert</desc></programme>
+<programme start="20251008180000 +0000" stop="20251008180000 +0000" channel="L’Equipe Live Foot.fr"><title>Djibouti · Egypte</title><desc>Djibouti · Egypte</desc></programme>
+<programme start="20251008180000 +0000" stop="20251008213000 +0000" channel="L’Equipe Live Foot.fr"><title>Comores · Madagascar</title><desc>Comores · Madagascar</desc></programme>
 <programme start="20251008213000 +0000" stop="20251008213000 +0000" channel="L’Equipe Live Foot.fr"><title>Argentine · Nigeria</title><desc>Argentine · Nigeria</desc></programme>
 <programme start="20251008213000 +0000" stop="20251009010000 +0000" channel="L’Equipe Live Foot.fr"><title>Colombie · Afrique du Sud</title><desc>Colombie · Afrique du Sud</desc></programme>
-<programme start="20251009010000 +0000" stop="20251009010000 +0000" channel="L’Equipe Live Foot.fr"><title>France · Japon</title><desc>France · Japon</desc></programme>
 <programme start="20251009010000 +0000" stop="20251009180000 +0000" channel="L’Equipe Live Foot.fr"><title>Paraguay · Norvège</title><desc>Paraguay · Norvège</desc></programme>
-<programme start="20251007210000 +0000" stop="20251007213000 +0000" channel="L’Equipe.fr"><title>Arsenal · Lyon OL Fem.</title><desc>Arsenal · Lyon OL Fem.</desc></programme>
-<programme start="20251007213000 +0000" stop="20251008010000 +0000" channel="L’Equipe.fr"><title>Ukraine · Espagne</title><desc>Ukraine · Espagne</desc></programme>
-<programme start="20251008010000 +0000" stop="20251008150000 +0000" channel="L’Equipe.fr"><title>Chili · Mexique</title><desc>Chili · Mexique</desc></programme>
+<programme start="20251009180000 +0000" stop="20251009204500 +0000" channel="L’Equipe Live Foot.fr"><title>Somalie · Algerie</title><desc>Somalie · Algerie</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="L’Equipe Live Foot.fr"><title>Republique Tchèque · Croatie</title><desc>Republique Tchèque · Croatie</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="L’Equipe Live Foot.fr"><title>Angleterre · Pays Galles</title><desc>Angleterre · Pays Galles</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009213000 +0000" channel="L’Equipe Live Foot.fr"><title>Malte · Pays-Bas</title><desc>Malte · Pays-Bas</desc></programme>
+<programme start="20251009213000 +0000" stop="20251010010000 +0000" channel="L’Equipe Live Foot.fr"><title>Etats-Unis · Italie</title><desc>Etats-Unis · Italie</desc></programme>
+<programme start="20251010010000 +0000" stop="20251010012359 +0000" channel="L’Equipe Live Foot.fr"><title>Maroc · Coree Sud</title><desc>Maroc · Coree Sud</desc></programme>
 <programme start="20251008150000 +0000" stop="20251008150000 +0000" channel="L’Equipe.fr"><title>Libye · Cap Vert</title><desc>Libye · Cap Vert</desc></programme>
 <programme start="20251008150000 +0000" stop="20251008180000 +0000" channel="L’Equipe.fr"><title>Maurice · Cameroun</title><desc>Maurice · Cameroun</desc></programme>
-<programme start="20251008180000 +0000" stop="20251008180000 +0000" channel="L’Equipe.fr"><title>Comores · Madagascar</title><desc>Comores · Madagascar</desc></programme>
-<programme start="20251008180000 +0000" stop="20251008213000 +0000" channel="L’Equipe.fr"><title>Djibouti · Egypte</title><desc>Djibouti · Egypte</desc></programme>
-<programme start="20251008213000 +0000" stop="20251008213000 +0000" channel="L’Equipe.fr"><title>Argentine · Nigeria</title><desc>Argentine · Nigeria</desc></programme>
-<programme start="20251008213000 +0000" stop="20251009010000 +0000" channel="L’Equipe.fr"><title>Colombie · Afrique du Sud</title><desc>Colombie · Afrique du Sud</desc></programme>
+<programme start="20251008180000 +0000" stop="20251008180000 +0000" channel="L’Equipe.fr"><title>Djibouti · Egypte</title><desc>Djibouti · Egypte</desc></programme>
+<programme start="20251008180000 +0000" stop="20251008213000 +0000" channel="L’Equipe.fr"><title>Comores · Madagascar</title><desc>Comores · Madagascar</desc></programme>
+<programme start="20251008213000 +0000" stop="20251008213000 +0000" channel="L’Equipe.fr"><title>Colombie · Afrique du Sud</title><desc>Colombie · Afrique du Sud</desc></programme>
+<programme start="20251008213000 +0000" stop="20251009010000 +0000" channel="L’Equipe.fr"><title>Argentine · Nigeria</title><desc>Argentine · Nigeria</desc></programme>
 <programme start="20251009010000 +0000" stop="20251009010000 +0000" channel="L’Equipe.fr"><title>Paraguay · Norvège</title><desc>Paraguay · Norvège</desc></programme>
+<programme start="20251009010000 +0000" stop="20251009010000 +0000" channel="L’Equipe.fr"><title>France · Japon</title><desc>France · Japon</desc></programme>
 <programme start="20251009010000 +0000" stop="20251009180000 +0000" channel="L’Equipe.fr"><title>France · Japon</title><desc>France · Japon</desc></programme>
-<programme start="20251007193000 +0000" stop="20251007210000 +0000" channel="TNT.fr"><title>Versailles · Villefranche-s.-S.</title><desc>Versailles · Villefranche-s.-S.</desc></programme>
-<programme start="20251007210000 +0000" stop="20251007213000 +0000" channel="TNT.fr"><title>Arsenal · Lyon OL Fem.</title><desc>Arsenal · Lyon OL Fem.</desc></programme>
-<programme start="20251007213000 +0000" stop="20251008010000 +0000" channel="TNT.fr"><title>Ukraine · Espagne</title><desc>Ukraine · Espagne</desc></programme>
-<programme start="20251008010000 +0000" stop="20251008150000 +0000" channel="TNT.fr"><title>Chili · Mexique</title><desc>Chili · Mexique</desc></programme>
+<programme start="20251009180000 +0000" stop="20251009204500 +0000" channel="L’Equipe.fr"><title>Somalie · Algerie</title><desc>Somalie · Algerie</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="L’Equipe.fr"><title>Tchèquie · Croatie</title><desc>Tchèquie · Croatie</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="L’Equipe.fr"><title>Malte · Pays-Bas</title><desc>Malte · Pays-Bas</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="L’Equipe.fr"><title>Angleterre · Pays Galles</title><desc>Angleterre · Pays Galles</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009213000 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251009213000 +0000" stop="20251010010000 +0000" channel="L’Equipe.fr"><title>Etats-Unis · Italie</title><desc>Etats-Unis · Italie</desc></programme>
+<programme start="20251010010000 +0000" stop="20251010012359 +0000" channel="L’Equipe.fr"><title>Maroc · Coree Sud</title><desc>Maroc · Coree Sud</desc></programme>
 <programme start="20251008150000 +0000" stop="20251008150000 +0000" channel="TNT.fr"><title>Libye · Cap Vert</title><desc>Libye · Cap Vert</desc></programme>
 <programme start="20251008150000 +0000" stop="20251008180000 +0000" channel="TNT.fr"><title>Maurice · Cameroun</title><desc>Maurice · Cameroun</desc></programme>
-<programme start="20251008180000 +0000" stop="20251008180000 +0000" channel="TNT.fr"><title>Comores · Madagascar</title><desc>Comores · Madagascar</desc></programme>
-<programme start="20251008180000 +0000" stop="20251008213000 +0000" channel="TNT.fr"><title>Djibouti · Egypte</title><desc>Djibouti · Egypte</desc></programme>
-<programme start="20251008213000 +0000" stop="20251008213000 +0000" channel="TNT.fr"><title>Colombie · Afrique du Sud</title><desc>Colombie · Afrique du Sud</desc></programme>
-<programme start="20251008213000 +0000" stop="20251009010000 +0000" channel="TNT.fr"><title>Argentine · Nigeria</title><desc>Argentine · Nigeria</desc></programme>
-<programme start="20251009010000 +0000" stop="20251009010000 +0000" channel="TNT.fr"><title>Paraguay · Norvège</title><desc>Paraguay · Norvège</desc></programme>
-<programme start="20251009010000 +0000" stop="20251009180000 +0000" channel="TNT.fr"><title>France · Japon</title><desc>France · Japon</desc></programme>
-<programme start="20251007193000 +0000" stop="20251008120000 +0000" channel="YouTube.fr"><title>Versailles · Villefranche-s.-S.</title><desc>Versailles · Villefranche-s.-S.</desc></programme>
-<programme start="20251008120000 +0000" stop="20251008120000 +0000" channel="YouTube.fr"><title>Kawasaki Frontale · Kashima</title><desc>Kawasaki Frontale · Kashima</desc></programme>
-<programme start="20251008120000 +0000" stop="20251010180000 +0000" channel="YouTube.fr"><title>Yokohama FC · Hiroshima</title><desc>Yokohama FC · Hiroshima</desc></programme>
+<programme start="20251008180000 +0000" stop="20251008180000 +0000" channel="TNT.fr"><title>Djibouti · Egypte</title><desc>Djibouti · Egypte</desc></programme>
+<programme start="20251008180000 +0000" stop="20251008213000 +0000" channel="TNT.fr"><title>Comores · Madagascar</title><desc>Comores · Madagascar</desc></programme>
+<programme start="20251008213000 +0000" stop="20251008213000 +0000" channel="TNT.fr"><title>Argentine · Nigeria</title><desc>Argentine · Nigeria</desc></programme>
+<programme start="20251008213000 +0000" stop="20251009010000 +0000" channel="TNT.fr"><title>Colombie · Afrique du Sud</title><desc>Colombie · Afrique du Sud</desc></programme>
+<programme start="20251009010000 +0000" stop="20251009010000 +0000" channel="TNT.fr"><title>France · Japon</title><desc>France · Japon</desc></programme>
+<programme start="20251009010000 +0000" stop="20251009180000 +0000" channel="TNT.fr"><title>Paraguay · Norvège</title><desc>Paraguay · Norvège</desc></programme>
+<programme start="20251009180000 +0000" stop="20251009204500 +0000" channel="TNT.fr"><title>Somalie · Algerie</title><desc>Somalie · Algerie</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="TNT.fr"><title>Tchèquie · Croatie</title><desc>Tchèquie · Croatie</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="TNT.fr"><title>Angleterre · Pays Galles</title><desc>Angleterre · Pays Galles</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009204500 +0000" channel="TNT.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251009204500 +0000" stop="20251009213000 +0000" channel="TNT.fr"><title>Malte · Pays-Bas</title><desc>Malte · Pays-Bas</desc></programme>
+<programme start="20251009213000 +0000" stop="20251010010000 +0000" channel="TNT.fr"><title>Etats-Unis · Italie</title><desc>Etats-Unis · Italie</desc></programme>
+<programme start="20251010010000 +0000" stop="20251010012359 +0000" channel="TNT.fr"><title>Maroc · Coree Sud</title><desc>Maroc · Coree Sud</desc></programme>
+<programme start="20251008120000 +0000" stop="20251008120000 +0000" channel="YouTube.fr"><title>Yokohama FC · Hiroshima</title><desc>Yokohama FC · Hiroshima</desc></programme>
+<programme start="20251008120000 +0000" stop="20251010180000 +0000" channel="YouTube.fr"><title>Kawasaki Frontale · Kashima</title><desc>Kawasaki Frontale · Kashima</desc></programme>
 </tv>
