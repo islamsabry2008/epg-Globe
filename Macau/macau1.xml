@@ -8,22 +8,6 @@
 <channel id="TDM Info Ch.94.mo"><display-name>TDM Info Ch.94.mo</display-name></channel>
 <channel id="TDM Ou Mun Ch. 91.mo"><display-name>TDM Ou Mun Ch. 91.mo</display-name></channel>
 <channel id="TDM Sport Ch.93.mo"><display-name>TDM Sport Ch.93.mo</display-name></channel>
-<programme start="20251024053000 +0000" stop="20251024063000 +0000" channel="Canal Macau Ch. 92.mo"><title>News (RTPi) Delayed Broadcast</title></programme>
-<programme start="20251024063000 +0000" stop="20251024070000 +0000" channel="Canal Macau Ch. 92.mo"><title>We Cook With You</title></programme>
-<programme start="20251024070000 +0000" stop="20251024075000 +0000" channel="Canal Macau Ch. 92.mo"><title>A Herdeira S2</title></programme>
-<programme start="20251024075000 +0000" stop="20251024080500 +0000" channel="Canal Macau Ch. 92.mo"><title>Mouk</title></programme>
-<programme start="20251024080500 +0000" stop="20251024085000 +0000" channel="Canal Macau Ch. 92.mo"><title>Red Moon</title></programme>
-<programme start="20251024085000 +0000" stop="20251024094000 +0000" channel="Canal Macau Ch. 92.mo"><title>Kallys Mashup</title></programme>
-<programme start="20251024094000 +0000" stop="20251024103000 +0000" channel="Canal Macau Ch. 92.mo"><title>Broken Bonds (Repeated) - Finale</title></programme>
-<programme start="20251024103000 +0000" stop="20251024111000 +0000" channel="Canal Macau Ch. 92.mo"><title>A Minha Geraçao</title></programme>
-<programme start="20251024111000 +0000" stop="20251024120000 +0000" channel="Canal Macau Ch. 92.mo"><title>Cacau</title></programme>
-<programme start="20251024120000 +0000" stop="20251024124500 +0000" channel="Canal Macau Ch. 92.mo"><title>Main News, Financial and Weather Report</title></programme>
-<programme start="20251024124500 +0000" stop="20251024131500 +0000" channel="Canal Macau Ch. 92.mo"><title>Greater Bay Wealth</title><desc>Find out all about the economy and the latest businesses in the Greater Bay Area.Friday at 8:45PM</desc></programme>
-<programme start="20251024131500 +0000" stop="20251024134000 +0000" channel="Canal Macau Ch. 92.mo"><title>Superstore S4</title></programme>
-<programme start="20251024134000 +0000" stop="20251024143000 +0000" channel="Canal Macau Ch. 92.mo"><title>Pantanal - Premiere</title></programme>
-<programme start="20251024143000 +0000" stop="20251024150500 +0000" channel="Canal Macau Ch. 92.mo"><title>TDM News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
-<programme start="20251024150500 +0000" stop="20251024160500 +0000" channel="Canal Macau Ch. 92.mo"><title>Equador</title></programme>
-<programme start="20251024160500 +0000" stop="20251025053000 +0000" channel="Canal Macau Ch. 92.mo"><title>RTPi Live</title></programme>
 <programme start="20251025053000 +0000" stop="20251025063000 +0000" channel="Canal Macau Ch. 92.mo"><title>News (RTPi) Delayed Broadcast</title></programme>
 <programme start="20251025063000 +0000" stop="20251025065500 +0000" channel="Canal Macau Ch. 92.mo"><title>Africa On a Plate</title><desc>Africa on a Plate is a series that incorporates cooking with travel and culture hosted by up and coming young chef, Lentswe Bhengu.Saturday at 2:30PM</desc></programme>
 <programme start="20251025065500 +0000" stop="20251025072000 +0000" channel="Canal Macau Ch. 92.mo"><title>Dr. Lisa To The Rescue</title><desc>A passionate vet with a heart of gold and countless four-legged battlers just looking for love. Dr. Lisa matches orphaned and abandoned animals with new homes. Best of all, the pets get a chance for a new life.Saturday at 2:55PM</desc></programme>
@@ -43,57 +27,27 @@
 <programme start="20251025150500 +0000" stop="20251025163000 +0000" channel="Canal Macau Ch. 92.mo"><title>When You Finish Saving The World</title></programme>
 <programme start="20251025163000 +0000" stop="20251026025500 +0000" channel="Canal Macau Ch. 92.mo"><title>RTPi Live</title></programme>
 <programme start="20251026025500 +0000" stop="20251026041000 +0000" channel="Canal Macau Ch. 92.mo"><title>Sunday Mass (Live)</title></programme>
-<programme start="20251023160100 +0000" stop="20251023163000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Passado Em Foco</title></programme>
-<programme start="20251023163000 +0000" stop="20251023170000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
-<programme start="20251023170000 +0000" stop="20251023173000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>#Hipsters Choice</title></programme>
-<programme start="20251023173000 +0000" stop="20251023180000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>English News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
-<programme start="20251023180000 +0000" stop="20251023184000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
-<programme start="20251023184000 +0000" stop="20251023185000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
-<programme start="20251023185000 +0000" stop="20251023192000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Repeat of Good Morning Macau</title></programme>
-<programme start="20251023192000 +0000" stop="20251023194000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Macau Citywalk - World Heritage</title></programme>
-<programme start="20251023194000 +0000" stop="20251023195000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cobalt and Clay</title></programme>
-<programme start="20251023195000 +0000" stop="20251023204000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Taiwan 1945</title></programme>
-<programme start="20251023204000 +0000" stop="20251023205000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Home Cooking</title></programme>
-<programme start="20251023205000 +0000" stop="20251023213000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
-<programme start="20251023213000 +0000" stop="20251023220000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>#Hipsters Choice</title></programme>
-<programme start="20251023220000 +0000" stop="20251023223000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Passado Em Foco</title></programme>
-<programme start="20251023223000 +0000" stop="20251023230000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
-<programme start="20251023230000 +0000" stop="20251023233000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Saboroso</title></programme>
-<programme start="20251023233000 +0000" stop="20251024000000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>English News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
-<programme start="20251024000000 +0000" stop="20251024002000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Macau Citywalk - World Heritage</title></programme>
-<programme start="20251024002000 +0000" stop="20251024003000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
-<programme start="20251024003000 +0000" stop="20251024005000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024005000 +0000" stop="20251024012000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>All About the Greater Bay Area</title></programme>
-<programme start="20251024012000 +0000" stop="20251024020000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Wind and Fire</title></programme>
-<programme start="20251024020000 +0000" stop="20251024023000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
-<programme start="20251024023000 +0000" stop="20251024030000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Missao Virgem-Estadia-Na China</title></programme>
-<programme start="20251024030000 +0000" stop="20251024032500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>A Natureza Dos Homens E Dos Animais</title></programme>
-<programme start="20251024032500 +0000" stop="20251024035000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>#Hipsters Choice</title></programme>
-<programme start="20251024035000 +0000" stop="20251024042000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Passado Em Foco</title></programme>
-<programme start="20251024042000 +0000" stop="20251024045000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
-<programme start="20251024045000 +0000" stop="20251024052000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Saboroso</title></programme>
-<programme start="20251024052000 +0000" stop="20251024060000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Wind and Fire</title></programme>
-<programme start="20251024060000 +0000" stop="20251024063000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
-<programme start="20251024063000 +0000" stop="20251024065000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024065000 +0000" stop="20251024070000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Slowstep Yore</title></programme>
-<programme start="20251024070000 +0000" stop="20251024074000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
-<programme start="20251024074000 +0000" stop="20251024081000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Missao Virgem-Estadia-Na China</title></programme>
-<programme start="20251024081000 +0000" stop="20251024083500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>A Natureza Dos Homens E Dos Animais</title></programme>
-<programme start="20251024083500 +0000" stop="20251024090000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Passado Em Foco</title></programme>
-<programme start="20251024090000 +0000" stop="20251024095000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Taiwan 1945</title></programme>
-<programme start="20251024095000 +0000" stop="20251024100000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Home Cooking</title></programme>
-<programme start="20251024100000 +0000" stop="20251024103000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>English News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
-<programme start="20251024103000 +0000" stop="20251024105000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Macau Citywalk - World Heritage</title></programme>
-<programme start="20251024105000 +0000" stop="20251024110000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cobalt and Clay</title></programme>
-<programme start="20251024110000 +0000" stop="20251024120000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
-<programme start="20251024120000 +0000" stop="20251024122000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024122000 +0000" stop="20251024130000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Wind and Fire</title></programme>
-<programme start="20251024130000 +0000" stop="20251024135000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Taiwan 1945</title></programme>
-<programme start="20251024135000 +0000" stop="20251024140000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
-<programme start="20251024140000 +0000" stop="20251024145000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
-<programme start="20251024145000 +0000" stop="20251024150000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Slowstep Yore</title></programme>
-<programme start="20251024150000 +0000" stop="20251024154000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
-<programme start="20251024154000 +0000" stop="20251024160100 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251026041000 +0000" stop="20251026043500 +0000" channel="Canal Macau Ch. 92.mo"><title>Macau Old Store - Inheritance</title></programme>
+<programme start="20251026043500 +0000" stop="20251026050500 +0000" channel="Canal Macau Ch. 92.mo"><title>Chinese ‧ Western Pastries</title></programme>
+<programme start="20251026050500 +0000" stop="20251026053000 +0000" channel="Canal Macau Ch. 92.mo"><title>#Hipsters Choice</title></programme>
+<programme start="20251026053000 +0000" stop="20251026063000 +0000" channel="Canal Macau Ch. 92.mo"><title>News (RTPi) Delayed Broadcast</title></programme>
+<programme start="20251026063000 +0000" stop="20251026070000 +0000" channel="Canal Macau Ch. 92.mo"><title>TDM Entrevista - Presidente do Supremo Tribunal de Justiça Joao Cura Mariano (Repeated)</title></programme>
+<programme start="20251026070000 +0000" stop="20251026072500 +0000" channel="Canal Macau Ch. 92.mo"><title>Cozinha de Chef S1</title></programme>
+<programme start="20251026072500 +0000" stop="20251026080000 +0000" channel="Canal Macau Ch. 92.mo"><title>Greater Bay Wealth (Repeated)</title><desc>Find out all about the economy and the latest businesses in the Greater Bay Area.Friday at 8:45PM</desc></programme>
+<programme start="20251026080000 +0000" stop="20251026082500 +0000" channel="Canal Macau Ch. 92.mo"><title>Guess How Much I Love You S2 - Finale</title></programme>
+<programme start="20251026082500 +0000" stop="20251026085000 +0000" channel="Canal Macau Ch. 92.mo"><title>Atomic Puppet</title></programme>
+<programme start="20251026085000 +0000" stop="20251026091500 +0000" channel="Canal Macau Ch. 92.mo"><title>Bionic Max</title></programme>
+<programme start="20251026091500 +0000" stop="20251026092500 +0000" channel="Canal Macau Ch. 92.mo"><title>Omm-Moo - Yoga para Niños</title></programme>
+<programme start="20251026092500 +0000" stop="20251026101500 +0000" channel="Canal Macau Ch. 92.mo"><title>Pedro Around the World S3 - Finale</title></programme>
+<programme start="20251026101500 +0000" stop="20251026110000 +0000" channel="Canal Macau Ch. 92.mo"><title>Bem-Vindos a Beirais</title></programme>
+<programme start="20251026110000 +0000" stop="20251026113000 +0000" channel="Canal Macau Ch. 92.mo"><title>The Boat Show</title></programme>
+<programme start="20251026113000 +0000" stop="20251026120000 +0000" channel="Canal Macau Ch. 92.mo"><title>Single and Ready to Mingle</title></programme>
+<programme start="20251026120000 +0000" stop="20251026124500 +0000" channel="Canal Macau Ch. 92.mo"><title>Main News, Financial and Weather Report</title></programme>
+<programme start="20251026124500 +0000" stop="20251026135000 +0000" channel="Canal Macau Ch. 92.mo"><title>O Estado da Regiao</title></programme>
+<programme start="20251026135000 +0000" stop="20251026143000 +0000" channel="Canal Macau Ch. 92.mo"><title>Passado ao Vivo</title></programme>
+<programme start="20251026143000 +0000" stop="20251026150500 +0000" channel="Canal Macau Ch. 92.mo"><title>TDM News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
+<programme start="20251026150500 +0000" stop="20251026160500 +0000" channel="Canal Macau Ch. 92.mo"><title>Historys Great Lies</title></programme>
+<programme start="20251026160500 +0000" stop="20251027053000 +0000" channel="Canal Macau Ch. 92.mo"><title>RTPi Live</title></programme>
 <programme start="20251024160100 +0000" stop="20251024163000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Greater Bay Wealth</title><desc>Find out all about the economy and the latest businesses in the Greater Bay Area.Friday at 8:45PM</desc></programme>
 <programme start="20251024163000 +0000" stop="20251024165100 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
 <programme start="20251024165100 +0000" stop="20251024170000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
@@ -182,38 +136,64 @@
 <programme start="20251026020000 +0000" stop="20251026023000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Family Affairs</title></programme>
 <programme start="20251026023000 +0000" stop="20251026030000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Missao Virgem-Estadia-Na China</title></programme>
 <programme start="20251026030000 +0000" stop="20251026032000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese Cuisine Enjoyed All Over the World</title></programme>
-<programme start="20251023230000 +0000" stop="20251023231500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251023231500 +0000" stop="20251023232000 +0000" channel="Rádio Macau FM98.mo"><title>Cafe da Manha</title></programme>
-<programme start="20251023232000 +0000" stop="20251023233000 +0000" channel="Rádio Macau FM98.mo"><title>Revista de Imprensa</title></programme>
-<programme start="20251023233000 +0000" stop="20251023234500 +0000" channel="Rádio Macau FM98.mo"><title>Síntese Informativa</title></programme>
-<programme start="20251023234500 +0000" stop="20251024000000 +0000" channel="Rádio Macau FM98.mo"><title>Top Musica</title></programme>
-<programme start="20251024000000 +0000" stop="20251024001500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024001500 +0000" stop="20251024002000 +0000" channel="Rádio Macau FM98.mo"><title>Cafe da Manha</title></programme>
-<programme start="20251024002000 +0000" stop="20251024003000 +0000" channel="Rádio Macau FM98.mo"><title>Revista de Imprensa</title></programme>
-<programme start="20251024003000 +0000" stop="20251024004500 +0000" channel="Rádio Macau FM98.mo"><title>Síntese Informativa</title></programme>
-<programme start="20251024004500 +0000" stop="20251024010000 +0000" channel="Rádio Macau FM98.mo"><title>Plano B</title></programme>
-<programme start="20251024010000 +0000" stop="20251024011500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024011500 +0000" stop="20251024020000 +0000" channel="Rádio Macau FM98.mo"><title>Cafe da Manha</title></programme>
-<programme start="20251024020000 +0000" stop="20251024021500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024021500 +0000" stop="20251024033000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
-<programme start="20251024033000 +0000" stop="20251024040000 +0000" channel="Rádio Macau FM98.mo"><title>Revista de Imprensa</title></programme>
-<programme start="20251024040000 +0000" stop="20251024041500 +0000" channel="Rádio Macau FM98.mo"><title>Jornal de Desporto</title></programme>
-<programme start="20251024041500 +0000" stop="20251024043000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
-<programme start="20251024043000 +0000" stop="20251024050000 +0000" channel="Rádio Macau FM98.mo"><title>Economia e Negocios</title></programme>
-<programme start="20251024050000 +0000" stop="20251024051500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024051500 +0000" stop="20251024060000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
-<programme start="20251024060000 +0000" stop="20251024061500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024061500 +0000" stop="20251024063000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
-<programme start="20251024063000 +0000" stop="20251024070000 +0000" channel="Rádio Macau FM98.mo"><title>Som da Semana</title></programme>
-<programme start="20251024070000 +0000" stop="20251024071500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024071500 +0000" stop="20251024080000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
-<programme start="20251024080000 +0000" stop="20251024100000 +0000" channel="Rádio Macau FM98.mo"><title>Fado a Oriente</title></programme>
-<programme start="20251024100000 +0000" stop="20251024101500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024101500 +0000" stop="20251024103000 +0000" channel="Rádio Macau FM98.mo"><title>Plano B</title></programme>
-<programme start="20251024103000 +0000" stop="20251024110000 +0000" channel="Rádio Macau FM98.mo"><title>Som da Semana</title></programme>
-<programme start="20251024110000 +0000" stop="20251024111500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
-<programme start="20251024111500 +0000" stop="20251024120000 +0000" channel="Rádio Macau FM98.mo"><title>Frequencia Academica</title></programme>
-<programme start="20251024120000 +0000" stop="20251025000000 +0000" channel="Rádio Macau FM98.mo"><title>Ligaçao à Antena 1</title></programme>
+<programme start="20251026032000 +0000" stop="20251026033000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
+<programme start="20251026033000 +0000" stop="20251026040000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>#Hipsters Choice</title></programme>
+<programme start="20251026040000 +0000" stop="20251026042000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Passado Em Foco</title></programme>
+<programme start="20251026042000 +0000" stop="20251026044500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
+<programme start="20251026044500 +0000" stop="20251026051500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>The Encyclopedia Of Classic Cars</title></programme>
+<programme start="20251026051500 +0000" stop="20251026053500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>View of the World</title></programme>
+<programme start="20251026053500 +0000" stop="20251026055000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Ui Di Sabroso</title></programme>
+<programme start="20251026055000 +0000" stop="20251026060000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cobalt and Clay</title></programme>
+<programme start="20251026060000 +0000" stop="20251026062500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Family Affairs</title></programme>
+<programme start="20251026062500 +0000" stop="20251026065000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>The Prince of Ceylons Journey To The East</title></programme>
+<programme start="20251026065000 +0000" stop="20251026070000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Overview of The Current Affairs</title></programme>
+<programme start="20251026070000 +0000" stop="20251026074000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
+<programme start="20251026074000 +0000" stop="20251026081000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Missao Virgem-Estadia-Na China</title></programme>
+<programme start="20251026081000 +0000" stop="20251026083000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese Cuisine Enjoyed All Over the World</title></programme>
+<programme start="20251026083000 +0000" stop="20251026085000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Passado Em Foco</title></programme>
+<programme start="20251026085000 +0000" stop="20251026090000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
+<programme start="20251026090000 +0000" stop="20251026095000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Taiwan 1945</title></programme>
+<programme start="20251026095000 +0000" stop="20251026100000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Home Cooking</title></programme>
+<programme start="20251026100000 +0000" stop="20251026103000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>English News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
+<programme start="20251026103000 +0000" stop="20251026105000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Macau Citywalk - World Heritage</title></programme>
+<programme start="20251026105000 +0000" stop="20251026110000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cobalt and Clay</title></programme>
+<programme start="20251026110000 +0000" stop="20251026115500 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
+<programme start="20251026115500 +0000" stop="20251026120000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Overview of The Current Affairs</title></programme>
+<programme start="20251026120000 +0000" stop="20251026122000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251026122000 +0000" stop="20251026124000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>View of the World</title></programme>
+<programme start="20251026124000 +0000" stop="20251026125100 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Ui Di Sabroso</title></programme>
+<programme start="20251026125100 +0000" stop="20251026130000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
+<programme start="20251026130000 +0000" stop="20251026135000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Taiwan 1945</title></programme>
+<programme start="20251026135000 +0000" stop="20251026140000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cobalt and Clay</title></programme>
+<programme start="20251026140000 +0000" stop="20251026145000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
+<programme start="20251026145000 +0000" stop="20251026150000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Overview of The Current Affairs</title></programme>
+<programme start="20251026150000 +0000" stop="20251026154000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
+<programme start="20251026154000 +0000" stop="20251026160100 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251026160100 +0000" stop="20251026163100 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>TDM Entrevista</title></programme>
+<programme start="20251026163100 +0000" stop="20251026165000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
+<programme start="20251026165000 +0000" stop="20251026170000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
+<programme start="20251026170000 +0000" stop="20251026173000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>#Hipsters Choice</title></programme>
+<programme start="20251026173000 +0000" stop="20251026180000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>English News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
+<programme start="20251026180000 +0000" stop="20251026184000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
+<programme start="20251026184000 +0000" stop="20251026185000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cobalt and Clay</title></programme>
+<programme start="20251026185000 +0000" stop="20251026192000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Family Affairs</title></programme>
+<programme start="20251026192000 +0000" stop="20251026195000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Macau Citywalk - World Heritage</title></programme>
+<programme start="20251026195000 +0000" stop="20251026204000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Taiwan 1945</title></programme>
+<programme start="20251026204000 +0000" stop="20251026205000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Home Cooking</title></programme>
+<programme start="20251026205000 +0000" stop="20251026213000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Telejornal</title></programme>
+<programme start="20251026213000 +0000" stop="20251026220000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>#Hipsters Choice</title></programme>
+<programme start="20251026220000 +0000" stop="20251026223000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>TDM Entrevista</title></programme>
+<programme start="20251026223000 +0000" stop="20251026225000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Santa Casa da Misericordia de Macau</title></programme>
+<programme start="20251026225000 +0000" stop="20251026225900 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Livros Com Joao Guedes</title></programme>
+<programme start="20251026225900 +0000" stop="20251026233000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>The Encyclopedia Of Classic Cars</title></programme>
+<programme start="20251026233000 +0000" stop="20251027000000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>English News</title><desc>30-minute daily news program in English with essential information about Macau, Greater China, the Asia-Pacific region and the rest of the world. It includes also sports and cultural news.Every day at 10:30PM</desc></programme>
+<programme start="20251027000000 +0000" stop="20251027003000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Macau Citywalk - World Heritage</title></programme>
+<programme start="20251027003000 +0000" stop="20251027005000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251027005000 +0000" stop="20251027012000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Family Affairs</title></programme>
+<programme start="20251027012000 +0000" stop="20251027020000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>City News Net of China</title></programme>
+<programme start="20251027020000 +0000" stop="20251027023000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese News</title></programme>
+<programme start="20251027023000 +0000" stop="20251027030000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Missao Virgem-Estadia-Na China</title></programme>
+<programme start="20251027030000 +0000" stop="20251027032000 +0000" channel="Ou Mun-Macau Ch.96.mo"><title>Cantonese Cuisine Enjoyed All Over the World</title></programme>
 <programme start="20251025000000 +0000" stop="20251025001500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
 <programme start="20251025001500 +0000" stop="20251025010000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
 <programme start="20251025010000 +0000" stop="20251025011500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
@@ -240,35 +220,49 @@
 <programme start="20251026020000 +0000" stop="20251026021500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
 <programme start="20251026021500 +0000" stop="20251026030000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
 <programme start="20251026030000 +0000" stop="20251026050000 +0000" channel="Rádio Macau FM98.mo"><title>Scherzo - Música Clássica</title></programme>
-<programme start="20251024015900 +0000" stop="20251024020000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Open</title></programme>
-<programme start="20251024020000 +0000" stop="20251024040000 +0000" channel="TDM Entertainment Ch.95.mo"><title>News Summary</title></programme>
-<programme start="20251024040000 +0000" stop="20251024045000 +0000" channel="TDM Entertainment Ch.95.mo"><title>The Fearless</title></programme>
-<programme start="20251024045000 +0000" stop="20251024045500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Jilin Land of Mystery</title></programme>
-<programme start="20251024045500 +0000" stop="20251024050000 +0000" channel="TDM Entertainment Ch.95.mo"><title>My Land, My People</title></programme>
-<programme start="20251024050000 +0000" stop="20251024050500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Noon Weather Report</title></programme>
-<programme start="20251024050500 +0000" stop="20251024051500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Focus China</title></programme>
-<programme start="20251024051500 +0000" stop="20251024052000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Good Morning Macau : Highlights</title></programme>
-<programme start="20251024052000 +0000" stop="20251024052500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Having Fun in Tang Poetry</title></programme>
-<programme start="20251024052500 +0000" stop="20251024053000 +0000" channel="TDM Entertainment Ch.95.mo"><title>TDM Focus</title></programme>
-<programme start="20251024053000 +0000" stop="20251024060000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Noon News</title></programme>
-<programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Financial Daily</title></programme>
-<programme start="20251024070000 +0000" stop="20251024075000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Taiwan 1945</title></programme>
-<programme start="20251024075000 +0000" stop="20251024080000 +0000" channel="TDM Entertainment Ch.95.mo"><title>World Heritage Sites</title></programme>
-<programme start="20251024080000 +0000" stop="20251024092000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Sing For Your Dream</title></programme>
-<programme start="20251024092000 +0000" stop="20251024093000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Meet Generation Z</title></programme>
-<programme start="20251024093000 +0000" stop="20251024095900 +0000" channel="TDM Entertainment Ch.95.mo"><title>Repeat of Good Morning Macau</title></programme>
-<programme start="20251024095900 +0000" stop="20251024100000 +0000" channel="TDM Entertainment Ch.95.mo"><title>TDM Focus</title></programme>
-<programme start="20251024100000 +0000" stop="20251024102500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Happy Family Life 2</title></programme>
-<programme start="20251024102500 +0000" stop="20251024120000 +0000" channel="TDM Entertainment Ch.95.mo"><title>In Time With You</title></programme>
-<programme start="20251024120000 +0000" stop="20251024123000 +0000" channel="TDM Entertainment Ch.95.mo"><title>The Canine Coach III</title></programme>
-<programme start="20251024123000 +0000" stop="20251024130000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Homeland of Panda</title></programme>
-<programme start="20251024130000 +0000" stop="20251024133000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Chinese Embroidery</title></programme>
-<programme start="20251024133000 +0000" stop="20251024150300 +0000" channel="TDM Entertainment Ch.95.mo"><title>Movie: Crazy Old Father</title></programme>
-<programme start="20251024150300 +0000" stop="20251024151000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Macao World Heritage "City Walk"</title></programme>
-<programme start="20251024151000 +0000" stop="20251024160100 +0000" channel="TDM Entertainment Ch.95.mo"><title>ChangBai Mountain</title></programme>
-<programme start="20251024160100 +0000" stop="20251025015900 +0000" channel="TDM Entertainment Ch.95.mo"><title>Close</title></programme>
+<programme start="20251026050000 +0000" stop="20251026051500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251026051500 +0000" stop="20251026060000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
+<programme start="20251026060000 +0000" stop="20251026061500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251026061500 +0000" stop="20251026070000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
+<programme start="20251026070000 +0000" stop="20251026071500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251026071500 +0000" stop="20251026073000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
+<programme start="20251026073000 +0000" stop="20251026080000 +0000" channel="Rádio Macau FM98.mo"><title>Som da Semana</title></programme>
+<programme start="20251026080000 +0000" stop="20251026090000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
+<programme start="20251026090000 +0000" stop="20251026100000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
+<programme start="20251026100000 +0000" stop="20251026110000 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251026110000 +0000" stop="20251026120000 +0000" channel="Rádio Macau FM98.mo"><title>Pandora</title></programme>
+<programme start="20251026120000 +0000" stop="20251026230000 +0000" channel="Rádio Macau FM98.mo"><title>Ligaçao à Antena 1</title></programme>
+<programme start="20251026230000 +0000" stop="20251026231500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251026231500 +0000" stop="20251026232000 +0000" channel="Rádio Macau FM98.mo"><title>Cafe da Manha</title></programme>
+<programme start="20251026232000 +0000" stop="20251026233000 +0000" channel="Rádio Macau FM98.mo"><title>Revista de Imprensa</title></programme>
+<programme start="20251026233000 +0000" stop="20251026234500 +0000" channel="Rádio Macau FM98.mo"><title>Síntese Informativa</title></programme>
+<programme start="20251026234500 +0000" stop="20251027000000 +0000" channel="Rádio Macau FM98.mo"><title>Top Musica</title></programme>
+<programme start="20251027000000 +0000" stop="20251027001500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251027001500 +0000" stop="20251027002000 +0000" channel="Rádio Macau FM98.mo"><title>Cafe da Manha</title></programme>
+<programme start="20251027002000 +0000" stop="20251027003000 +0000" channel="Rádio Macau FM98.mo"><title>Revista de Imprensa</title></programme>
+<programme start="20251027003000 +0000" stop="20251027010000 +0000" channel="Rádio Macau FM98.mo"><title>Síntese Informativa</title></programme>
+<programme start="20251027010000 +0000" stop="20251027011500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251027011500 +0000" stop="20251027020000 +0000" channel="Rádio Macau FM98.mo"><title>Cafe da Manha</title></programme>
+<programme start="20251027020000 +0000" stop="20251027021500 +0000" channel="Rádio Macau FM98.mo"><title>Noticiário</title></programme>
+<programme start="20251027021500 +0000" stop="20251027033000 +0000" channel="Rádio Macau FM98.mo"><title>Emissao em Directo</title></programme>
 <programme start="20251025015900 +0000" stop="20251025020000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Open</title></programme>
-<programme start="20251025020000 +0000" stop="20251025080000 +0000" channel="TDM Entertainment Ch.95.mo"><title>(SAME AS “TDM OU MUN”)</title></programme>
+<programme start="20251025020000 +0000" stop="20251025023000 +0000" channel="TDM Entertainment Ch.95.mo"><title>News Summary</title></programme>
+<programme start="20251025023000 +0000" stop="20251025030000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Macau News File (Repeat)</title></programme>
+<programme start="20251025030000 +0000" stop="20251025040000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Surviving Japanese Invasion</title></programme>
+<programme start="20251025040000 +0000" stop="20251025045000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Born To Shine</title></programme>
+<programme start="20251025045000 +0000" stop="20251025045500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Jilin Land of Mystery</title></programme>
+<programme start="20251025045500 +0000" stop="20251025050000 +0000" channel="TDM Entertainment Ch.95.mo"><title>My Land, My People</title></programme>
+<programme start="20251025050000 +0000" stop="20251025050500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Noon Weather Report</title></programme>
+<programme start="20251025050500 +0000" stop="20251025051500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Overview of The Current Affairs</title></programme>
+<programme start="20251025051500 +0000" stop="20251025052000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Good Morning Macau : Highlights</title></programme>
+<programme start="20251025052000 +0000" stop="20251025052500 +0000" channel="TDM Entertainment Ch.95.mo"><title>"You Ask, We Answer" Guangdong-Macao Laws Livestream</title></programme>
+<programme start="20251025052500 +0000" stop="20251025053000 +0000" channel="TDM Entertainment Ch.95.mo"><title>TDM Focus</title></programme>
+<programme start="20251025053000 +0000" stop="20251025060000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Noon News</title></programme>
+<programme start="20251025060000 +0000" stop="20251025065000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Foodie Trio</title></programme>
+<programme start="20251025065000 +0000" stop="20251025070000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Macao World Heritage "City Walk"</title></programme>
+<programme start="20251025070000 +0000" stop="20251025073500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Macau News File (Repeat)</title></programme>
+<programme start="20251025073500 +0000" stop="20251025075000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Macau Historical Figure</title></programme>
+<programme start="20251025075000 +0000" stop="20251025080000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Good Morning Macau : Highlights</title></programme>
 <programme start="20251025080000 +0000" stop="20251025093000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Dream Home</title></programme>
 <programme start="20251025093000 +0000" stop="20251025095900 +0000" channel="TDM Entertainment Ch.95.mo"><title>Repeat of Good Morning Macau</title></programme>
 <programme start="20251025095900 +0000" stop="20251025100000 +0000" channel="TDM Entertainment Ch.95.mo"><title>TDM Focus</title></programme>
@@ -281,51 +275,39 @@
 <programme start="20251025155000 +0000" stop="20251025160100 +0000" channel="TDM Entertainment Ch.95.mo"><title>Slowstep Yore</title></programme>
 <programme start="20251025160100 +0000" stop="20251026015900 +0000" channel="TDM Entertainment Ch.95.mo"><title>Close</title></programme>
 <programme start="20251026015900 +0000" stop="20251026020000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Open</title></programme>
-<programme start="20251026020000 +0000" stop="20251026080000 +0000" channel="TDM Entertainment Ch.95.mo"><title>(SAME AS “TDM OU MUN”)</title></programme>
-<programme start="20251023225900 +0000" stop="20251023230000 +0000" channel="TDM Info Ch.94.mo"><title>Open</title></programme>
-<programme start="20251023230000 +0000" stop="20251023235500 +0000" channel="TDM Info Ch.94.mo"><title>TDM Morning News</title></programme>
-<programme start="20251023235500 +0000" stop="20251024000000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
-<programme start="20251024000000 +0000" stop="20251024010000 +0000" channel="TDM Info Ch.94.mo"><title>Good Morning Macau</title></programme>
-<programme start="20251024010000 +0000" stop="20251024013000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Morning News (Repeat)</title></programme>
-<programme start="20251024013000 +0000" stop="20251024020000 +0000" channel="TDM Info Ch.94.mo"><title>All About the Greater Bay Area</title></programme>
-<programme start="20251024020000 +0000" stop="20251024040000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024040000 +0000" stop="20251024042000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024042000 +0000" stop="20251024042500 +0000" channel="TDM Info Ch.94.mo"><title>Focus China</title></programme>
-<programme start="20251024042500 +0000" stop="20251024043000 +0000" channel="TDM Info Ch.94.mo"><title>Food Price Update</title></programme>
-<programme start="20251024043000 +0000" stop="20251024050000 +0000" channel="TDM Info Ch.94.mo"><title>All About the Greater Bay Area</title></programme>
-<programme start="20251024050000 +0000" stop="20251024052300 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024052300 +0000" stop="20251024052800 +0000" channel="TDM Info Ch.94.mo"><title>Focus China</title></programme>
-<programme start="20251024052800 +0000" stop="20251024053000 +0000" channel="TDM Info Ch.94.mo"><title>Noon Weather Report</title></programme>
-<programme start="20251024053000 +0000" stop="20251024060000 +0000" channel="TDM Info Ch.94.mo"><title>Noon News</title></programme>
-<programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="TDM Info Ch.94.mo"><title>Financial Daily</title></programme>
-<programme start="20251024070000 +0000" stop="20251024072500 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024072500 +0000" stop="20251024073000 +0000" channel="TDM Info Ch.94.mo"><title>Food Price Update</title></programme>
-<programme start="20251024073000 +0000" stop="20251024080000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024080000 +0000" stop="20251024083000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024083000 +0000" stop="20251024090000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024090000 +0000" stop="20251024093000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024093000 +0000" stop="20251024095500 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024095500 +0000" stop="20251024100000 +0000" channel="TDM Info Ch.94.mo"><title>Focus China</title></programme>
-<programme start="20251024100000 +0000" stop="20251024100500 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
-<programme start="20251024100500 +0000" stop="20251024100600 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
-<programme start="20251024100600 +0000" stop="20251024103200 +0000" channel="TDM Info Ch.94.mo"><title>Repeat of Good Morning Macau</title></programme>
-<programme start="20251024103200 +0000" stop="20251024110000 +0000" channel="TDM Info Ch.94.mo"><title>All About the Greater Bay Area</title></programme>
-<programme start="20251024110000 +0000" stop="20251024115500 +0000" channel="TDM Info Ch.94.mo"><title>TDM News</title></programme>
-<programme start="20251024115500 +0000" stop="20251024115900 +0000" channel="TDM Info Ch.94.mo"><title>Weather Report</title></programme>
-<programme start="20251024115900 +0000" stop="20251024120000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
-<programme start="20251024120000 +0000" stop="20251024130000 +0000" channel="TDM Info Ch.94.mo"><title>TDM News (Taped)</title></programme>
-<programme start="20251024130000 +0000" stop="20251024140000 +0000" channel="TDM Info Ch.94.mo"><title>TDM News (Taped)</title></programme>
-<programme start="20251024140000 +0000" stop="20251024143100 +0000" channel="TDM Info Ch.94.mo"><title>Pu-Tong-Hua News</title></programme>
-<programme start="20251024143100 +0000" stop="20251024150400 +0000" channel="TDM Info Ch.94.mo"><title>Macau News File</title></programme>
-<programme start="20251024150400 +0000" stop="20251024151500 +0000" channel="TDM Info Ch.94.mo"><title>Patrimonio Cultural Intangível de Macau</title></programme>
-<programme start="20251024151500 +0000" stop="20251024155000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Late News</title></programme>
-<programme start="20251024155000 +0000" stop="20251024160500 +0000" channel="TDM Info Ch.94.mo"><title>Sport News</title></programme>
-<programme start="20251024160500 +0000" stop="20251024163500 +0000" channel="TDM Info Ch.94.mo"><title>City Report of China</title></programme>
-<programme start="20251024163500 +0000" stop="20251024164500 +0000" channel="TDM Info Ch.94.mo"><title>Slowstep Yore</title></programme>
-<programme start="20251024164500 +0000" stop="20251024171500 +0000" channel="TDM Info Ch.94.mo"><title>Pu-Tong-Hua News (Taped)</title></programme>
-<programme start="20251024171500 +0000" stop="20251024175000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Late News (Taped)</title></programme>
-<programme start="20251024175000 +0000" stop="20251024180000 +0000" channel="TDM Info Ch.94.mo"><title>Sport News (Repeat)</title></programme>
-<programme start="20251024180000 +0000" stop="20251024225900 +0000" channel="TDM Info Ch.94.mo"><title>Close</title></programme>
+<programme start="20251026020000 +0000" stop="20251026022100 +0000" channel="TDM Entertainment Ch.95.mo"><title>News Summary</title></programme>
+<programme start="20251026022100 +0000" stop="20251026023000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Browsing globel anecdote on Sunday</title></programme>
+<programme start="20251026023000 +0000" stop="20251026024500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Police for Citizens</title></programme>
+<programme start="20251026024500 +0000" stop="20251026030000 +0000" channel="TDM Entertainment Ch.95.mo"><title>View of the World (Repeat)</title></programme>
+<programme start="20251026030000 +0000" stop="20251026040000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Good Morning Macau : Weekly Highlights</title></programme>
+<programme start="20251026040000 +0000" stop="20251026045000 +0000" channel="TDM Entertainment Ch.95.mo"><title>I Do, Do I？</title></programme>
+<programme start="20251026045000 +0000" stop="20251026045500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Jilin Land of Mystery</title></programme>
+<programme start="20251026045500 +0000" stop="20251026050000 +0000" channel="TDM Entertainment Ch.95.mo"><title>My Land, My People</title></programme>
+<programme start="20251026050000 +0000" stop="20251026050500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Noon Weather Report</title></programme>
+<programme start="20251026050500 +0000" stop="20251026051500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Browsing globel anecdote on Sunday</title></programme>
+<programme start="20251026051500 +0000" stop="20251026052000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Good Morning Macau : Highlights</title></programme>
+<programme start="20251026052000 +0000" stop="20251026052500 +0000" channel="TDM Entertainment Ch.95.mo"><title>"You Ask, We Answer" Guangdong-Macao Laws Livestream</title></programme>
+<programme start="20251026052500 +0000" stop="20251026053000 +0000" channel="TDM Entertainment Ch.95.mo"><title>TDM Focus</title></programme>
+<programme start="20251026053000 +0000" stop="20251026060000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Noon News</title></programme>
+<programme start="20251026060000 +0000" stop="20251026073000 +0000" channel="TDM Entertainment Ch.95.mo"><title>The Lions Secret</title></programme>
+<programme start="20251026073000 +0000" stop="20251026074100 +0000" channel="TDM Entertainment Ch.95.mo"><title>Ao Km - Season 1</title></programme>
+<programme start="20251026074100 +0000" stop="20251026080000 +0000" channel="TDM Entertainment Ch.95.mo"><title>View of the World (Repeat)</title></programme>
+<programme start="20251026080000 +0000" stop="20251026092500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Xing Guang Da Dao</title></programme>
+<programme start="20251026092500 +0000" stop="20251026095200 +0000" channel="TDM Entertainment Ch.95.mo"><title>Animal Life at the Zoo</title></programme>
+<programme start="20251026095200 +0000" stop="20251026095900 +0000" channel="TDM Entertainment Ch.95.mo"><title>World Heritage Sites</title></programme>
+<programme start="20251026095900 +0000" stop="20251026100000 +0000" channel="TDM Entertainment Ch.95.mo"><title>TDM Focus</title></programme>
+<programme start="20251026100000 +0000" stop="20251026102500 +0000" channel="TDM Entertainment Ch.95.mo"><title>Happy Family Life 2</title></programme>
+<programme start="20251026102500 +0000" stop="20251026120000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Customer First</title></programme>
+<programme start="20251026120000 +0000" stop="20251026123000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Moving Forward</title></programme>
+<programme start="20251026123000 +0000" stop="20251026140000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Xi Jingping Thought on Economy</title></programme>
+<programme start="20251026140000 +0000" stop="20251026145000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Downton Abbey Season 6</title></programme>
+<programme start="20251026145000 +0000" stop="20251026150000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Sichuan Intangible Cultural Heritage (S3)</title></programme>
+<programme start="20251026150000 +0000" stop="20251026155000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Superstore Season 2</title></programme>
+<programme start="20251026155000 +0000" stop="20251026160100 +0000" channel="TDM Entertainment Ch.95.mo"><title>Slowstep Yore</title></programme>
+<programme start="20251026160100 +0000" stop="20251027015900 +0000" channel="TDM Entertainment Ch.95.mo"><title>Close</title></programme>
+<programme start="20251027015900 +0000" stop="20251027020000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Open</title></programme>
+<programme start="20251027020000 +0000" stop="20251027023000 +0000" channel="TDM Entertainment Ch.95.mo"><title>News Summary</title></programme>
+<programme start="20251027023000 +0000" stop="20251027032000 +0000" channel="TDM Entertainment Ch.95.mo"><title>Foodie Trio</title></programme>
 <programme start="20251024225900 +0000" stop="20251024230000 +0000" channel="TDM Info Ch.94.mo"><title>Open</title></programme>
 <programme start="20251024230000 +0000" stop="20251024235500 +0000" channel="TDM Info Ch.94.mo"><title>TDM Morning News</title></programme>
 <programme start="20251024235500 +0000" stop="20251025000000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
@@ -397,66 +379,55 @@
 <programme start="20251026022500 +0000" stop="20251026023000 +0000" channel="TDM Info Ch.94.mo"><title>Browsing Globel Anecdote on Sunday</title></programme>
 <programme start="20251026023000 +0000" stop="20251026030000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
 <programme start="20251026030000 +0000" stop="20251026033500 +0000" channel="TDM Info Ch.94.mo"><title>USilk - Mission So Journey in China (Repeat)</title></programme>
-<programme start="20251023230000 +0000" stop="20251023235500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Morning News</title></programme>
-<programme start="20251023235500 +0000" stop="20251024000000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
-<programme start="20251024000000 +0000" stop="20251024010000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau</title></programme>
-<programme start="20251024010000 +0000" stop="20251024010500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Having Fun in Tang Poetry</title></programme>
-<programme start="20251024010500 +0000" stop="20251024012500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024012500 +0000" stop="20251024020000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Finding Home in Blossoms</title></programme>
-<programme start="20251024020000 +0000" stop="20251024040000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>News Summary</title></programme>
-<programme start="20251024040000 +0000" stop="20251024045000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>The Fearless</title></programme>
-<programme start="20251024045000 +0000" stop="20251024045500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Jilin Land of Mystery</title></programme>
-<programme start="20251024045500 +0000" stop="20251024050000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>My Land, My People</title></programme>
-<programme start="20251024050000 +0000" stop="20251024050500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Noon Weather Report</title></programme>
-<programme start="20251024050500 +0000" stop="20251024051500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Focus China</title></programme>
-<programme start="20251024051500 +0000" stop="20251024052000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau : Highlights</title></programme>
-<programme start="20251024052000 +0000" stop="20251024052500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Having Fun in Tang Poetry</title></programme>
-<programme start="20251024052500 +0000" stop="20251024053000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
-<programme start="20251024053000 +0000" stop="20251024060000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Noon News</title></programme>
-<programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Financial Daily</title></programme>
-<programme start="20251024070000 +0000" stop="20251024075000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Taiwan 1945</title></programme>
-<programme start="20251024075000 +0000" stop="20251024075500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>World Heritage Sites</title></programme>
-<programme start="20251024075500 +0000" stop="20251024082500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Children Programme: Shoot and Score</title></programme>
-<programme start="20251024082500 +0000" stop="20251024084500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Children Programme: Space Protectors (S1)</title></programme>
-<programme start="20251024084500 +0000" stop="20251024085600 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Children Programme: Clangers</title></programme>
-<programme start="20251024085600 +0000" stop="20251024090000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Having Fun in Tang Poetry</title></programme>
-<programme start="20251024090000 +0000" stop="20251024093000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Children Programme: Adventurer Carly</title></programme>
-<programme start="20251024093000 +0000" stop="20251024095000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024095000 +0000" stop="20251024100000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau : Highlights</title></programme>
-<programme start="20251024100000 +0000" stop="20251024100500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>News Summary</title></programme>
-<programme start="20251024100500 +0000" stop="20251024105500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Educaçao E Juventude Dinamica</title></programme>
-<programme start="20251024105500 +0000" stop="20251024110000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
-<programme start="20251024110000 +0000" stop="20251024115500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM News</title></programme>
-<programme start="20251024115500 +0000" stop="20251024120000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Weather Report</title></programme>
-<programme start="20251024120000 +0000" stop="20251024125000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>The Fearless</title></programme>
-<programme start="20251024125000 +0000" stop="20251024125500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Jilin Land of Mystery</title></programme>
-<programme start="20251024125500 +0000" stop="20251024130000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>My Land, My People</title></programme>
-<programme start="20251024130000 +0000" stop="20251024132000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024132000 +0000" stop="20251024132500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau : Highlights</title></programme>
-<programme start="20251024132500 +0000" stop="20251024140000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Qingxi Village</title></programme>
-<programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Pu-Tong-Hua News</title></programme>
-<programme start="20251024143000 +0000" stop="20251024150500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>22:30 TDM Info - Express: Macau News File</title></programme>
-<programme start="20251024150500 +0000" stop="20251024151500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Patrimonio Cultural Intangível de Macau</title></programme>
-<programme start="20251024151500 +0000" stop="20251024155000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Late News</title></programme>
-<programme start="20251024155000 +0000" stop="20251024160100 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Sport News</title></programme>
-<programme start="20251024160100 +0000" stop="20251024163000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>All About the Greater Bay Area</title></programme>
-<programme start="20251024163000 +0000" stop="20251024170000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>A Thousand Years of Shanxi Cuisine Sr.2</title></programme>
-<programme start="20251024170000 +0000" stop="20251024175000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>The Fearless</title></programme>
-<programme start="20251024175000 +0000" stop="20251024180000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Having Fun in Tang Poetry</title></programme>
-<programme start="20251024180000 +0000" stop="20251024182300 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Repeat of Good Morning Macau</title></programme>
-<programme start="20251024182300 +0000" stop="20251024183000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Patrimonio Cultural Intangível de Macau</title></programme>
-<programme start="20251024183000 +0000" stop="20251024190000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Pu-Tong-Hua News</title></programme>
-<programme start="20251024190000 +0000" stop="20251024193500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Late News</title></programme>
-<programme start="20251024193500 +0000" stop="20251024200500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Macau News File (Repeat)</title></programme>
-<programme start="20251024200500 +0000" stop="20251024201500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Patrimonio Cultural Intangível de Macau</title></programme>
-<programme start="20251024201500 +0000" stop="20251024203500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251024203500 +0000" stop="20251024210100 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>All About the Greater Bay Area</title></programme>
-<programme start="20251024210100 +0000" stop="20251024213000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>#Hipsters Choice</title></programme>
-<programme start="20251024213000 +0000" stop="20251024215300 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Repeat of Good Morning Macau</title></programme>
-<programme start="20251024215300 +0000" stop="20251024220000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Macao World Heritage "City Walk"</title></programme>
-<programme start="20251024220000 +0000" stop="20251024223000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Macau News File (Repeat)</title></programme>
-<programme start="20251024223000 +0000" stop="20251024224000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>World Heritage Sites</title></programme>
-<programme start="20251024224000 +0000" stop="20251024230000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251026033500 +0000" stop="20251026034000 +0000" channel="TDM Info Ch.94.mo"><title>"You Ask, We Answer" Guangdong-Macao Laws Livestream</title></programme>
+<programme start="20251026034000 +0000" stop="20251026040000 +0000" channel="TDM Info Ch.94.mo"><title>View of the World (Repeat)</title></programme>
+<programme start="20251026040000 +0000" stop="20251026042000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026042000 +0000" stop="20251026042500 +0000" channel="TDM Info Ch.94.mo"><title>Browsing Globel Anecdote on Sunday</title></programme>
+<programme start="20251026042500 +0000" stop="20251026042900 +0000" channel="TDM Info Ch.94.mo"><title>Food Price Update</title></programme>
+<programme start="20251026042900 +0000" stop="20251026043000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
+<programme start="20251026043000 +0000" stop="20251026050000 +0000" channel="TDM Info Ch.94.mo"><title>Unveiling Mysteries</title></programme>
+<programme start="20251026050000 +0000" stop="20251026052300 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026052300 +0000" stop="20251026052800 +0000" channel="TDM Info Ch.94.mo"><title>Browsing Globel Anecdote on Sunday</title></programme>
+<programme start="20251026052800 +0000" stop="20251026053000 +0000" channel="TDM Info Ch.94.mo"><title>Noon Weather Report</title></programme>
+<programme start="20251026053000 +0000" stop="20251026060000 +0000" channel="TDM Info Ch.94.mo"><title>Noon News</title></programme>
+<programme start="20251026060000 +0000" stop="20251026070000 +0000" channel="TDM Info Ch.94.mo"><title>Earth, A Living Body</title></programme>
+<programme start="20251026070000 +0000" stop="20251026072500 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026072500 +0000" stop="20251026073000 +0000" channel="TDM Info Ch.94.mo"><title>Food Price Update</title></programme>
+<programme start="20251026073000 +0000" stop="20251026080000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026080000 +0000" stop="20251026083000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026083000 +0000" stop="20251026090000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026090000 +0000" stop="20251026093000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026093000 +0000" stop="20251026095000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026095000 +0000" stop="20251026100000 +0000" channel="TDM Info Ch.94.mo"><title>Browsing Globel Anecdote on Sunday</title></programme>
+<programme start="20251026100000 +0000" stop="20251026100500 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251026100500 +0000" stop="20251026100600 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
+<programme start="20251026100600 +0000" stop="20251026103600 +0000" channel="TDM Info Ch.94.mo"><title>Together to 15th National Games</title></programme>
+<programme start="20251026103600 +0000" stop="20251026110000 +0000" channel="TDM Info Ch.94.mo"><title>Rural Development of Ningxia</title></programme>
+<programme start="20251026110000 +0000" stop="20251026115500 +0000" channel="TDM Info Ch.94.mo"><title>TDM News</title></programme>
+<programme start="20251026115500 +0000" stop="20251026115900 +0000" channel="TDM Info Ch.94.mo"><title>Weather Report</title></programme>
+<programme start="20251026115900 +0000" stop="20251026120000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
+<programme start="20251026120000 +0000" stop="20251026130000 +0000" channel="TDM Info Ch.94.mo"><title>TDM News (Taped)</title></programme>
+<programme start="20251026130000 +0000" stop="20251026140000 +0000" channel="TDM Info Ch.94.mo"><title>TDM News (Taped)</title></programme>
+<programme start="20251026140000 +0000" stop="20251026143100 +0000" channel="TDM Info Ch.94.mo"><title>Pu-Tong-Hua News</title></programme>
+<programme start="20251026143100 +0000" stop="20251026151500 +0000" channel="TDM Info Ch.94.mo"><title>City News Net of China</title></programme>
+<programme start="20251026151500 +0000" stop="20251026155000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Late News</title></programme>
+<programme start="20251026155000 +0000" stop="20251026160500 +0000" channel="TDM Info Ch.94.mo"><title>Sport News</title></programme>
+<programme start="20251026160500 +0000" stop="20251026163500 +0000" channel="TDM Info Ch.94.mo"><title>City Report of China</title></programme>
+<programme start="20251026163500 +0000" stop="20251026164500 +0000" channel="TDM Info Ch.94.mo"><title>Good Morning Macau : Highlights</title></programme>
+<programme start="20251026164500 +0000" stop="20251026171500 +0000" channel="TDM Info Ch.94.mo"><title>Pu-Tong-Hua News (Taped)</title></programme>
+<programme start="20251026171500 +0000" stop="20251026175000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Late News (Taped)</title></programme>
+<programme start="20251026175000 +0000" stop="20251026180000 +0000" channel="TDM Info Ch.94.mo"><title>Sport News (Repeat)</title></programme>
+<programme start="20251026180000 +0000" stop="20251026225900 +0000" channel="TDM Info Ch.94.mo"><title>Close</title></programme>
+<programme start="20251026225900 +0000" stop="20251026230000 +0000" channel="TDM Info Ch.94.mo"><title>Open</title></programme>
+<programme start="20251026230000 +0000" stop="20251026235500 +0000" channel="TDM Info Ch.94.mo"><title>TDM Morning News</title></programme>
+<programme start="20251026235500 +0000" stop="20251027000000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Focus</title></programme>
+<programme start="20251027000000 +0000" stop="20251027010000 +0000" channel="TDM Info Ch.94.mo"><title>Good Morning Macau</title></programme>
+<programme start="20251027010000 +0000" stop="20251027013000 +0000" channel="TDM Info Ch.94.mo"><title>TDM Morning News (Repeat)</title></programme>
+<programme start="20251027013000 +0000" stop="20251027020000 +0000" channel="TDM Info Ch.94.mo"><title>All About the Greater Bay Area</title></programme>
+<programme start="20251027020000 +0000" stop="20251027023000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251027023000 +0000" stop="20251027030000 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251027030000 +0000" stop="20251027031500 +0000" channel="TDM Info Ch.94.mo"><title>News Summary</title></programme>
+<programme start="20251027031500 +0000" stop="20251027032000 +0000" channel="TDM Info Ch.94.mo"><title>China Soft Power</title></programme>
 <programme start="20251024230000 +0000" stop="20251024235500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Morning News</title></programme>
 <programme start="20251024235500 +0000" stop="20251025000000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
 <programme start="20251025000000 +0000" stop="20251025010000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau</title></programme>
@@ -464,10 +435,8 @@
 <programme start="20251025010500 +0000" stop="20251025013000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
 <programme start="20251025013000 +0000" stop="20251025020000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>A Thousand Years of Shanxi Cuisine Sr.2</title></programme>
 <programme start="20251025020000 +0000" stop="20251025023000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>News Summary</title></programme>
-<programme start="20251025023000 +0000" stop="20251025030500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Macau News File (Repeat)</title></programme>
-<programme start="20251025030500 +0000" stop="20251025031000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Patrimonio Cultural Intangível de Macau</title></programme>
-<programme start="20251025031000 +0000" stop="20251025033000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
-<programme start="20251025033000 +0000" stop="20251025040000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Surviving Japanese Invasion</title></programme>
+<programme start="20251025023000 +0000" stop="20251025030000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Macau News File (Repeat)</title></programme>
+<programme start="20251025030000 +0000" stop="20251025040000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Surviving Japanese Invasion</title></programme>
 <programme start="20251025040000 +0000" stop="20251025045000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Born To Shine</title></programme>
 <programme start="20251025045000 +0000" stop="20251025045500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Jilin Land of Mystery</title></programme>
 <programme start="20251025045500 +0000" stop="20251025050000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>My Land, My People</title></programme>
@@ -535,24 +504,53 @@
 <programme start="20251026023000 +0000" stop="20251026024500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Police for Citizens</title></programme>
 <programme start="20251026024500 +0000" stop="20251026030000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>View of the World (Repeat)</title></programme>
 <programme start="20251026030000 +0000" stop="20251026040000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau : Weekly Highlights</title></programme>
-<programme start="20251024015900 +0000" stop="20251024020000 +0000" channel="TDM Sport Ch.93.mo"><title>Open</title></programme>
-<programme start="20251024020000 +0000" stop="20251024024000 +0000" channel="TDM Sport Ch.93.mo"><title>Macau Sports 2025</title></programme>
-<programme start="20251024024000 +0000" stop="20251024032000 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Mens group Stage (Edited Version)</title></programme>
-<programme start="20251024032000 +0000" stop="20251024035000 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Womens group Stage (Edited Version)</title></programme>
-<programme start="20251024035000 +0000" stop="20251024050000 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Mens group Stage (Edited Version)</title></programme>
-<programme start="20251024050000 +0000" stop="20251024051500 +0000" channel="TDM Sport Ch.93.mo"><title>Sport News</title></programme>
-<programme start="20251024051500 +0000" stop="20251024071000 +0000" channel="TDM Sport Ch.93.mo"><title>Australian Open Tennis 2025 : Womens Singles - Quarterfinals (Edited Version)</title></programme>
-<programme start="20251024071000 +0000" stop="20251024072000 +0000" channel="TDM Sport Ch.93.mo"><title>Slowstep Yore</title></programme>
-<programme start="20251024072000 +0000" stop="20251024080000 +0000" channel="TDM Sport Ch.93.mo"><title>Global Sports</title></programme>
-<programme start="20251024080000 +0000" stop="20251024100000 +0000" channel="TDM Sport Ch.93.mo"><title>La Liga 2025/2026 : Barcelona vs Girona</title></programme>
-<programme start="20251024100000 +0000" stop="20251024120000 +0000" channel="TDM Sport Ch.93.mo"><title>AFC Champions League Elite 2025/26 : Ulsan HD vs Sanfrecce Hiroshima (Taped)</title></programme>
-<programme start="20251024120000 +0000" stop="20251024125500 +0000" channel="TDM Sport Ch.93.mo"><title>UEFA Europa League 2025/2026 : Celta Vigo vs Nice (Taped)</title></programme>
-<programme start="20251024125500 +0000" stop="20251024130000 +0000" channel="TDM Sport Ch.93.mo"><title>Sport News</title></programme>
-<programme start="20251024130000 +0000" stop="20251024140000 +0000" channel="TDM Sport Ch.93.mo"><title>UEFA Europa League 2025/2026 : Celta Vigo vs Nice (Taped)</title></programme>
-<programme start="20251024140000 +0000" stop="20251024145000 +0000" channel="TDM Sport Ch.93.mo"><title>UEFA Europa League / UEFA Conference League 2025/2026 Highlights</title></programme>
-<programme start="20251024145000 +0000" stop="20251024150000 +0000" channel="TDM Sport Ch.93.mo"><title>Sport News</title></programme>
-<programme start="20251024150000 +0000" stop="20251024170000 +0000" channel="TDM Sport Ch.93.mo"><title>UEFA Europa Conference League 2025/2026 : Crystal Palace vs AEK Larnaca (Taped)</title></programme>
-<programme start="20251024170000 +0000" stop="20251025015900 +0000" channel="TDM Sport Ch.93.mo"><title>Close</title></programme>
+<programme start="20251026040000 +0000" stop="20251026045000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>I Do, Do I？</title></programme>
+<programme start="20251026045000 +0000" stop="20251026045500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Jilin Land of Mystery</title></programme>
+<programme start="20251026045500 +0000" stop="20251026050000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>My Land, My People</title></programme>
+<programme start="20251026050000 +0000" stop="20251026050500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Noon Weather Report</title></programme>
+<programme start="20251026050500 +0000" stop="20251026051500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Browsing globel anecdote on Sunday</title></programme>
+<programme start="20251026051500 +0000" stop="20251026052000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau : Highlights</title></programme>
+<programme start="20251026052000 +0000" stop="20251026052500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>"You Ask, We Answer" Guangdong-Macao Laws Livestream</title></programme>
+<programme start="20251026052500 +0000" stop="20251026053000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
+<programme start="20251026053000 +0000" stop="20251026060000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Noon News</title></programme>
+<programme start="20251026060000 +0000" stop="20251026073000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>The Lions Secret</title></programme>
+<programme start="20251026073000 +0000" stop="20251026074100 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Ao Km - Season 1</title></programme>
+<programme start="20251026074100 +0000" stop="20251026080000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>View of the World (Repeat)</title></programme>
+<programme start="20251026080000 +0000" stop="20251026093500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Enemy</title></programme>
+<programme start="20251026093500 +0000" stop="20251026100000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Children Programme: Legend of Young Su Dongpo</title></programme>
+<programme start="20251026100000 +0000" stop="20251026100500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>News Summary</title></programme>
+<programme start="20251026100500 +0000" stop="20251026102000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Enjoy Zhuhai and Macao</title></programme>
+<programme start="20251026102000 +0000" stop="20251026105000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Macau. Chill. Viva.</title></programme>
+<programme start="20251026105000 +0000" stop="20251026105500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau : Highlights</title></programme>
+<programme start="20251026105500 +0000" stop="20251026110000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
+<programme start="20251026110000 +0000" stop="20251026115500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM News</title></programme>
+<programme start="20251026115500 +0000" stop="20251026120000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Weather Report</title></programme>
+<programme start="20251026120000 +0000" stop="20251026124500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Foodie Trio</title></programme>
+<programme start="20251026124500 +0000" stop="20251026130000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Ao Km - Season 1</title></programme>
+<programme start="20251026130000 +0000" stop="20251026135000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>I Do, Do I？</title></programme>
+<programme start="20251026135000 +0000" stop="20251026140000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>My Land, My People</title></programme>
+<programme start="20251026140000 +0000" stop="20251026143000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Pu-Tong-Hua News</title></programme>
+<programme start="20251026143000 +0000" stop="20251026151500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>22:30 TDM Info - Express: City News Net of China</title></programme>
+<programme start="20251026151500 +0000" stop="20251026155000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Late News</title></programme>
+<programme start="20251026155000 +0000" stop="20251026160100 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Sport News</title></programme>
+<programme start="20251026160100 +0000" stop="20251026173500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>The Lions Secret</title></programme>
+<programme start="20251026173500 +0000" stop="20251026191000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Enemy</title></programme>
+<programme start="20251026191000 +0000" stop="20251026194000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Pu-Tong-Hua News</title></programme>
+<programme start="20251026194000 +0000" stop="20251026201500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Late News</title></programme>
+<programme start="20251026201500 +0000" stop="20251026203500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251026203500 +0000" stop="20251026210000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Chinese ‧Western Pastries</title></programme>
+<programme start="20251026210000 +0000" stop="20251026213000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>#Hipsters Choice</title></programme>
+<programme start="20251026213000 +0000" stop="20251026220000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Family Affairs</title></programme>
+<programme start="20251026220000 +0000" stop="20251026224000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>City News Net of China (Repeat)</title></programme>
+<programme start="20251026224000 +0000" stop="20251026230000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251026230000 +0000" stop="20251026235500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Morning News</title></programme>
+<programme start="20251026235500 +0000" stop="20251027000000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>TDM Focus</title></programme>
+<programme start="20251027000000 +0000" stop="20251027010000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Good Morning Macau</title></programme>
+<programme start="20251027010000 +0000" stop="20251027010500 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Having Fun in Tang Poetry</title></programme>
+<programme start="20251027010500 +0000" stop="20251027013000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Our People, Our Life</title></programme>
+<programme start="20251027013000 +0000" stop="20251027020000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Together to 15th National Games</title></programme>
+<programme start="20251027020000 +0000" stop="20251027023000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>News Summary</title></programme>
+<programme start="20251027023000 +0000" stop="20251027032000 +0000" channel="TDM Ou Mun Ch. 91.mo"><title>Foodie Trio</title></programme>
 <programme start="20251025015900 +0000" stop="20251025020000 +0000" channel="TDM Sport Ch.93.mo"><title>Open</title></programme>
 <programme start="20251025020000 +0000" stop="20251025031000 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Mens group Stage (Edited Version)</title></programme>
 <programme start="20251025031000 +0000" stop="20251025034500 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Womens group Stage (Edited Version)</title></programme>
@@ -573,4 +571,22 @@
 <programme start="20251025210000 +0000" stop="20251026015900 +0000" channel="TDM Sport Ch.93.mo"><title>Close</title></programme>
 <programme start="20251026015900 +0000" stop="20251026020000 +0000" channel="TDM Sport Ch.93.mo"><title>Open</title></programme>
 <programme start="20251026020000 +0000" stop="20251026034500 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Mens group Stage (Edited Version)</title></programme>
+<programme start="20251026034500 +0000" stop="20251026043000 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Womens group stage (Edited Version)</title></programme>
+<programme start="20251026043000 +0000" stop="20251026044000 +0000" channel="TDM Sport Ch.93.mo"><title>Slowstep Yore</title></programme>
+<programme start="20251026044000 +0000" stop="20251026045500 +0000" channel="TDM Sport Ch.93.mo"><title>Sport News</title></programme>
+<programme start="20251026045500 +0000" stop="20251026070000 +0000" channel="TDM Sport Ch.93.mo"><title>J. League 2025 : Albirex Niigata vs Vissel Kobe (Live)</title></programme>
+<programme start="20251026070000 +0000" stop="20251026090000 +0000" channel="TDM Sport Ch.93.mo"><title>Australian Open Tennis 2025 : Womens Singles - Quarterfinals (Edited Version)</title></programme>
+<programme start="20251026090000 +0000" stop="20251026100000 +0000" channel="TDM Sport Ch.93.mo"><title>2024/2025 Ski World Cup Series</title></programme>
+<programme start="20251026100000 +0000" stop="20251026120000 +0000" channel="TDM Sport Ch.93.mo"><title>J. League 2025 : Kyoto Sanga vs Kashima Antlers (Taped)</title></programme>
+<programme start="20251026120000 +0000" stop="20251026125500 +0000" channel="TDM Sport Ch.93.mo"><title>AFC Champions League Two 2025/26 : FC Goa vs Al Nassr (Taped)</title></programme>
+<programme start="20251026125500 +0000" stop="20251026130000 +0000" channel="TDM Sport Ch.93.mo"><title>Sport News</title></programme>
+<programme start="20251026130000 +0000" stop="20251026140000 +0000" channel="TDM Sport Ch.93.mo"><title>AFC Champions League Two 2025/26 : FC Goa vs Al Nassr (Taped)</title></programme>
+<programme start="20251026140000 +0000" stop="20251026145000 +0000" channel="TDM Sport Ch.93.mo"><title>Asian Tour Golf Highlights</title></programme>
+<programme start="20251026145000 +0000" stop="20251026150000 +0000" channel="TDM Sport Ch.93.mo"><title>Sport News</title></programme>
+<programme start="20251026150000 +0000" stop="20251026151000 +0000" channel="TDM Sport Ch.93.mo"><title>Slowstep Yore</title></programme>
+<programme start="20251026151000 +0000" stop="20251026171500 +0000" channel="TDM Sport Ch.93.mo"><title>La Liga 2025/2026 : Real Madrid vs Barcelona (Live)</title></programme>
+<programme start="20251026171500 +0000" stop="20251027015900 +0000" channel="TDM Sport Ch.93.mo"><title>Close</title></programme>
+<programme start="20251027015900 +0000" stop="20251027020000 +0000" channel="TDM Sport Ch.93.mo"><title>Open</title></programme>
+<programme start="20251027020000 +0000" stop="20251027030500 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Mens group stage (Edited Version)</title></programme>
+<programme start="20251027030500 +0000" stop="20251027033500 +0000" channel="TDM Sport Ch.93.mo"><title>ITTF Mens and Womens World Cup Macao 2025 : Womens group stage (Edited Version)</title></programme>
 </tv>
