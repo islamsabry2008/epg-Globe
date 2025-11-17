@@ -5,6 +5,10 @@
 <channel id="beIN SPORTS 3.fr"><display-name>beIN SPORTS 3.fr</display-name></channel>
 <channel id="beIN SPORTS MAX.fr"><display-name>beIN SPORTS MAX.fr</display-name></channel>
 <channel id="beIN SPORTS.fr"><display-name>beIN SPORTS.fr</display-name></channel>
+<channel id="BFM Grand Lille.fr"><display-name>BFM Grand Lille.fr</display-name></channel>
+<channel id="BFM Grand Littoral.fr"><display-name>BFM Grand Littoral.fr</display-name></channel>
+<channel id="BFM Lyon.fr"><display-name>BFM Lyon.fr</display-name></channel>
+<channel id="BFM Marseille.fr"><display-name>BFM Marseille.fr</display-name></channel>
 <channel id="Canal+ Foot.fr"><display-name>Canal+ Foot.fr</display-name></channel>
 <channel id="Canal+ groupe.fr"><display-name>Canal+ groupe.fr</display-name></channel>
 <channel id="Canal+ Live.fr"><display-name>Canal+ Live.fr</display-name></channel>
@@ -16,8 +20,8 @@
 <channel id="DAZN.fr"><display-name>DAZN.fr</display-name></channel>
 <channel id="Disney+.fr"><display-name>Disney+.fr</display-name></channel>
 <channel id="Eurosport.fr"><display-name>Eurosport.fr</display-name></channel>
-<channel id="FIFA+.fr"><display-name>FIFA+.fr</display-name></channel>
 <channel id="France 2.fr"><display-name>France 2.fr</display-name></channel>
+<channel id="France 3 Regions.fr"><display-name>France 3 Regions.fr</display-name></channel>
 <channel id="France 4.fr"><display-name>France 4.fr</display-name></channel>
 <channel id="France Televisions.fr"><display-name>France Televisions.fr</display-name></channel>
 <channel id="L’Equipe Live Foot.fr"><display-name>L’Equipe Live Foot.fr</display-name></channel>
@@ -32,73 +36,39 @@
 <channel id="TNT.fr"><display-name>TNT.fr</display-name></channel>
 <channel id="TV7.fr"><display-name>TV7.fr</display-name></channel>
 <channel id="YouTube.fr"><display-name>YouTube.fr</display-name></channel>
-<programme start="20251115203000 +0000" stop="20251122140000 +0000" channel="beIN SPORTS 2.fr"><title>Quetigny · Saint-Etienne</title><desc>Quetigny · Saint-Etienne</desc></programme>
-<programme start="20251114203000 +0000" stop="20251115210000 +0000" channel="beIN SPORTS MAX.fr"><title>Valladolid · Las Palmas</title><desc>Valladolid · Las Palmas</desc></programme>
-<programme start="20251115210000 +0000" stop="20251116154500 +0000" channel="beIN SPORTS MAX.fr"><title>Santander · Grenade CF</title><desc>Santander · Grenade CF</desc></programme>
-<programme start="20251114203000 +0000" stop="20251115203000 +0000" channel="beIN SPORTS.fr"><title>Valladolid · Las Palmas</title><desc>Valladolid · Las Palmas</desc></programme>
-<programme start="20251115203000 +0000" stop="20251115210000 +0000" channel="beIN SPORTS.fr"><title>Quetigny · Saint-Etienne</title><desc>Quetigny · Saint-Etienne</desc></programme>
-<programme start="20251115210000 +0000" stop="20251116154500 +0000" channel="beIN SPORTS.fr"><title>Santander · Grenade CF</title><desc>Santander · Grenade CF</desc></programme>
-<programme start="20251115160000 +0000" stop="20251122150000 +0000" channel="DAZN.fr"><title>Barcelone · Real Madrid Fem.</title><desc>Barcelone · Real Madrid Fem.</desc></programme>
-<programme start="20251114133000 +0000" stop="20251114133000 +0000" channel="FIFA+.fr"><title>Portugal · Belgique U17</title><desc>Portugal · Belgique U17</desc></programme>
-<programme start="20251114133000 +0000" stop="20251114140000 +0000" channel="FIFA+.fr"><title>Zambie · Mali U17</title><desc>Zambie · Mali U17</desc></programme>
-<programme start="20251114140000 +0000" stop="20251114143000 +0000" channel="FIFA+.fr"><title>Suisse · Egypte U17</title><desc>Suisse · Egypte U17</desc></programme>
-<programme start="20251114143000 +0000" stop="20251114154500 +0000" channel="FIFA+.fr"><title>France · Colombie U17</title><desc>France · Colombie U17</desc></programme>
-<programme start="20251114154500 +0000" stop="20251114161500 +0000" channel="FIFA+.fr"><title>Argentine · Mexique U17</title><desc>Argentine · Mexique U17</desc></programme>
-<programme start="20251114161500 +0000" stop="20251114164500 +0000" channel="FIFA+.fr"><title>Irlande · Canada U17</title><desc>Irlande · Canada U17</desc></programme>
-<programme start="20251114164500 +0000" stop="20251114164500 +0000" channel="FIFA+.fr"><title>Etats-Unis · Maroc U17</title><desc>Etats-Unis · Maroc U17</desc></programme>
-<programme start="20251114164500 +0000" stop="20251115133000 +0000" channel="FIFA+.fr"><title>Bresil · Paraguay U17</title><desc>Bresil · Paraguay U17</desc></programme>
-<programme start="20251115133000 +0000" stop="20251115133000 +0000" channel="FIFA+.fr"><title>Coree du Sud · Angleterre U17</title><desc>Coree du Sud · Angleterre U17</desc></programme>
-<programme start="20251115133000 +0000" stop="20251115140000 +0000" channel="FIFA+.fr"><title>Senegal · Ouganda U17</title><desc>Senegal · Ouganda U17</desc></programme>
-<programme start="20251115140000 +0000" stop="20251115143000 +0000" channel="FIFA+.fr"><title>Italie · Tchèquie U17</title><desc>Italie · Tchèquie U17</desc></programme>
-<programme start="20251115143000 +0000" stop="20251115154500 +0000" channel="FIFA+.fr"><title>Japon · Afrique du Sud U17</title><desc>Japon · Afrique du Sud U17</desc></programme>
-<programme start="20251115154500 +0000" stop="20251115161500 +0000" channel="FIFA+.fr"><title>Allemagne · Burkina U17</title><desc>Allemagne · Burkina U17</desc></programme>
-<programme start="20251115161500 +0000" stop="20251115164500 +0000" channel="FIFA+.fr"><title>Venezuela · Coree Nord U17</title><desc>Venezuela · Coree Nord U17</desc></programme>
-<programme start="20251115164500 +0000" stop="20251115164500 +0000" channel="FIFA+.fr"><title>Autriche · Tunisie U17</title><desc>Autriche · Tunisie U17</desc></programme>
-<programme start="20251115164500 +0000" stop="20251115235900 +0000" channel="FIFA+.fr"><title>Croatie · Ouzbekistan U17</title><desc>Croatie · Ouzbekistan U17</desc></programme>
-<programme start="20251114204500 +0000" stop="20251114204500 +0000" channel="L’Equipe Live Foot.fr"><title>Pologne · Pays-Bas</title><desc>Pologne · Pays-Bas</desc></programme>
-<programme start="20251114204500 +0000" stop="20251115150000 +0000" channel="L’Equipe Live Foot.fr"><title>Luxembourg · Allemagne</title><desc>Luxembourg · Allemagne</desc></programme>
-<programme start="20251115150000 +0000" stop="20251115170000 +0000" channel="L’Equipe Live Foot.fr"><title>Kazakhstan · Belgique</title><desc>Kazakhstan · Belgique</desc></programme>
-<programme start="20251115170000 +0000" stop="20251115180000 +0000" channel="L’Equipe Live Foot.fr"><title>Bresil · Senegal</title><desc>Bresil · Senegal</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115180000 +0000" channel="L’Equipe Live Foot.fr"><title>Turquie · Bulgarie</title><desc>Turquie · Bulgarie</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115204500 +0000" channel="L’Equipe Live Foot.fr"><title>Georgie · Espagne</title><desc>Georgie · Espagne</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="L’Equipe Live Foot.fr"><title>Grèce · Ecosse</title><desc>Grèce · Ecosse</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="L’Equipe Live Foot.fr"><title>Suisse · Suède</title><desc>Suisse · Suède</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115235900 +0000" channel="L’Equipe Live Foot.fr"><title>Danemark · Bielorussie</title><desc>Danemark · Bielorussie</desc></programme>
-<programme start="20251114143000 +0000" stop="20251114204500 +0000" channel="L’Equipe.fr"><title>France · Colombie U17</title><desc>France · Colombie U17</desc></programme>
-<programme start="20251114204500 +0000" stop="20251114204500 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251114204500 +0000" stop="20251114204500 +0000" channel="L’Equipe.fr"><title>Pologne · Pays-Bas</title><desc>Pologne · Pays-Bas</desc></programme>
-<programme start="20251114204500 +0000" stop="20251115150000 +0000" channel="L’Equipe.fr"><title>Luxembourg · Allemagne</title><desc>Luxembourg · Allemagne</desc></programme>
-<programme start="20251115150000 +0000" stop="20251115151000 +0000" channel="L’Equipe.fr"><title>Kazakhstan · Belgique</title><desc>Kazakhstan · Belgique</desc></programme>
-<programme start="20251115151000 +0000" stop="20251115151000 +0000" channel="L’Equipe.fr"><title>Kazakhstan · Belgique</title><desc>Kazakhstan · Belgique</desc></programme>
-<programme start="20251115151000 +0000" stop="20251115170000 +0000" channel="L’Equipe.fr"><title>Kazakhstan · Belgique</title><desc>Kazakhstan · Belgique</desc></programme>
-<programme start="20251115170000 +0000" stop="20251115180000 +0000" channel="L’Equipe.fr"><title>Bresil · Senegal</title><desc>Bresil · Senegal</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115180000 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115180000 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115180000 +0000" channel="L’Equipe.fr"><title>Georgie · Espagne</title><desc>Georgie · Espagne</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115204500 +0000" channel="L’Equipe.fr"><title>Turquie · Bulgarie</title><desc>Turquie · Bulgarie</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="L’Equipe.fr"><title>Grèce · Ecosse</title><desc>Grèce · Ecosse</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="L’Equipe.fr"><title>Suisse · Suède</title><desc>Suisse · Suède</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115235900 +0000" channel="L’Equipe.fr"><title>Danemark · Bielorussie</title><desc>Danemark · Bielorussie</desc></programme>
-<programme start="20251115230000 +0000" stop="20251116213000 +0000" channel="Sport en France.fr"><title>Washington · Portland Fem.</title><desc>Washington · Portland Fem.</desc></programme>
-<programme start="20251114143000 +0000" stop="20251114204500 +0000" channel="TNT.fr"><title>France · Colombie U17</title><desc>France · Colombie U17</desc></programme>
-<programme start="20251114204500 +0000" stop="20251114204500 +0000" channel="TNT.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251114204500 +0000" stop="20251114204500 +0000" channel="TNT.fr"><title>Pologne · Pays-Bas</title><desc>Pologne · Pays-Bas</desc></programme>
-<programme start="20251114204500 +0000" stop="20251115150000 +0000" channel="TNT.fr"><title>Luxembourg · Allemagne</title><desc>Luxembourg · Allemagne</desc></programme>
-<programme start="20251115150000 +0000" stop="20251115151000 +0000" channel="TNT.fr"><title>Kazakhstan · Belgique</title><desc>Kazakhstan · Belgique</desc></programme>
-<programme start="20251115151000 +0000" stop="20251115170000 +0000" channel="TNT.fr"><title>Kazakhstan · Belgique</title><desc>Kazakhstan · Belgique</desc></programme>
-<programme start="20251115170000 +0000" stop="20251115180000 +0000" channel="TNT.fr"><title>Bresil · Senegal</title><desc>Bresil · Senegal</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115180000 +0000" channel="TNT.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115180000 +0000" channel="TNT.fr"><title>Turquie · Bulgarie</title><desc>Turquie · Bulgarie</desc></programme>
-<programme start="20251115180000 +0000" stop="20251115204500 +0000" channel="TNT.fr"><title>Georgie · Espagne</title><desc>Georgie · Espagne</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="TNT.fr"><title>Grèce · Ecosse</title><desc>Grèce · Ecosse</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="TNT.fr"><title>Danemark · Bielorussie</title><desc>Danemark · Bielorussie</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115204500 +0000" channel="TNT.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
-<programme start="20251115204500 +0000" stop="20251115235900 +0000" channel="TNT.fr"><title>Suisse · Suède</title><desc>Suisse · Suède</desc></programme>
-<programme start="20251114113000 +0000" stop="20251114144500 +0000" channel="YouTube.fr"><title>AC Milan · Entella</title><desc>AC Milan · Entella</desc></programme>
-<programme start="20251114144500 +0000" stop="20251114190000 +0000" channel="YouTube.fr"><title>Bielorussie · Pays Galles Espoirs</title><desc>Bielorussie · Pays Galles Espoirs</desc></programme>
-<programme start="20251114190000 +0000" stop="20251114193000 +0000" channel="YouTube.fr"><title>Lille · Lens Fem.</title><desc>Lille · Lens Fem.</desc></programme>
-<programme start="20251114193000 +0000" stop="20251115130000 +0000" channel="YouTube.fr"><title>Suisse · France Espoirs</title><desc>Suisse · France Espoirs</desc></programme>
-<programme start="20251115130000 +0000" stop="20251115151500 +0000" channel="YouTube.fr"><title>France · Bulgarie U19</title><desc>France · Bulgarie U19</desc></programme>
-<programme start="20251115151500 +0000" stop="20251115235900 +0000" channel="YouTube.fr"><title>Pays de Galles · Etats-Unis U19</title><desc>Pays de Galles · Etats-Unis U19</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe Live Foot.fr"><title>Malte · Pologne</title><desc>Malte · Pologne</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe Live Foot.fr"><title>Montenegro · Croatie</title><desc>Montenegro · Croatie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe Live Foot.fr"><title>Allemagne · Slovaquie</title><desc>Allemagne · Slovaquie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251118203000 +0000" channel="L’Equipe Live Foot.fr"><title>Pays-Bas · Lituanie</title><desc>Pays-Bas · Lituanie</desc></programme>
+<programme start="20251118203000 +0000" stop="20251118204500 +0000" channel="L’Equipe Live Foot.fr"><title>Bresil · Tunisie</title><desc>Bresil · Tunisie</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe Live Foot.fr"><title>Ecosse · Danemark</title><desc>Ecosse · Danemark</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe Live Foot.fr"><title>Pays de Galles · Macedoine</title><desc>Pays de Galles · Macedoine</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe Live Foot.fr"><title>Espagne · Turquie</title><desc>Espagne · Turquie</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118235900 +0000" channel="L’Equipe Live Foot.fr"><title>Belgique · Liechtenstein</title><desc>Belgique · Liechtenstein</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe.fr"><title>Allemagne · Slovaquie</title><desc>Allemagne · Slovaquie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe.fr"><title>Montenegro · Croatie</title><desc>Montenegro · Croatie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="L’Equipe.fr"><title>Malte · Pologne</title><desc>Malte · Pologne</desc></programme>
+<programme start="20251117204500 +0000" stop="20251118203000 +0000" channel="L’Equipe.fr"><title>Pays-Bas · Lituanie</title><desc>Pays-Bas · Lituanie</desc></programme>
+<programme start="20251118203000 +0000" stop="20251118204500 +0000" channel="L’Equipe.fr"><title>Bresil · Tunisie</title><desc>Bresil · Tunisie</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe.fr"><title>Espagne · Turquie</title><desc>Espagne · Turquie</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe.fr"><title>Pays Galles · Macedoine</title><desc>Pays Galles · Macedoine</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="L’Equipe.fr"><title>Belgique · Liechtenstein</title><desc>Belgique · Liechtenstein</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118235900 +0000" channel="L’Equipe.fr"><title>Ecosse · Danemark</title><desc>Ecosse · Danemark</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="TNT.fr"><title>Montenegro · Croatie</title><desc>Montenegro · Croatie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="TNT.fr"><title>Pays-Bas · Lituanie</title><desc>Pays-Bas · Lituanie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="TNT.fr"><title>Allemagne · Slovaquie</title><desc>Allemagne · Slovaquie</desc></programme>
+<programme start="20251117204500 +0000" stop="20251117204500 +0000" channel="TNT.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251117204500 +0000" stop="20251118203000 +0000" channel="TNT.fr"><title>Malte · Pologne</title><desc>Malte · Pologne</desc></programme>
+<programme start="20251118203000 +0000" stop="20251118204500 +0000" channel="TNT.fr"><title>Bresil · Tunisie</title><desc>Bresil · Tunisie</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="TNT.fr"><title>Ecosse · Danemark</title><desc>Ecosse · Danemark</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="TNT.fr"><title>Espagne · Turquie</title><desc>Espagne · Turquie</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="TNT.fr"><title>Pays Galles · Macedoine</title><desc>Pays Galles · Macedoine</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118204500 +0000" channel="TNT.fr"><title>Multiplex Coupe du Monde 2026</title><desc>Multiplex Coupe du Monde 2026</desc></programme>
+<programme start="20251118204500 +0000" stop="20251118235900 +0000" channel="TNT.fr"><title>Belgique · Liechtenstein</title><desc>Belgique · Liechtenstein</desc></programme>
+<programme start="20251117150000 +0000" stop="20251117210000 +0000" channel="YouTube.fr"><title>Allemagne · Italie U20</title><desc>Allemagne · Italie U20</desc></programme>
+<programme start="20251117210000 +0000" stop="20251118180000 +0000" channel="YouTube.fr"><title>France · Iles Feroe Espoirs</title><desc>France · Iles Feroe Espoirs</desc></programme>
+<programme start="20251118180000 +0000" stop="20251119020000 +0000" channel="YouTube.fr"><title>Georgie · Allemagne Espoirs</title><desc>Georgie · Allemagne Espoirs</desc></programme>
+<programme start="20251119020000 +0000" stop="20251119235900 +0000" channel="YouTube.fr"><title>Costa Rica · Honduras</title><desc>Costa Rica · Honduras</desc></programme>
 </tv>
