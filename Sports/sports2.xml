@@ -6,75 +6,61 @@
 <channel id="premier sports 1.uk"><display-name>premier sports 1.uk</display-name></channel>
 <channel id="premier sports 2.uk"><display-name>premier sports 2.uk</display-name></channel>
 <channel id="premier sports rugby.uk"><display-name>premier sports rugby.uk</display-name></channel>
-<programme start="20251122233000 +0000" stop="20251123033000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Alav\u00e9s v Celta Vigo</desc></programme>
-<programme start="20251123033000 +0000" stop="20251123053000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Osasuna v Real Sociedad</desc></programme>
-<programme start="20251123053000 +0000" stop="20251123073000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
-<programme start="20251123073000 +0000" stop="20251123113000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Valencia v Levante</desc></programme>
-<programme start="20251123113000 +0000" stop="20251123183000 +0000" channel="laliga-tv.uk"><title>LALIGA Specials</title><desc>Best Goalkeeper</desc></programme>
-<programme start="20251123183000 +0000" stop="20251123210000 +0000" channel="laliga-tv.uk"><title>LALIGA Specials</title><desc>Best Goalkeeper</desc></programme>
-<programme start="20251123210000 +0000" stop="20251123213000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Ante Budimir</desc></programme>
-<programme start="20251123213000 +0000" stop="20251123233000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Real Betis v Girona</desc></programme>
-<programme start="20251123233000 +0000" stop="20251124000000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
-<programme start="20251124000000 +0000" stop="20251124003000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Luis de la Fuente</desc></programme>
-<programme start="20251124003000 +0000" stop="20251124013000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
-<programme start="20251124013000 +0000" stop="20251124023000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
-<programme start="20251124023000 +0000" stop="20251124033000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Real Betis v Girona</desc></programme>
-<programme start="20251124033000 +0000" stop="20251124043000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Oviedo v Rayo Vallecano</desc></programme>
-<programme start="20251124043000 +0000" stop="20251124053000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Oviedo v Rayo Vallecano</desc></programme>
-<programme start="20251124053000 +0000" stop="20251124063000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Forever Green</desc></programme>
-<programme start="20251124063000 +0000" stop="20251124080000 +0000" channel="laliga-tv.uk"><title>LALIGA Specials</title><desc>Best Goalkeeper</desc></programme>
-<programme start="20251124080000 +0000" stop="20251124090000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
-<programme start="20251124090000 +0000" stop="20251124093000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Isco Alarc\u00f3n</desc></programme>
-<programme start="20251124093000 +0000" stop="20251124100000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
-<programme start="20251124100000 +0000" stop="20251124233000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251123233000 +0000" stop="20251124013000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251124013000 +0000" stop="20251124033000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251124033000 +0000" stop="20251124053000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Oviedo v Rayo Vallecano</desc></programme>
+<programme start="20251124053000 +0000" stop="20251124080000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Forever Green</desc></programme>
+<programme start="20251124080000 +0000" stop="20251124100000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251124100000 +0000" stop="20251124120000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251124120000 +0000" stop="20251124123000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Luis de la Fuente</desc></programme>
+<programme start="20251124123000 +0000" stop="20251124143000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
+<programme start="20251124143000 +0000" stop="20251124163000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Real Betis v Girona</desc></programme>
+<programme start="20251124163000 +0000" stop="20251124183000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Oviedo v Rayo Vallecano</desc></programme>
+<programme start="20251124183000 +0000" stop="20251124210000 +0000" channel="laliga-tv.uk"><title>LALIGA Specials</title><desc>Best Goalkeeper</desc></programme>
+<programme start="20251124210000 +0000" stop="20251124213000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Isco Alarc\u00f3n</desc></programme>
+<programme start="20251124213000 +0000" stop="20251124233000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
 <programme start="20251124233000 +0000" stop="20251125000000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Espanyol v Sevilla</desc></programme>
 <programme start="20251125000000 +0000" stop="20251125013000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
 <programme start="20251125013000 +0000" stop="20251125020000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Isco Alarc\u00f3n</desc></programme>
 <programme start="20251125020000 +0000" stop="20251125020000 +0000" channel="laliga-tv.uk"><title>LALIGA Specials</title><desc>The Meaning</desc></programme>
 <programme start="20251125020000 +0000" stop="20251125030000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Real Betis v Girona</desc></programme>
-<programme start="20251123170000 +0000" stop="20251123210000 +0000" channel="premier-events-1.uk"><title>NHL</title><desc>Carolina at Buffalo</desc></programme>
-<programme start="20251123210000 +0000" stop="20251128040000 +0000" channel="premier-events-1.uk"><title>NHL</title><desc>Seattle at NY Islanders</desc></programme>
-<programme start="20251123100000 +0000" stop="20251123123000 +0000" channel="premier-events-2.uk"><title>Abu Dhabi T10 Cricket</title><desc>Ajman Titans v Royal Champs</desc></programme>
-<programme start="20251123123000 +0000" stop="20251128062500 +0000" channel="premier-events-2.uk"><title>Abu Dhabi T10 Cricket</title><desc>Quetta Qavalry v Aspin Stallions</desc></programme>
-<programme start="20251123020000 +0000" stop="20251123023000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251123023000 +0000" stop="20251123030000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251123030000 +0000" stop="20251123050000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Alav\u00e9s v Celta Vigo</desc></programme>
-<programme start="20251123050000 +0000" stop="20251123060000 +0000" channel="premier-sports-1.uk"><title>Transworld Sport</title><desc>Transworld Sport</desc></programme>
-<programme start="20251123060000 +0000" stop="20251123070000 +0000" channel="premier-sports-1.uk"><title>FIA World Endurance Championship</title><desc>Bahrain</desc></programme>
-<programme start="20251123070000 +0000" stop="20251123090000 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Edmonton at Florida</desc></programme>
-<programme start="20251123090000 +0000" stop="20251123093000 +0000" channel="premier-sports-1.uk"><title>Sporting Greats</title><desc>Sporting Greats</desc></programme>
-<programme start="20251123093000 +0000" stop="20251123100000 +0000" channel="premier-sports-1.uk"><title>Sporting Greats</title><desc>Sporting Greats</desc></programme>
-<programme start="20251123100000 +0000" stop="20251123115500 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
-<programme start="20251123115500 +0000" stop="20251123140000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Oviedo v Rayo Vallecano</desc></programme>
-<programme start="20251123140000 +0000" stop="20251123141000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Rayo Vallecano v Real Madrid</desc></programme>
-<programme start="20251123141000 +0000" stop="20251123161500 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Real Betis v Girona</desc></programme>
-<programme start="20251123161500 +0000" stop="20251123162500 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Sevilla v Osasuna</desc></programme>
-<programme start="20251123162500 +0000" stop="20251123184000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
-<programme start="20251123184000 +0000" stop="20251123185500 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Rayo Vallecano v Real Madrid</desc></programme>
-<programme start="20251123185500 +0000" stop="20251123211000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
-<programme start="20251123211000 +0000" stop="20251123212500 +0000" channel="premier-sports-1.uk"><title>LALIGA Specials</title><desc>Best Goalkeeper</desc></programme>
-<programme start="20251123212500 +0000" stop="20251123215500 +0000" channel="premier-sports-1.uk"><title>Argentine Primera Highlights</title><desc>Argentine Primera Highlights</desc></programme>
-<programme start="20251123215500 +0000" stop="20251124000000 +0000" channel="premier-sports-1.uk"><title>Argentine Primera</title><desc>Boca Juniors v Talleres</desc></programme>
-<programme start="20251124000000 +0000" stop="20251124004500 +0000" channel="premier-sports-1.uk"><title>NHL Specials</title><desc>Stanley Cup Championship Film</desc></programme>
+<programme start="20251125030000 +0000" stop="20251125040000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251125040000 +0000" stop="20251125043000 +0000" channel="laliga-tv.uk"><title>LALIGA Highlights</title><desc>Round 13</desc></programme>
+<programme start="20251125043000 +0000" stop="20251125050000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Eusebio Sacri</desc></programme>
+<programme start="20251125050000 +0000" stop="20251125050000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251125050000 +0000" stop="20251125070000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251125070000 +0000" stop="20251125070000 +0000" channel="laliga-tv.uk"><title>LALIGA Highlights</title><desc>Round 13</desc></programme>
+<programme start="20251125070000 +0000" stop="20251125073000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251125073000 +0000" stop="20251125080000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Isco Alarc\u00f3n</desc></programme>
+<programme start="20251125080000 +0000" stop="20251125090000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Valencia v Levante</desc></programme>
+<programme start="20251125090000 +0000" stop="20251125100000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251125100000 +0000" stop="20251125230000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Alav\u00e9s v Celta Vigo</desc></programme>
+<programme start="20251125230000 +0000" stop="20251125233000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
+<programme start="20251125233000 +0000" stop="20251126010000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
+<programme start="20251126010000 +0000" stop="20251126013000 +0000" channel="laliga-tv.uk"><title>LALIGA Highlights</title><desc>Round 13</desc></programme>
+<programme start="20251126013000 +0000" stop="20251126013000 +0000" channel="laliga-tv.uk"><title>Talking Football</title><desc>Talking Football - Isco Alarc\u00f3n</desc></programme>
+<programme start="20251126013000 +0000" stop="20251126020000 +0000" channel="laliga-tv.uk"><title>LALIGA</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251126020000 +0000" stop="20251126030000 +0000" channel="laliga-tv.uk"><title>LALIGA Specials</title><desc>The Meaning</desc></programme>
 <programme start="20251124004500 +0000" stop="20251124010000 +0000" channel="premier-sports-1.uk"><title>LALIGA Specials</title><desc>Best Goalkeeper</desc></programme>
-<programme start="20251124010000 +0000" stop="20251124010000 +0000" channel="premier-sports-1.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
-<programme start="20251124010000 +0000" stop="20251124013000 +0000" channel="premier-sports-1.uk"><title>NHL on the Fly</title><desc>NHL on the Fly</desc></programme>
-<programme start="20251124013000 +0000" stop="20251124013000 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Seattle at NY Islanders</desc></programme>
-<programme start="20251124013000 +0000" stop="20251124020000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251124020000 +0000" stop="20251124023000 +0000" channel="premier-sports-1.uk"><title>Sporting Greats</title><desc>Sporting Greats</desc></programme>
-<programme start="20251124023000 +0000" stop="20251124033000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251124010000 +0000" stop="20251124013000 +0000" channel="premier-sports-1.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
+<programme start="20251124013000 +0000" stop="20251124033000 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Seattle at NY Islanders</desc></programme>
 <programme start="20251124033000 +0000" stop="20251124043000 +0000" channel="premier-sports-1.uk"><title>NHL Tonight</title><desc>Top 20 Defensemen</desc></programme>
-<programme start="20251124043000 +0000" stop="20251124043000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251124043000 +0000" stop="20251124050000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
-<programme start="20251124050000 +0000" stop="20251124062500 +0000" channel="premier-sports-1.uk"><title>Swedish Hockey League</title><desc>Frolunda v Malmo</desc></programme>
-<programme start="20251124062500 +0000" stop="20251124065500 +0000" channel="premier-sports-1.uk"><title>Coppa Italia Show</title><desc>Round 2 Highlights</desc></programme>
-<programme start="20251124065500 +0000" stop="20251124070000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251124043000 +0000" stop="20251124050000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
+<programme start="20251124050000 +0000" stop="20251124070000 +0000" channel="premier-sports-1.uk"><title>Swedish Hockey League</title><desc>Frolunda v Malmo</desc></programme>
 <programme start="20251124070000 +0000" stop="20251124090000 +0000" channel="premier-sports-1.uk"><title>Argentine Primera</title><desc>Boca Juniors v Talleres</desc></programme>
-<programme start="20251124090000 +0000" stop="20251124090000 +0000" channel="premier-sports-1.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
-<programme start="20251124090000 +0000" stop="20251124091000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Barcelona v Athletic Club</desc></programme>
-<programme start="20251124091000 +0000" stop="20251124093000 +0000" channel="premier-sports-1.uk"><title>Argentine Primera</title><desc>Racing v River Plate</desc></programme>
+<programme start="20251124090000 +0000" stop="20251124093000 +0000" channel="premier-sports-1.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
 <programme start="20251124093000 +0000" stop="20251124100000 +0000" channel="premier-sports-1.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
-<programme start="20251124100000 +0000" stop="20251124230000 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Calgary at Vancouver</desc></programme>
+<programme start="20251124100000 +0000" stop="20251124120000 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Calgary at Vancouver</desc></programme>
+<programme start="20251124120000 +0000" stop="20251124130000 +0000" channel="premier-sports-1.uk"><title>NHL Specials</title><desc>Stanley Cup Championship Film</desc></programme>
+<programme start="20251124130000 +0000" stop="20251124133000 +0000" channel="premier-sports-1.uk"><title>NHL on the Fly</title><desc>NHL on the Fly</desc></programme>
+<programme start="20251124133000 +0000" stop="20251124140000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
+<programme start="20251124140000 +0000" stop="20251124143000 +0000" channel="premier-sports-1.uk"><title>Sporting Greats</title><desc>Sporting Greats</desc></programme>
+<programme start="20251124143000 +0000" stop="20251124163000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251124163000 +0000" stop="20251124182500 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251124182500 +0000" stop="20251124185500 +0000" channel="premier-sports-1.uk"><title>Coppa Italia Show</title><desc>Round 2 Highlights</desc></programme>
+<programme start="20251124185500 +0000" stop="20251124210000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251124210000 +0000" stop="20251124211000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Barcelona v Athletic Club</desc></programme>
+<programme start="20251124211000 +0000" stop="20251124230000 +0000" channel="premier-sports-1.uk"><title>Argentine Primera</title><desc>Racing v River Plate</desc></programme>
 <programme start="20251124230000 +0000" stop="20251124231000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Valencia v Levante</desc></programme>
 <programme start="20251124231000 +0000" stop="20251124232000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Alav\u00e9s v Celta Vigo</desc></programme>
 <programme start="20251124232000 +0000" stop="20251124233000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Barcelona v Athletic Club</desc></programme>
@@ -87,82 +73,99 @@
 <programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
 <programme start="20251125010000 +0000" stop="20251125024500 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Vegas at Utah</desc></programme>
 <programme start="20251125024500 +0000" stop="20251125040000 +0000" channel="premier-sports-1.uk"><title>Abu Dhabi T10 Cricket</title><desc>Deccan Gladiators v Aspin S.</desc></programme>
-<programme start="20251122232500 +0000" stop="20251123013000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Palmeiras v Fluminense</desc></programme>
-<programme start="20251123013000 +0000" stop="20251123020000 +0000" channel="premier-sports-2.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
-<programme start="20251123020000 +0000" stop="20251123023000 +0000" channel="premier-sports-2.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251123023000 +0000" stop="20251123030000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>Melbourne Cricket Ground</desc></programme>
-<programme start="20251123030000 +0000" stop="20251123050000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Bordeaux Begles v Pau</desc></programme>
-<programme start="20251123050000 +0000" stop="20251123070000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Toronto at Montreal</desc></programme>
-<programme start="20251123070000 +0000" stop="20251123090000 +0000" channel="premier-sports-2.uk"><title>International Rugby</title><desc>Georgia v Japan</desc></programme>
-<programme start="20251123090000 +0000" stop="20251123091000 +0000" channel="premier-sports-2.uk"><title>LALIGA Match Highlights</title><desc>Celta Vigo v Barcelona</desc></programme>
-<programme start="20251123091000 +0000" stop="20251123101000 +0000" channel="premier-sports-2.uk"><title>Eredivisie Highlights</title><desc>Round 12</desc></programme>
-<programme start="20251123101000 +0000" stop="20251123121500 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Heerenveen v AZ</desc></programme>
-<programme start="20251123121500 +0000" stop="20251123122500 +0000" channel="premier-sports-2.uk"><title>LALIGA Match Highlights</title><desc>Sevilla v Osasuna</desc></programme>
-<programme start="20251123122500 +0000" stop="20251123143000 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Feyenoord v NEC</desc></programme>
-<programme start="20251123143000 +0000" stop="20251123144500 +0000" channel="premier-sports-2.uk"><title>LALIGA Match Highlights</title><desc>Girona v Alav\u00e9s</desc></programme>
-<programme start="20251123144500 +0000" stop="20251123170000 +0000" channel="premier-sports-2.uk"><title>Abu Dhabi T10 Cricket</title><desc>Northern Warriors v Vista Riders</desc></programme>
-<programme start="20251123170000 +0000" stop="20251123173000 +0000" channel="premier-sports-2.uk"><title>Fastzone</title><desc>Fastzone</desc></programme>
-<programme start="20251123173000 +0000" stop="20251123180000 +0000" channel="premier-sports-2.uk"><title>Bike World</title><desc>Bike World</desc></programme>
-<programme start="20251123180000 +0000" stop="20251123190000 +0000" channel="premier-sports-2.uk"><title>NHL on the Fly</title><desc>NHL on the Fly</desc></programme>
-<programme start="20251123190000 +0000" stop="20251123210000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Stade Francais v Toulon</desc></programme>
-<programme start="20251123210000 +0000" stop="20251123213000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>Alpe DHuez</desc></programme>
-<programme start="20251123213000 +0000" stop="20251123222500 +0000" channel="premier-sports-2.uk"><title>NHL Specials</title><desc>Stanley Cup Championship Film</desc></programme>
-<programme start="20251123222500 +0000" stop="20251123230000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Cruzeiro v Corinthians</desc></programme>
-<programme start="20251123230000 +0000" stop="20251124003000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Palmeiras v Fluminense</desc></programme>
+<programme start="20251125040000 +0000" stop="20251125043000 +0000" channel="premier-sports-1.uk"><title>NHL Specials</title><desc>Summer with Stanley</desc></programme>
+<programme start="20251125043000 +0000" stop="20251125050000 +0000" channel="premier-sports-1.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
+<programme start="20251125050000 +0000" stop="20251125050000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Alav\u00e9s v Celta Vigo</desc></programme>
+<programme start="20251125050000 +0000" stop="20251125051000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251125051000 +0000" stop="20251125052000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251125052000 +0000" stop="20251125053000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251125053000 +0000" stop="20251125063000 +0000" channel="premier-sports-1.uk"><title>Transworld Sport</title><desc>Transworld Sport</desc></programme>
+<programme start="20251125063000 +0000" stop="20251125070000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Barcelona v Athletic Club</desc></programme>
+<programme start="20251125070000 +0000" stop="20251125083000 +0000" channel="premier-sports-1.uk"><title>Argentine Primera</title><desc>Racing v River Plate</desc></programme>
+<programme start="20251125083000 +0000" stop="20251125090000 +0000" channel="premier-sports-1.uk"><title>Eredivisie Highlights</title><desc>Round 13</desc></programme>
+<programme start="20251125090000 +0000" stop="20251125093000 +0000" channel="premier-sports-1.uk"><title>Sporting Greats</title><desc>Sporting Greats</desc></programme>
+<programme start="20251125093000 +0000" stop="20251125093000 +0000" channel="premier-sports-1.uk"><title>Scottish Football Social Club</title><desc>Scottish Football Social Club</desc></programme>
+<programme start="20251125093000 +0000" stop="20251125100000 +0000" channel="premier-sports-1.uk"><title>Top 14 Highlights</title><desc>Round 10</desc></programme>
+<programme start="20251125100000 +0000" stop="20251125103000 +0000" channel="premier-sports-1.uk"><title>NHL</title><desc>Vegas at Utah</desc></programme>
+<programme start="20251125103000 +0000" stop="20251125104000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Getafe v Atl\u00e9tico Madrid</desc></programme>
+<programme start="20251125104000 +0000" stop="20251125105000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Elche v Real Madrid</desc></programme>
+<programme start="20251125105000 +0000" stop="20251126000000 +0000" channel="premier-sports-1.uk"><title>LALIGA Match Highlights</title><desc>Espanyol v Sevilla</desc></programme>
+<programme start="20251126000000 +0000" stop="20251126003000 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Oviedo v Rayo Vallecano</desc></programme>
+<programme start="20251126003000 +0000" stop="20251126020000 +0000" channel="premier-sports-1.uk"><title>Abu Dhabi T10 Cricket</title><desc>Deccan Gladiators v Ajman Titans</desc></programme>
+<programme start="20251126020000 +0000" stop="20251126024500 +0000" channel="premier-sports-1.uk"><title>LALIGA</title><desc>Real Betis v Girona</desc></programme>
 <programme start="20251124003000 +0000" stop="20251124010000 +0000" channel="premier-sports-2.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251124010000 +0000" stop="20251124010000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Calgary at Vancouver</desc></programme>
-<programme start="20251124010000 +0000" stop="20251124013000 +0000" channel="premier-sports-2.uk"><title>Fastzone</title><desc>Fastzone</desc></programme>
-<programme start="20251124013000 +0000" stop="20251124033000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Lyon v Clermont Auvergne</desc></programme>
-<programme start="20251124033000 +0000" stop="20251124040000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>Wembley Stadium</desc></programme>
-<programme start="20251124040000 +0000" stop="20251124040000 +0000" channel="premier-sports-2.uk"><title>NHL Specials</title><desc>Summer with Stanley</desc></programme>
-<programme start="20251124040000 +0000" stop="20251124043000 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Heerenveen v AZ</desc></programme>
+<programme start="20251124010000 +0000" stop="20251124040000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Calgary at Vancouver</desc></programme>
+<programme start="20251124040000 +0000" stop="20251124043000 +0000" channel="premier-sports-2.uk"><title>NHL Specials</title><desc>Summer with Stanley</desc></programme>
 <programme start="20251124043000 +0000" stop="20251124050000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>St. Andrews Golf Course</desc></programme>
-<programme start="20251124050000 +0000" stop="20251124060000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
-<programme start="20251124060000 +0000" stop="20251124063000 +0000" channel="premier-sports-2.uk"><title>Bike World</title><desc>Bike World</desc></programme>
-<programme start="20251124063000 +0000" stop="20251124070000 +0000" channel="premier-sports-2.uk"><title>EIHL</title><desc>Glasgow v Guildford</desc></programme>
-<programme start="20251124070000 +0000" stop="20251124083000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Bordeaux Begles v Pau</desc></programme>
-<programme start="20251124083000 +0000" stop="20251124090000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>Lords Cricket Ground</desc></programme>
-<programme start="20251124090000 +0000" stop="20251124090000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Carolina at Buffalo</desc></programme>
-<programme start="20251124090000 +0000" stop="20251124230000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Seattle at NY Islanders</desc></programme>
+<programme start="20251124050000 +0000" stop="20251124070000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
+<programme start="20251124070000 +0000" stop="20251124090000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Bordeaux Begles v Pau</desc></programme>
+<programme start="20251124090000 +0000" stop="20251124110000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Carolina at Buffalo</desc></programme>
+<programme start="20251124110000 +0000" stop="20251124130000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Palmeiras v Fluminense</desc></programme>
+<programme start="20251124130000 +0000" stop="20251124133000 +0000" channel="premier-sports-2.uk"><title>Fastzone</title><desc>Fastzone</desc></programme>
+<programme start="20251124133000 +0000" stop="20251124153000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Lyon v Clermont Auvergne</desc></programme>
+<programme start="20251124153000 +0000" stop="20251124160000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>Wembley Stadium</desc></programme>
+<programme start="20251124160000 +0000" stop="20251124180000 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Heerenveen v AZ</desc></programme>
+<programme start="20251124180000 +0000" stop="20251124183000 +0000" channel="premier-sports-2.uk"><title>Bike World</title><desc>Bike World</desc></programme>
+<programme start="20251124183000 +0000" stop="20251124203000 +0000" channel="premier-sports-2.uk"><title>EIHL</title><desc>Glasgow v Guildford</desc></programme>
+<programme start="20251124203000 +0000" stop="20251124210000 +0000" channel="premier-sports-2.uk"><title>Temples of Sport</title><desc>Lords Cricket Ground</desc></programme>
+<programme start="20251124210000 +0000" stop="20251124230000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Seattle at NY Islanders</desc></programme>
 <programme start="20251124230000 +0000" stop="20251124230000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>St. Louis at NY Rangers</desc></programme>
 <programme start="20251124230000 +0000" stop="20251125010000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Lyon v Clermont Auvergne</desc></programme>
 <programme start="20251125010000 +0000" stop="20251125020000 +0000" channel="premier-sports-2.uk"><title>NHL on the Fly</title><desc>NHL on the Fly</desc></programme>
 <programme start="20251125020000 +0000" stop="20251125020000 +0000" channel="premier-sports-2.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
 <programme start="20251125020000 +0000" stop="20251125023000 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Feyenoord v NEC</desc></programme>
 <programme start="20251125023000 +0000" stop="20251125030000 +0000" channel="premier-sports-2.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
-<programme start="20251122233000 +0000" stop="20251123003000 +0000" channel="premier-sports-rugby.uk"><title>URC in 60</title><desc>Round 5</desc></programme>
-<programme start="20251123003000 +0000" stop="20251123022000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2016 Semi Saracens v Wasps</desc></programme>
-<programme start="20251123022000 +0000" stop="20251123041000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2018 Final Leinster v Racing</desc></programme>
-<programme start="20251123041000 +0000" stop="20251123060000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Lions v Ulster</desc></programme>
-<programme start="20251123060000 +0000" stop="20251123073500 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2015 Semi Clermont v Saracens</desc></programme>
-<programme start="20251123073500 +0000" stop="20251123092000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
-<programme start="20251123092000 +0000" stop="20251123110500 +0000" channel="premier-sports-rugby.uk"><title>International Rugby</title><desc>Georgia v Japan</desc></programme>
-<programme start="20251123110500 +0000" stop="20251123123500 +0000" channel="premier-sports-rugby.uk"><title>The Rugby Pod</title><desc>The Rugby Pod</desc></programme>
-<programme start="20251123123500 +0000" stop="20251123141500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Sharks v Scarlets</desc></programme>
-<programme start="20251123141500 +0000" stop="20251123144500 +0000" channel="premier-sports-rugby.uk"><title>Top 14 Highlights</title><desc>Round 9</desc></programme>
-<programme start="20251123144500 +0000" stop="20251123163000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Glasgow Warriors v Bulls</desc></programme>
-<programme start="20251123163000 +0000" stop="20251123181500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Lions v Ulster</desc></programme>
-<programme start="20251123181500 +0000" stop="20251123200500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Dragons v Ospreys</desc></programme>
-<programme start="20251123200500 +0000" stop="20251123215000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2018 Semi Leinster v Scarlets</desc></programme>
-<programme start="20251123215000 +0000" stop="20251123233500 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Stade Francais v Toulon</desc></programme>
-<programme start="20251123233500 +0000" stop="20251124000000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Leinster v Zebre</desc></programme>
-<programme start="20251124000000 +0000" stop="20251124012500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Lions v Ulster</desc></programme>
-<programme start="20251124012500 +0000" stop="20251124014500 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
-<programme start="20251124014500 +0000" stop="20251124031000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Sharks v Scarlets</desc></programme>
-<programme start="20251124031000 +0000" stop="20251124033000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2016 Finall Racing v Saracens</desc></programme>
-<programme start="20251124033000 +0000" stop="20251124050000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Dragons v Ospreys</desc></programme>
-<programme start="20251124050000 +0000" stop="20251124051500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Glasgow Warriors v Bulls</desc></programme>
-<programme start="20251124051500 +0000" stop="20251124064500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Benetton v Stormers</desc></programme>
-<programme start="20251124064500 +0000" stop="20251124070000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Bordeaux Begles v Pau</desc></programme>
-<programme start="20251124070000 +0000" stop="20251124083000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2016 Semi Saracens v Wasps</desc></programme>
-<programme start="20251124083000 +0000" stop="20251124085000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Lyon v Clermont Auvergne</desc></programme>
-<programme start="20251124085000 +0000" stop="20251124092000 +0000" channel="premier-sports-rugby.uk"><title>Top 14 Highlights</title><desc>Round 9</desc></programme>
-<programme start="20251124092000 +0000" stop="20251124101500 +0000" channel="premier-sports-rugby.uk"><title>International Rugby</title><desc>Georgia v Japan</desc></programme>
-<programme start="20251124101500 +0000" stop="20251124105500 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
-<programme start="20251124105500 +0000" stop="20251124233000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Cardiff v Edinburgh</desc></programme>
+<programme start="20251125030000 +0000" stop="20251125040000 +0000" channel="premier-sports-2.uk"><title>NHL Tonight</title><desc>Top 20 Defensemen</desc></programme>
+<programme start="20251125040000 +0000" stop="20251125040000 +0000" channel="premier-sports-2.uk"><title>NHL Tonight</title><desc>Top 20 Centers</desc></programme>
+<programme start="20251125040000 +0000" stop="20251125043000 +0000" channel="premier-sports-2.uk"><title>Bike World</title><desc>Bike World</desc></programme>
+<programme start="20251125043000 +0000" stop="20251125050000 +0000" channel="premier-sports-2.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
+<programme start="20251125050000 +0000" stop="20251125050000 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Heerenveen v AZ</desc></programme>
+<programme start="20251125050000 +0000" stop="20251125070000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Palmeiras v Fluminense</desc></programme>
+<programme start="20251125070000 +0000" stop="20251125070000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Cruzeiro v Corinthians</desc></programme>
+<programme start="20251125070000 +0000" stop="20251125090000 +0000" channel="premier-sports-2.uk"><title>Top 14</title><desc>Stade Francais v Toulon</desc></programme>
+<programme start="20251125090000 +0000" stop="20251125090000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>St. Louis at NY Rangers</desc></programme>
+<programme start="20251125090000 +0000" stop="20251125093000 +0000" channel="premier-sports-2.uk"><title>Footballs Greatest</title><desc>Footballs Greatest</desc></programme>
+<programme start="20251125093000 +0000" stop="20251125103000 +0000" channel="premier-sports-2.uk"><title>NHL Tonight</title><desc>Top 20 Centers</desc></programme>
+<programme start="20251125103000 +0000" stop="20251125230000 +0000" channel="premier-sports-2.uk"><title>NHL: This is Hockey</title><desc>This is Hockey</desc></programme>
+<programme start="20251125230000 +0000" stop="20251125230000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>St. Louis at NY Rangers</desc></programme>
+<programme start="20251125230000 +0000" stop="20251125233000 +0000" channel="premier-sports-2.uk"><title>Fastzone</title><desc>Fastzone</desc></programme>
+<programme start="20251125233000 +0000" stop="20251126000000 +0000" channel="premier-sports-2.uk"><title>Bike World</title><desc>Bike World</desc></programme>
+<programme start="20251126000000 +0000" stop="20251126010000 +0000" channel="premier-sports-2.uk"><title>Eredivisie</title><desc>Heerenveen v AZ</desc></programme>
+<programme start="20251126010000 +0000" stop="20251126020000 +0000" channel="premier-sports-2.uk"><title>NHL</title><desc>Dallas at Edmonton</desc></programme>
+<programme start="20251126020000 +0000" stop="20251126040000 +0000" channel="premier-sports-2.uk"><title>Brasileiro Serie A</title><desc>Palmeiras v Fluminense</desc></programme>
+<programme start="20251123233500 +0000" stop="20251124012500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Leinster v Zebre</desc></programme>
+<programme start="20251124012500 +0000" stop="20251124031000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
+<programme start="20251124031000 +0000" stop="20251124050000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2016 Finall Racing v Saracens</desc></programme>
+<programme start="20251124050000 +0000" stop="20251124064500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Glasgow Warriors v Bulls</desc></programme>
+<programme start="20251124064500 +0000" stop="20251124083000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Bordeaux Begles v Pau</desc></programme>
+<programme start="20251124083000 +0000" stop="20251124101500 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Lyon v Clermont Auvergne</desc></programme>
+<programme start="20251124101500 +0000" stop="20251124120000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Racing 92 v Bayonne</desc></programme>
+<programme start="20251124120000 +0000" stop="20251124134500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Lions v Ulster</desc></programme>
+<programme start="20251124134500 +0000" stop="20251124153000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Sharks v Scarlets</desc></programme>
+<programme start="20251124153000 +0000" stop="20251124171500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Dragons v Ospreys</desc></programme>
+<programme start="20251124171500 +0000" stop="20251124190000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Benetton v Stormers</desc></programme>
+<programme start="20251124190000 +0000" stop="20251124205000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2016 Semi Saracens v Wasps</desc></programme>
+<programme start="20251124205000 +0000" stop="20251124212000 +0000" channel="premier-sports-rugby.uk"><title>Top 14 Highlights</title><desc>Round 9</desc></programme>
+<programme start="20251124212000 +0000" stop="20251124225500 +0000" channel="premier-sports-rugby.uk"><title>International Rugby</title><desc>Georgia v Japan</desc></programme>
+<programme start="20251124225500 +0000" stop="20251124233000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Cardiff v Edinburgh</desc></programme>
 <programme start="20251124233000 +0000" stop="20251125000000 +0000" channel="premier-sports-rugby.uk"><title>Top 14 Highlights</title><desc>Round 9</desc></programme>
 <programme start="20251125000000 +0000" stop="20251125004000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Stade Francais v Toulon</desc></programme>
 <programme start="20251125004000 +0000" stop="20251125014500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Munster v Connacht</desc></programme>
 <programme start="20251125014500 +0000" stop="20251125023000 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Lyon v Clermont Auvergne</desc></programme>
 <programme start="20251125023000 +0000" stop="20251125033000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2016 Finall Racing v Saracens</desc></programme>
+<programme start="20251125033000 +0000" stop="20251125041500 +0000" channel="premier-sports-rugby.uk"><title>Top 14</title><desc>Bordeaux Begles v Pau</desc></programme>
+<programme start="20251125041500 +0000" stop="20251125051500 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2015 Semi Toulon v Leinster</desc></programme>
+<programme start="20251125051500 +0000" stop="20251125062500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Munster v Connacht</desc></programme>
+<programme start="20251125062500 +0000" stop="20251125070500 +0000" channel="premier-sports-rugby.uk"><title>International Rugby</title><desc>Georgia v Japan</desc></programme>
+<programme start="20251125070500 +0000" stop="20251125073500 +0000" channel="premier-sports-rugby.uk"><title>Top 14 Highlights</title><desc>Round 10</desc></programme>
+<programme start="20251125073500 +0000" stop="20251125080000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2015 Semi Clermont v Saracens</desc></programme>
+<programme start="20251125080000 +0000" stop="20251125091000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Cardiff v Edinburgh</desc></programme>
+<programme start="20251125091000 +0000" stop="20251125094500 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2017 Semi Clermont v Leinster</desc></programme>
+<programme start="20251125094500 +0000" stop="20251125230000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Leinster v Zebre</desc></programme>
+<programme start="20251125230000 +0000" stop="20251125231000 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Glasgow Warriors v Bulls</desc></programme>
+<programme start="20251125231000 +0000" stop="20251125234000 +0000" channel="premier-sports-rugby.uk"><title>Top 14 Highlights</title><desc>Round 10</desc></programme>
+<programme start="20251125234000 +0000" stop="20251126004500 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2018 Semi Racing v Munster</desc></programme>
+<programme start="20251126004500 +0000" stop="20251126012500 +0000" channel="premier-sports-rugby.uk"><title>URC</title><desc>Lions v Ulster</desc></programme>
+<programme start="20251126012500 +0000" stop="20251126023000 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2015 Semi Clermont v Saracens</desc></programme>
+<programme start="20251126023000 +0000" stop="20251126025500 +0000" channel="premier-sports-rugby.uk"><title>Champions Cup Classic Games</title><desc>2018 Semi Leinster v Scarlets</desc></programme>
 </tv>
