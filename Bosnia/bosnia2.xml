@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
+<channel id="Arena 1 Premium.ba"><display-name>Arena 1 Premium.ba</display-name></channel>
+<channel id="Arena 2 Premium.ba"><display-name>Arena 2 Premium.ba</display-name></channel>
+<channel id="Arena 3 Premium.ba"><display-name>Arena 3 Premium.ba</display-name></channel>
+<channel id="Arenasport 1.ba"><display-name>Arenasport 1.ba</display-name></channel>
+<channel id="Arenasport 2.ba"><display-name>Arenasport 2.ba</display-name></channel>
+<channel id="Arenasport 3.ba"><display-name>Arenasport 3.ba</display-name></channel>
+<channel id="Arenasport 4.ba"><display-name>Arenasport 4.ba</display-name></channel>
+<channel id="Arenasport 5.ba"><display-name>Arenasport 5.ba</display-name></channel>
+<channel id="Arenasport 6.ba"><display-name>Arenasport 6.ba</display-name></channel>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208160000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251208160000 +0000" stop="20251208180000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN Liga BiH</desc></programme>
+<programme start="20251208180000 +0000" stop="20251208200000 +0000" channel="Arena 1 Premium.ba"><title>Sloga - Rudar</title><desc>Fudbal, WWIN Liga BiH</desc></programme>
+<programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="Arena 1 Premium.ba"><title>Pregled kola</title><desc>Emisija, WWIN LIGA BIH</desc></programme>
+<programme start="20251208210000 +0000" stop="20251208230000 +0000" channel="Arena 1 Premium.ba"><title>Wolves - Manchester United</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209020000 +0000" channel="Arena 1 Premium.ba"><title>Sloga - Rudar</title><desc>Fudbal, WWIN Liga BiH</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209043000 +0000" channel="Arena 1 Premium.ba"><title>New Orleans - San Antonio</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251209043000 +0000" stop="20251209050000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209050000 +0000" stop="20251209060000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209140000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209163000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209163000 +0000" stop="20251209183000 +0000" channel="Arena 1 Premium.ba"><title>Kairat - Olympiacos</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209183000 +0000" stop="20251209184500 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209184500 +0000" stop="20251209204500 +0000" channel="Arena 1 Premium.ba"><title>Bayern - Sporting</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209204500 +0000" stop="20251209210000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arena 1 Premium.ba"><title>Inter - Liverpool</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210040000 +0000" channel="Arena 1 Premium.ba"><title>Sloga - Rudar</title><desc>Fudbal, WWIN Liga BiH</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210060000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210100000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arena 1 Premium.ba"><title>Vršac - Radnički</title><desc>Košarka, ABA 2.liga</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210184500 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251210184500 +0000" stop="20251210204500 +0000" channel="Arena 1 Premium.ba"><title>Villarreal - Copenhagen</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210204500 +0000" stop="20251210210000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arena 1 Premium.ba"><title>Real M. - Manchester City</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211040000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arena 1 Premium.ba"><title>Sturm - Crvena zvezda</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arena 1 Premium.ba"><title>Rijeka - Celje</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212020000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212040000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212060000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212140000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212200000 +0000" channel="Arena 1 Premium.ba"><title>Vukovar - Varaždin</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212210000 +0000" channel="Arena 1 Premium.ba"><title>Najava kola</title><desc>Emisija, WWIN LIGA BIH</desc></programme>
+<programme start="20251212210000 +0000" stop="20251212230000 +0000" channel="Arena 1 Premium.ba"><title>WBA - Sheffield United</title><desc>Fudbal, Engleska 2.liga</desc></programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Radnik</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213100000 +0000" channel="Arena 1 Premium.ba"><title>Sarajevo - Željezničar</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251213100000 +0000" stop="20251213120000 +0000" channel="Arena 1 Premium.ba"><title>Borac - Posušje</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251213120000 +0000" stop="20251213124500 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251213124500 +0000" stop="20251213133000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251213133000 +0000" stop="20251213153000 +0000" channel="Arena 1 Premium.ba"><title>Norwich - Southampton</title><desc>Fudbal, Engleska 2.liga</desc></programme>
+<programme start="20251213153000 +0000" stop="20251213160000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251213160000 +0000" stop="20251213180000 +0000" channel="Arena 1 Premium.ba"><title>Sloga - Velež</title><desc>Fudbal, WWIN Liga</desc></programme>
+<programme start="20251213180000 +0000" stop="20251213183000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251213183000 +0000" stop="20251213203000 +0000" channel="Arena 1 Premium.ba"><title>Široki Brijeg - Posušje</title><desc>Fudbal, WWIN Liga</desc></programme>
+<programme start="20251213203000 +0000" stop="20251213210000 +0000" channel="Arena 1 Premium.ba"><title>The Big Interview</title><desc>The Big Interview, Engleska liga</desc></programme>
+<programme start="20251213210000 +0000" stop="20251213230000 +0000" channel="Arena 1 Premium.ba"><title>Arsenal - Wolves</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251213230000 +0000" stop="20251214010000 +0000" channel="Arena 1 Premium.ba"><title>TBD</title><desc>Fudbal, Argentinska liga</desc></programme>
+<programme start="20251214010000 +0000" stop="20251214030000 +0000" channel="Arena 1 Premium.ba"><title>Sloga - Velež</title><desc>Fudbal, WWIN LIGA BIH</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arena 2 Premium.ba"><title>Sassuolo - Fiorentina</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arena 2 Premium.ba"><title>Inter - Como</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208143000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208143000 +0000" stop="20251208150000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208150000 +0000" stop="20251208170000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208170000 +0000" stop="20251208173000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208173000 +0000" stop="20251208180000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208180000 +0000" stop="20251208200000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208200000 +0000" stop="20251208204500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208204500 +0000" stop="20251208224500 +0000" channel="Arena 2 Premium.ba"><title>Torino - AC Milan</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208224500 +0000" stop="20251208231500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208231500 +0000" stop="20251209000000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209020000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209040000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209040000 +0000" stop="20251209060000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arena 2 Premium.ba"><title>Sassuolo - Fiorentina</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arena 2 Premium.ba"><title>Inter - Como</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209120000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209180000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209180000 +0000" stop="20251209200000 +0000" channel="Arena 2 Premium.ba"><title>Bnei Herzliya - Tofas</title><desc>Košarka, Fiba Liga prvaka</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209203000 +0000" stop="20251209210000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arena 2 Premium.ba"><title>Atalanta - Chelsea</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209231500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251209231500 +0000" stop="20251210000000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Arena 2 Premium.ba"><title>Sassuolo - Fiorentina</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210040000 +0000" channel="Arena 2 Premium.ba"><title>Inter - Como</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210060000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210080000 +0000" channel="Arena 2 Premium.ba"><title>Inter - Como</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arena 2 Premium.ba"><title>Sassuolo - Fiorentina</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210184500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210184500 +0000" stop="20251210204500 +0000" channel="Arena 2 Premium.ba"><title>Qarabag - Ajax</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210204500 +0000" stop="20251210210000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arena 2 Premium.ba"><title>Athletic B. - PSG</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210231500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251210231500 +0000" stop="20251211000000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211020000 +0000" channel="Arena 2 Premium.ba"><title>Inter - Como</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211040000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arena 2 Premium.ba"><title>Sassuolo - Fiorentina</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arena 2 Premium.ba"><title>Inter - Como</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arena 2 Premium.ba"><title>Utrecht - Nottingham Forest</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arena 2 Premium.ba"><title>Celtic - Roma</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211231500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251211231500 +0000" stop="20251212000000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212020000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212040000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212060000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212120000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212140000 +0000" channel="Arena 2 Premium.ba"><title>Sassuolo - Fiorentina</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212163000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212163000 +0000" stop="20251212170000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212170000 +0000" stop="20251212190000 +0000" channel="Arena 2 Premium.ba"><title>Galatasaray - Merkezefendi</title><desc>Košarka, Turska liga</desc></programme>
+<programme start="20251212190000 +0000" stop="20251212193000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212193000 +0000" stop="20251212200000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212204500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212204500 +0000" stop="20251212224500 +0000" channel="Arena 2 Premium.ba"><title>Lecce - Pisa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212224500 +0000" stop="20251212231500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251212231500 +0000" stop="20251213000000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arena 2 Premium.ba"><title>Verona - Atalanta</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213080000 +0000" channel="Arena 2 Premium.ba"><title>Lazio - Bologna</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251213080000 +0000" stop="20251213100000 +0000" channel="Arena 2 Premium.ba"><title>Pisa - Parma</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213100000 +0000" stop="20251213120000 +0000" channel="Arena 2 Premium.ba"><title>Udinese - Genoa</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213120000 +0000" stop="20251213140000 +0000" channel="Arena 2 Premium.ba"><title>Lecce - Pisa</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251213140000 +0000" stop="20251213143000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213143000 +0000" stop="20251213151500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213151500 +0000" stop="20251213171500 +0000" channel="Arena 2 Premium.ba"><title>Torino - Cremonese</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251213171500 +0000" stop="20251213174500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213174500 +0000" stop="20251213181500 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213181500 +0000" stop="20251213201500 +0000" channel="Arena 2 Premium.ba"><title>Parma - Lazio</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251213201500 +0000" stop="20251213210000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213210000 +0000" stop="20251213230000 +0000" channel="Arena 2 Premium.ba"><title>Atalanta - Cagliari</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
+<programme start="20251213230000 +0000" stop="20251213233000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Arena 2 Premium.ba"><title>Champions of Italy</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251214000000 +0000" stop="20251214020000 +0000" channel="Arena 2 Premium.ba"><title>Torino - Cremonese</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214040000 +0000" channel="Arena 2 Premium.ba"><title>Parma - Lazio</title><desc>Fudbal, Italijanska liga</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208143000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251208143000 +0000" stop="20251208150000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251208150000 +0000" stop="20251208170000 +0000" channel="Arena 3 Premium.ba"><title>Radnik - Mladost</title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251208170000 +0000" stop="20251208190000 +0000" channel="Arena 3 Premium.ba"><title>Radnički Niš - Čukarički</title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251208190000 +0000" stop="20251208210000 +0000" channel="Arena 3 Premium.ba"><title>Spartak - TSC</title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251208210000 +0000" stop="20251208230000 +0000" channel="Arena 3 Premium.ba"><title>Osasuna - Levante</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209020000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209040000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209040000 +0000" stop="20251209060000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209120000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arena 3 Premium.ba"><title>Osasuna - Levante</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209180000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209180000 +0000" stop="20251209200000 +0000" channel="Arena 3 Premium.ba"><title>Real Madrid - Celta Vigo</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251209203000 +0000" stop="20251209210000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arena 3 Premium.ba"><title>PSV - Atletico M.</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210040000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210060000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210080000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arena 3 Premium.ba"><title>Osasuna - Levante</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arena 3 Premium.ba"><title>Real Madrid - Celta Vigo</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210183000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251210183000 +0000" stop="20251210203000 +0000" channel="Arena 3 Premium.ba"><title>Aek - Levice</title><desc>Košarka, Liga prvaka</desc></programme>
+<programme start="20251210203000 +0000" stop="20251210210000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arena 3 Premium.ba"><title>Club Brugge - Arsenal</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211020000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211040000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arena 3 Premium.ba"><title>Osasuna - Levante</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arena 3 Premium.ba"><title>Real Madrid - Celta Vigo</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211183000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251211183000 +0000" stop="20251211184500 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arena 3 Premium.ba"><title>Nice - Braga</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arena 3 Premium.ba"><title>Basel - Aston Villa</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212020000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212040000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212060000 +0000" channel="Arena 3 Premium.ba"><title>Osasuna - Levante</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212120000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212140000 +0000" channel="Arena 3 Premium.ba"><title>Betis - Barcelona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212163000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212163000 +0000" stop="20251212170000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212170000 +0000" stop="20251212173000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212173000 +0000" stop="20251212193000 +0000" channel="Arena 3 Premium.ba"><title>CSKA - Samara</title><desc>Košarka, VTB liga</desc></programme>
+<programme start="20251212193000 +0000" stop="20251212200000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212203000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212203000 +0000" stop="20251212210000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212210000 +0000" stop="20251212230000 +0000" channel="Arena 3 Premium.ba"><title>Real Sociedad - Girona</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213080000 +0000" channel="Arena 3 Premium.ba"><title>Ath. Bilbao - Atletico Madrid</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213080000 +0000" stop="20251213100000 +0000" channel="Arena 3 Premium.ba"><title>Alaves - Real Sociedad</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213100000 +0000" stop="20251213120000 +0000" channel="Arena 3 Premium.ba"><title>Valencica - Sevilla</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213120000 +0000" stop="20251213140000 +0000" channel="Arena 3 Premium.ba"><title>Real Sociedad - Girona</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213140000 +0000" stop="20251213160000 +0000" channel="Arena 3 Premium.ba"><title>Atletico M. - Valencia</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213160000 +0000" stop="20251213161500 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251213161500 +0000" stop="20251213181500 +0000" channel="Arena 3 Premium.ba"><title>Mallorca - Elche</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213181500 +0000" stop="20251213183000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251213183000 +0000" stop="20251213203000 +0000" channel="Arena 3 Premium.ba"><title>Barcelona - Osasuna</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213203000 +0000" stop="20251213210000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251213210000 +0000" stop="20251213230000 +0000" channel="Arena 3 Premium.ba"><title>Getafe - Espanyol</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251213230000 +0000" stop="20251213233000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Arena 3 Premium.ba"><title>La Liga Talking</title><desc>Fudbal, Španska liga</desc></programme>
+<programme start="20251214000000 +0000" stop="20251214020000 +0000" channel="Arena 3 Premium.ba"><title>Mallorca - Elche</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214040000 +0000" channel="Arena 3 Premium.ba"><title>Barcelona - Osasuna</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arenasport 1.ba"><title>Bournemouth - Chelsea</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arenasport 1.ba"><title>Aston Villa - Arsenal</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arenasport 1.ba"><title>Machester City - Sunderland</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arenasport 1.ba"><title>Fulham - Crystal Palace</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208160000 +0000" channel="Arenasport 1.ba"><title>Brighton - West Ham</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
+<programme start="20251208160000 +0000" stop="20251208163000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251208163000 +0000" stop="20251208170000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251208170000 +0000" stop="20251208190000 +0000" channel="Arenasport 1.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251208190000 +0000" stop="20251208193000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251208193000 +0000" stop="20251208200000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="Arenasport 1.ba"><title>Luka Modric</title><desc>Fudbal, (NE)USPJEH PRVAKA</desc></programme>
+<programme start="20251208210000 +0000" stop="20251208230000 +0000" channel="Arenasport 1.ba"><title>Gimnasia - Estudiantes</title><desc>Fudbal, Argentinska liga</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209020000 +0000" channel="Arenasport 1.ba"><title>Aston Villa - Arsenal</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209021500 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251209021500 +0000" stop="20251209050000 +0000" channel="Arenasport 1.ba"><title>Los Angeles Charges - Philadelphia Eagles</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251209050000 +0000" stop="20251209060000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arenasport 1.ba"><title>Aston Villa - Arsenal</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arenasport 1.ba"><title>Machester City - Sunderland</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209120000 +0000" channel="Arenasport 1.ba"><title>Fulham - Crystal Palace</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Arenasport 1.ba"><title>Brighton - West Ham</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arenasport 1.ba"><title>Bournemouth - Chelsea</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209171500 +0000" channel="Arenasport 1.ba"><title>Bournemouth - Chelsea</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251209171500 +0000" stop="20251209200000 +0000" channel="Arenasport 1.ba"><title>Njemačka - Brazil</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209210000 +0000" channel="Arenasport 1.ba"><title>Uvodni studio</title><desc>Emisija, Liga prvaka</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arenasport 1.ba"><title>Barcelona - Eintracht Frankfurt</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arenasport 1.ba"><title>Zvaršni studio</title><desc>Emisija, Liga prvaka</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210003000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251210003000 +0000" stop="20251210010000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251210010000 +0000" stop="20251210034500 +0000" channel="Arenasport 1.ba"><title>New York Islanders - Vegas Golden Knights</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251210034500 +0000" stop="20251210044500 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251210044500 +0000" stop="20251210054500 +0000" channel="Arenasport 1.ba"><title>Luka Modric</title><desc>Fudbal, (NE)USPJEH PRVAKA</desc></programme>
+<programme start="20251210054500 +0000" stop="20251210060000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210080000 +0000" channel="Arenasport 1.ba"><title>Bayern - Sporting</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Arenasport 1.ba"><title>Atalanta - Chelsea</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arenasport 1.ba"><title>Barcelona - Eintracht Frankfurt</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arenasport 1.ba"><title>Inter - Liverpool</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arenasport 1.ba"><title>PSV - Atl.Madrid</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arenasport 1.ba"><title>Atalanta - Chelsea</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210200000 +0000" channel="Arenasport 1.ba"><title>Nizozemska - Mađarska</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251210200000 +0000" stop="20251210210000 +0000" channel="Arenasport 1.ba"><title>Uvodni studio</title><desc>Emisija, Liga prvaka</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arenasport 1.ba"><title>Benfica - Napoli</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arenasport 1.ba"><title>Zvaršni studio</title><desc>Emisija, Liga prvaka</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211020000 +0000" channel="Arenasport 1.ba"><title>Ath.Bulbao - PSG</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211040000 +0000" channel="Arenasport 1.ba"><title>Benfica - Napoli</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arenasport 1.ba"><title>Real Madrid - Man.City</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arenasport 1.ba"><title>Inter - Liverpool</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arenasport 1.ba"><title>PSV - Atl.Madrid</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arenasport 1.ba"><title>Atalanta - Chelsea</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arenasport 1.ba"><title>Ath.Bulbao - PSG</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arenasport 1.ba"><title>Benfica - Napoli</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arenasport 1.ba"><title>Real Madrid - Man.City</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arenasport 1.ba"><title>Dinamo - Betis</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arenasport 1.ba"><title>Rakow - Zrinjski</title><desc>Fudbal, Konferencijska liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251212010000 +0000" channel="Arenasport 1.ba"><title>Dinamo - Betis</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251212010000 +0000" stop="20251212013000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251212013000 +0000" stop="20251212021500 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251212021500 +0000" stop="20251212050000 +0000" channel="Arenasport 1.ba"><title>Tampa Bay Buccaneers - Atlanta Falcons</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251212050000 +0000" stop="20251212060000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arenasport 1.ba"><title>PSV - Atl.Madrid</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arenasport 1.ba"><title>Atalanta - Chelsea</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212120000 +0000" channel="Arenasport 1.ba"><title>Ath.Bulbao - PSG</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212140000 +0000" channel="Arenasport 1.ba"><title>Real Madrid - Man.City</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arenasport 1.ba"><title>Dinamo - Betis</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="Arenasport 1.ba"><title>Rakow - Zrinjski</title><desc>Fudbal, Konferencijska liga</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212200000 +0000" channel="Arenasport 1.ba"><title>Split - Igokea</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212204500 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251212204500 +0000" stop="20251212224500 +0000" channel="Arenasport 1.ba"><title>Angers - Nantes</title><desc>Fudbal, Francuska liga</desc></programme>
+<programme start="20251212224500 +0000" stop="20251212234500 +0000" channel="Arenasport 1.ba"><title>Luka Modric</title><desc>Fudbal, (NE)USPJEH PRVAKA</desc></programme>
+<programme start="20251212234500 +0000" stop="20251213000000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arenasport 1.ba"><title>Real Madrid - Man.City</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arenasport 1.ba"><title>Dinamo - Betis</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arenasport 1.ba"><title>Rakow - Zrinjski</title><desc>Fudbal, Konferencijska liga</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213070000 +0000" channel="Arenasport 1.ba"><title>Luka Modric</title><desc>Fudbal, (NE)USPJEH PRVAKA</desc></programme>
+<programme start="20251213070000 +0000" stop="20251213090000 +0000" channel="Arenasport 1.ba"><title>Dinamo - Betis</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251213090000 +0000" stop="20251213110000 +0000" channel="Arenasport 1.ba"><title>Rakow - Zrinjski</title><desc>Fudbal, Konferencijska liga</desc></programme>
+<programme start="20251213110000 +0000" stop="20251213130000 +0000" channel="Arenasport 1.ba"><title>Turk Telekom - Bursaspor</title><desc>Košarka, Tursksa liga</desc></programme>
+<programme start="20251213130000 +0000" stop="20251213150000 +0000" channel="Arenasport 1.ba"><title>Čukarički - Radnik </title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251213150000 +0000" stop="20251213160000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251213160000 +0000" stop="20251213180000 +0000" channel="Arenasport 1.ba"><title>Chelsea - Everton</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251213180000 +0000" stop="20251213183000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251213183000 +0000" stop="20251213203000 +0000" channel="Arenasport 1.ba"><title>Burnley - Fulham</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251213203000 +0000" stop="20251213223000 +0000" channel="Arenasport 1.ba"><title>Thun - St. Gallen</title><desc>Fudbal, Švicarska liga</desc></programme>
+<programme start="20251213223000 +0000" stop="20251213233000 +0000" channel="Arenasport 1.ba"><title>Luka Modric</title><desc>Fudbal, (NE)USPJEH PRVAKA</desc></programme>
+<programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20251214000000 +0000" stop="20251214020000 +0000" channel="Arenasport 1.ba"><title>Chelsea - Everton</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214040000 +0000" channel="Arenasport 1.ba"><title>Burnley - Fulham</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arenasport 2.ba"><title>Krka – Borac</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arenasport 2.ba"><title>FMP - Split</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208160000 +0000" channel="Arenasport 2.ba"><title>Cluj - Partizan</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251208160000 +0000" stop="20251208163000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251208163000 +0000" stop="20251208170000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251208170000 +0000" stop="20251208173000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251208173000 +0000" stop="20251208180000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251208180000 +0000" stop="20251208183000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251208190000 +0000" stop="20251208210000 +0000" channel="Arenasport 2.ba"><title>Igokea - Dubai</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251208210000 +0000" stop="20251208230000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251208230000 +0000" stop="20251209010000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251209030000 +0000" stop="20251209050000 +0000" channel="Arenasport 2.ba"><title>FMP - Split</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209050000 +0000" stop="20251209053000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251209053000 +0000" stop="20251209060000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209120000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arenasport 2.ba"><title>FMP - Split</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209180000 +0000" channel="Arenasport 2.ba"><title>Igokea - Dubai</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251209180000 +0000" stop="20251209200000 +0000" channel="Arenasport 2.ba"><title>Sutjeska - Zlatibor</title><desc>Košarka, ABA 2.liga</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209220000 +0000" channel="Arenasport 2.ba"><title>Borac - Vojvodina</title><desc>Košarka, ABA 2.liga</desc></programme>
+<programme start="20251209220000 +0000" stop="20251209223000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251209223000 +0000" stop="20251209230000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210040000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210060000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210080000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arenasport 2.ba"><title>FMP - Split</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arenasport 2.ba"><title>Igokea - Dubai</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210200000 +0000" channel="Arenasport 2.ba"><title>Sloboda - Mornar</title><desc>Košarka, ABA 2.liga</desc></programme>
+<programme start="20251210200000 +0000" stop="20251210203000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251210203000 +0000" stop="20251210210000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arenasport 2.ba"><title>Tenerife - Trapani</title><desc>Košarka, Fiba Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211020000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211040000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arenasport 2.ba"><title>Krka – Borac</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arenasport 2.ba"><title>FMP - Split</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arenasport 2.ba"><title>Borac - Vojvodina</title><desc>Košarka, ABA 2.liga</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arenasport 2.ba"><title>Sloboda - Mornar</title><desc>Košarka, ABA 2.liga</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arenasport 2.ba"><title>Stuttgart - Maccabi</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211230000 +0000" channel="Arenasport 2.ba"><title>Freiburg - Salzburg</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212020000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212040000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212060000 +0000" channel="Arenasport 2.ba"><title>Krka – Borac</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arenasport 2.ba"><title>Zadar - Vienna</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212120000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212140000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arenasport 2.ba"><title>FMP - Split</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="Arenasport 2.ba"><title>Igokea - Dubai</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212200000 +0000" channel="Arenasport 2.ba"><title>Mega - Zadar</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212220000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251212220000 +0000" stop="20251212230000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arenasport 2.ba"><title>Split - Igokea</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arenasport 2.ba"><title>Mega - Zadar</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arenasport 2.ba"><title>Spartak - Mega</title><desc>Košarka, ABA LIGA</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213080000 +0000" channel="Arenasport 2.ba"><title>Bosna BHT - Crvena Zvezda</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213080000 +0000" stop="20251213083000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251213083000 +0000" stop="20251213090000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251213090000 +0000" stop="20251213110000 +0000" channel="Arenasport 2.ba"><title>Split - Igokea</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213110000 +0000" stop="20251213130000 +0000" channel="Arenasport 2.ba"><title>Mega - Zadar</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213130000 +0000" stop="20251213150000 +0000" channel="Arenasport 2.ba"><title>Ilirija - Buducnost</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213150000 +0000" stop="20251213170000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251213170000 +0000" stop="20251213190000 +0000" channel="Arenasport 2.ba"><title>Borac - SC Derby</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213190000 +0000" stop="20251213210000 +0000" channel="Arenasport 2.ba"><title>Cedevita Olimpija - Bosna</title><desc>Košarka, ABA liga</desc></programme>
+<programme start="20251213210000 +0000" stop="20251213213000 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251213213000 +0000" stop="20251214001500 +0000" channel="Arenasport 2.ba"><title>NY Islanders - Tampa Bay</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251214001500 +0000" stop="20251214004500 +0000" channel="Arenasport 2.ba"><title>Sportske igre mladih</title><desc>SIM BIH, Emisija</desc></programme>
+<programme start="20251214004500 +0000" stop="20251214011500 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251214011500 +0000" stop="20251214020000 +0000" channel="Arenasport 2.ba"><title>Autoshop magazin</title><desc>Automoto, Emisija</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214040000 +0000" channel="Arenasport 2.ba"><title>TBD</title><desc>Boks, BOKS</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208160000 +0000" channel="Arenasport 3.ba"><title>Varaždin - Lokomotiva</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251208160000 +0000" stop="20251208163000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208163000 +0000" stop="20251208183000 +0000" channel="Arenasport 3.ba"><title>UTA - Petrolul</title><desc>Fudbal, Rumunska liga</desc></programme>
+<programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208190000 +0000" stop="20251208193000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208193000 +0000" stop="20251208213000 +0000" channel="Arenasport 3.ba"><title>Botosani - Rapid</title><desc>Fudbal, Rumunska liga</desc></programme>
+<programme start="20251208213000 +0000" stop="20251208220000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208220000 +0000" stop="20251208223000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208223000 +0000" stop="20251208230000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209020000 +0000" channel="Arenasport 3.ba"><title>Radnik - Mladost</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209040000 +0000" channel="Arenasport 3.ba"><title>Radnički Niš - Čukarički</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251209040000 +0000" stop="20251209060000 +0000" channel="Arenasport 3.ba"><title>Spartak - TSC</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209120000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arenasport 3.ba"><title>Radnik - Mladost</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209180000 +0000" channel="Arenasport 3.ba"><title>Radnički Niš - Čukarički</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251209180000 +0000" stop="20251209200000 +0000" channel="Arenasport 3.ba"><title>Lublin - Halkbank</title><desc>Odbojka, CEV LIGA PRVAKA</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251209203000 +0000" stop="20251209210000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arenasport 3.ba"><title>Monaco - Galatasaray</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210040000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210060000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210080000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arenasport 3.ba"><title>Varaždin - Lokomotiva</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arenasport 3.ba"><title>Spartak - TSC</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210200000 +0000" channel="Arenasport 3.ba"><title>Zawiercie - Rzeszow</title><desc>Odbojka, CEV LIGA PRVAKA</desc></programme>
+<programme start="20251210200000 +0000" stop="20251210210000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arenasport 3.ba"><title>Bayer L. - Newcastle</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211020000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211040000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arenasport 3.ba"><title>Radnik - Mladost</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arenasport 3.ba"><title>Spartak - TSC</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211183000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251211183000 +0000" stop="20251211184500 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arenasport 3.ba"><title>Fiorentina - Dynamo K.</title><desc>Fudbal, Konferencijska liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arenasport 3.ba"><title>Shelbourne FC - Crystal Palace FC</title><desc>Fudbal, Konferencijska liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212020000 +0000" channel="Arenasport 3.ba"><title>Slaven Belupo - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212040000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212060000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212120000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212140000 +0000" channel="Arenasport 3.ba"><title>Radnik - Mladost</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arenasport 3.ba"><title>Spartak - TSC</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="Arenasport 3.ba"><title>Radnički Niš - Čukarički</title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212200000 +0000" channel="Arenasport 3.ba"><title>Polufinale</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212203000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251212203000 +0000" stop="20251212223000 +0000" channel="Arenasport 3.ba"><title>Polufinale</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251212223000 +0000" stop="20251212230000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arenasport 3.ba"><title>Vukovar - Varaždin</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arenasport 3.ba"><title>Radnički - Partizan </title><desc>Fudbal, MozzartBet Superliga</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213080000 +0000" channel="Arenasport 3.ba"><title>Rijeka - Vukovar 1991</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213080000 +0000" stop="20251213100000 +0000" channel="Arenasport 3.ba"><title>Dinamo - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213100000 +0000" stop="20251213120000 +0000" channel="Arenasport 3.ba"><title>Vukovar - Varaždin</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213120000 +0000" stop="20251213140000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251213140000 +0000" stop="20251213160000 +0000" channel="Arenasport 3.ba"><title>Radnički 1923-Javor Matis </title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251213160000 +0000" stop="20251213180000 +0000" channel="Arenasport 3.ba"><title>Liverpool - Brighton</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20251213180000 +0000" stop="20251213183000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251213183000 +0000" stop="20251213203000 +0000" channel="Arenasport 3.ba"><title>Partizan - Napredak</title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251213203000 +0000" stop="20251213230000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251213230000 +0000" stop="20251213233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20251214000000 +0000" stop="20251214020000 +0000" channel="Arenasport 3.ba"><title>Osijek - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214040000 +0000" channel="Arenasport 3.ba"><title>Lokomotiva - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="Arenasport 4.ba"><title>Nantes - Lens</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208120000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208140000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208160000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251208160000 +0000" stop="20251208180000 +0000" channel="Arenasport 4.ba"><title>Lorient - Lyon</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251208180000 +0000" stop="20251208183000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251208183000 +0000" stop="20251208203000 +0000" channel="Arenasport 4.ba"><title>Virtus Bologna - Tortona</title><desc>Košarka, Italijanska liga</desc></programme>
+<programme start="20251208203000 +0000" stop="20251208223000 +0000" channel="Arenasport 4.ba"><title>Brackley - Burton</title><desc>Fudbal, FA cup</desc></programme>
+<programme start="20251208223000 +0000" stop="20251208230000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209020000 +0000" channel="Arenasport 4.ba"><title>Nantes - Lens</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209040000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209040000 +0000" stop="20251209060000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209080000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209120000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209160000 +0000" channel="Arenasport 4.ba"><title>Lorient - Lyon</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209180000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251209180000 +0000" stop="20251209200000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251209203000 +0000" stop="20251209210000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arenasport 4.ba"><title>Tottenham - Slavia</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210040000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210060000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210080000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210120000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210140000 +0000" channel="Arenasport 4.ba"><title>Lorient - Lyon</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210200000 +0000" channel="Arenasport 4.ba"><title>Lorient - Lyon</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251210200000 +0000" stop="20251210203000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251210203000 +0000" stop="20251210210000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arenasport 4.ba"><title>Juventus - Pafos</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211020000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211040000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211060000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Arenasport 4.ba"><title>Nantes - Lens</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="Arenasport 4.ba"><title>Lorient - Lyon</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arenasport 4.ba"><title>Young Boys - Lille</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arenasport 4.ba"><title>Celta - Bologna</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212020000 +0000" channel="Arenasport 4.ba"><title>Nantes - Lens</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212040000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212060000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212100000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212120000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212140000 +0000" channel="Arenasport 4.ba"><title>Auxerre - Metz</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="Arenasport 4.ba"><title>Lorient - Lyon</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212183000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212183000 +0000" stop="20251212190000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212190000 +0000" stop="20251212193000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212193000 +0000" stop="20251212213000 +0000" channel="Arenasport 4.ba"><title>CFR Cluj - Csikszereda</title><desc>Fudbal, Rumunska liga</desc></programme>
+<programme start="20251212213000 +0000" stop="20251212220000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212220000 +0000" stop="20251212223000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212223000 +0000" stop="20251212230000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213020000 +0000" channel="Arenasport 4.ba"><title>Angers - Nantes</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213040000 +0000" channel="Arenasport 4.ba"><title>Montpellier - Pau</title><desc>Fudbal, FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213080000 +0000" channel="Arenasport 4.ba"><title>Nantes - Lens</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251213080000 +0000" stop="20251213100000 +0000" channel="Arenasport 4.ba"><title>Toulouse - Strasbourg</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251213100000 +0000" stop="20251213120000 +0000" channel="Arenasport 4.ba"><title>Nice - Angers</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251213120000 +0000" stop="20251213140000 +0000" channel="Arenasport 4.ba"><title>Angers - Nantes</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251213140000 +0000" stop="20251213143000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213143000 +0000" stop="20251213150000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213150000 +0000" stop="20251213170000 +0000" channel="Arenasport 4.ba"><title>Osijek - Gorica</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213170000 +0000" stop="20251213174500 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213174500 +0000" stop="20251213194500 +0000" channel="Arenasport 4.ba"><title>Lokomotiva - Hajduk</title><desc>Fudbal, HNL</desc></programme>
+<programme start="20251213194500 +0000" stop="20251213203000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213203000 +0000" stop="20251213210000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213210000 +0000" stop="20251213230000 +0000" channel="Arenasport 4.ba"><title>Zaragoza - Cadiz</title><desc>Fudbal, Segunda</desc></programme>
+<programme start="20251213230000 +0000" stop="20251213233000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Arenasport 4.ba"><title>Worldies</title><desc>Worldies, Automoto</desc></programme>
+<programme start="20251214000000 +0000" stop="20251214020000 +0000" channel="Arenasport 4.ba"><title>Rennes - Brest</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214040000 +0000" channel="Arenasport 4.ba"><title>Metz - PSG</title><desc>Fudbal, FRANCUSKA LIGA</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208120000 +0000" stop="20251208130000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208130000 +0000" stop="20251208140000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208150000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208150000 +0000" stop="20251208160000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208160000 +0000" stop="20251208170000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208170000 +0000" stop="20251208180000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208180000 +0000" stop="20251208190000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 4</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208190000 +0000" stop="20251208210000 +0000" channel="Arenasport 5.ba"><title>Korona - Wisla</title><desc>Fudbal, Poljska liga</desc></programme>
+<programme start="20251208210000 +0000" stop="20251208220000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251208220000 +0000" stop="20251208230000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251209000000 +0000" stop="20251209010000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209010000 +0000" stop="20251209020000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209020000 +0000" stop="20251209030000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209030000 +0000" stop="20251209040000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209040000 +0000" stop="20251209050000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209050000 +0000" stop="20251209060000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209070000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251209070000 +0000" stop="20251209080000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209080000 +0000" stop="20251209090000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251209090000 +0000" stop="20251209100000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251209100000 +0000" stop="20251209110000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209120000 +0000" stop="20251209130000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209130000 +0000" stop="20251209140000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209150000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209150000 +0000" stop="20251209160000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209160000 +0000" stop="20251209170000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209170000 +0000" stop="20251209180000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209180000 +0000" stop="20251209190000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 4</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209190000 +0000" stop="20251209200000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209210000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251209210000 +0000" stop="20251209230000 +0000" channel="Arenasport 5.ba"><title>Union SG - Olympiqeu M.</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251210000000 +0000" stop="20251210010000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251210010000 +0000" stop="20251210020000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251210030000 +0000" stop="20251210040000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210050000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210050000 +0000" stop="20251210060000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210070000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210070000 +0000" stop="20251210080000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251210080000 +0000" stop="20251210090000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251210090000 +0000" stop="20251210100000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210100000 +0000" stop="20251210110000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210110000 +0000" stop="20251210120000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210120000 +0000" stop="20251210130000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251210130000 +0000" stop="20251210140000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210150000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251210150000 +0000" stop="20251210160000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251210160000 +0000" stop="20251210170000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210170000 +0000" stop="20251210180000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210180000 +0000" stop="20251210190000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 4</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210190000 +0000" stop="20251210200000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251210200000 +0000" stop="20251210210000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210230000 +0000" channel="Arenasport 5.ba"><title>Borussia D. - Bodo Glimt</title><desc>Fudbal, Liga prvaka</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211010000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211010000 +0000" stop="20251211020000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211020000 +0000" stop="20251211030000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211030000 +0000" stop="20251211040000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211050000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211050000 +0000" stop="20251211060000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211070000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251211070000 +0000" stop="20251211080000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251211080000 +0000" stop="20251211090000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211090000 +0000" stop="20251211100000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251211100000 +0000" stop="20251211110000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251211110000 +0000" stop="20251211120000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211130000 +0000" stop="20251211140000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211140000 +0000" stop="20251211150000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211150000 +0000" stop="20251211160000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211160000 +0000" stop="20251211170000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211170000 +0000" stop="20251211180000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arenasport 5.ba"><title>Ludogorets - PAOK</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211210000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251211210000 +0000" stop="20251211230000 +0000" channel="Arenasport 5.ba"><title>Porto - Malmo</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251212000000 +0000" stop="20251212010000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212010000 +0000" stop="20251212020000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251212020000 +0000" stop="20251212030000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251212030000 +0000" stop="20251212040000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212050000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212050000 +0000" stop="20251212060000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212070000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251212070000 +0000" stop="20251212080000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212080000 +0000" stop="20251212090000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251212090000 +0000" stop="20251212100000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251212100000 +0000" stop="20251212110000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212110000 +0000" stop="20251212120000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212120000 +0000" stop="20251212130000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212130000 +0000" stop="20251212140000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212140000 +0000" stop="20251212150000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212160000 +0000" stop="20251212170000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212170000 +0000" stop="20251212180000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212190000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212190000 +0000" stop="20251212200000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 3</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251212200000 +0000" stop="20251212204500 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251212204500 +0000" stop="20251212224500 +0000" channel="Arenasport 5.ba"><title>Ayr - St Johnstone</title><desc>Fudbal, Škotska 2.liga</desc></programme>
+<programme start="20251212224500 +0000" stop="20251212233000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251213000000 +0000" stop="20251213010000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213010000 +0000" stop="20251213020000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213020000 +0000" stop="20251213030000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213030000 +0000" stop="20251213040000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213050000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213050000 +0000" stop="20251213060000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 2</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213070000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="Arenasport 5.ba"><title>24hr of Le Mans</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251213080000 +0000" stop="20251213090000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213090000 +0000" stop="20251213100000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251213100000 +0000" stop="20251213110000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251213110000 +0000" stop="20251213120000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213120000 +0000" stop="20251213130000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213130000 +0000" stop="20251213140000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251213140000 +0000" stop="20251213160000 +0000" channel="Arenasport 5.ba"><title>Red Star - Reims</title><desc>Fudbal, Francuska 2.liga</desc></programme>
+<programme start="20251213160000 +0000" stop="20251213163000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251213163000 +0000" stop="20251213170000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251213170000 +0000" stop="20251213190000 +0000" channel="Arenasport 5.ba"><title>Rennes - Brest</title><desc>Fudbal, Francuska liga</desc></programme>
+<programme start="20251213190000 +0000" stop="20251213210000 +0000" channel="Arenasport 5.ba"><title>Metz - PSG</title><desc>Fudbal, Francuska liga</desc></programme>
+<programme start="20251213210000 +0000" stop="20251213230000 +0000" channel="Arenasport 5.ba"><title>Paris - Toulouse</title><desc>Fudbal, Francuska liga</desc></programme>
+<programme start="20251213230000 +0000" stop="20251214000000 +0000" channel="Arenasport 5.ba"><title>Portugal</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251214000000 +0000" stop="20251214010000 +0000" channel="Arenasport 5.ba"><title>Sardegna</title><desc>Automoto, WRC</desc></programme>
+<programme start="20251214010000 +0000" stop="20251214020000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
+<programme start="20251214020000 +0000" stop="20251214030000 +0000" channel="Arenasport 5.ba"><title>6hr of Spa-Francorchamps</title><desc>Automoto, WEC</desc></programme>
+<programme start="20251208060000 +0000" stop="20251208083000 +0000" channel="Arenasport 6.ba"><title>New Jersey - Dallas</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251208083000 +0000" stop="20251208090000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208090000 +0000" stop="20251208110000 +0000" channel="Arenasport 6.ba"><title>Boston - New York</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251208110000 +0000" stop="20251208130000 +0000" channel="Arenasport 6.ba"><title>Brooklyn - New Orleans</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251208130000 +0000" stop="20251208133000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208133000 +0000" stop="20251208140000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208140000 +0000" stop="20251208163000 +0000" channel="Arenasport 6.ba"><title>Baltimore - Pittsburghs</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251208163000 +0000" stop="20251208190000 +0000" channel="Arenasport 6.ba"><title>Green Bay - Chicago</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251208190000 +0000" stop="20251208193000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208193000 +0000" stop="20251208200000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208200000 +0000" stop="20251208203000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208203000 +0000" stop="20251208223000 +0000" channel="Arenasport 6.ba"><title>Francuska - Nizozemska</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251208223000 +0000" stop="20251208230000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251208233000 +0000" stop="20251209023000 +0000" channel="Arenasport 6.ba"><title>Finale</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251209023000 +0000" stop="20251209030000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209030000 +0000" stop="20251209033000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209033000 +0000" stop="20251209040000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209040000 +0000" stop="20251209043000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209043000 +0000" stop="20251209050000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209050000 +0000" stop="20251209053000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209053000 +0000" stop="20251209060000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209060000 +0000" stop="20251209083000 +0000" channel="Arenasport 6.ba"><title>New Jersey - Dallas</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251209083000 +0000" stop="20251209090000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209090000 +0000" stop="20251209110000 +0000" channel="Arenasport 6.ba"><title>Boston - New York</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251209110000 +0000" stop="20251209130000 +0000" channel="Arenasport 6.ba"><title>New Orleans - San Antonio</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251209130000 +0000" stop="20251209133000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209133000 +0000" stop="20251209140000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209140000 +0000" stop="20251209163000 +0000" channel="Arenasport 6.ba"><title>Baltimore - Pittsburghs</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251209163000 +0000" stop="20251209190000 +0000" channel="Arenasport 6.ba"><title>Los Angeles Charges - Philadelphia Eagles</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251209190000 +0000" stop="20251209193000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209193000 +0000" stop="20251209200000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209203000 +0000" stop="20251209223000 +0000" channel="Arenasport 6.ba"><title>Norveška - Crna Gora</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251209223000 +0000" stop="20251209230000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251209233000 +0000" stop="20251210023000 +0000" channel="Arenasport 6.ba"><title>Finale</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251210023000 +0000" stop="20251210030000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210030000 +0000" stop="20251210033000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210033000 +0000" stop="20251210040000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210040000 +0000" stop="20251210043000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210043000 +0000" stop="20251210050000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210050000 +0000" stop="20251210053000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210053000 +0000" stop="20251210060000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210060000 +0000" stop="20251210083000 +0000" channel="Arenasport 6.ba"><title>New York Islanders - Vegas Golden Knights</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251210083000 +0000" stop="20251210090000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210090000 +0000" stop="20251210110000 +0000" channel="Arenasport 6.ba"><title>Brooklyn - New Orleans</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251210110000 +0000" stop="20251210130000 +0000" channel="Arenasport 6.ba"><title>New Orleans - San Antonio</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251210130000 +0000" stop="20251210133000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210133000 +0000" stop="20251210140000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210140000 +0000" stop="20251210163000 +0000" channel="Arenasport 6.ba"><title>Baltimore - Pittsburghs</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251210163000 +0000" stop="20251210190000 +0000" channel="Arenasport 6.ba"><title>Los Angeles Charges - Philadelphia Eagles</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251210190000 +0000" stop="20251210193000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210193000 +0000" stop="20251210200000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210200000 +0000" stop="20251210210000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210210000 +0000" stop="20251210223000 +0000" channel="Arenasport 6.ba"><title>Danska - Francuska</title><desc>Rukomet, Svjetsko prvenstvo</desc></programme>
+<programme start="20251210223000 +0000" stop="20251210230000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="Arenasport 6.ba"><title>Finale</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251211000000 +0000" stop="20251211023000 +0000" channel="Arenasport 6.ba"><title>Milwaukee - Chicago Cubs</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251211023000 +0000" stop="20251211030000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211030000 +0000" stop="20251211033000 +0000" channel="Arenasport 6.ba"><title>NY Yankees – Philadelphia</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251211033000 +0000" stop="20251211040000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211040000 +0000" stop="20251211043000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211043000 +0000" stop="20251211050000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211050000 +0000" stop="20251211053000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211053000 +0000" stop="20251211060000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211060000 +0000" stop="20251211083000 +0000" channel="Arenasport 6.ba"><title>New York Islanders - Vegas Golden Knights</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251211083000 +0000" stop="20251211090000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211090000 +0000" stop="20251211110000 +0000" channel="Arenasport 6.ba"><title>Brooklyn - New Orleans</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251211110000 +0000" stop="20251211130000 +0000" channel="Arenasport 6.ba"><title>New Orleans - San Antonio</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251211130000 +0000" stop="20251211153000 +0000" channel="Arenasport 6.ba"><title>Baltimore - Pittsburghs</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251211153000 +0000" stop="20251211180000 +0000" channel="Arenasport 6.ba"><title>Los Angeles Charges - Philadelphia Eagles</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251211180000 +0000" stop="20251211184500 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211184500 +0000" stop="20251211204500 +0000" channel="Arenasport 6.ba"><title>Midtjylland - Genk</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211204500 +0000" stop="20251211230000 +0000" channel="Arenasport 6.ba"><title>Brann - Fenerbahce</title><desc>Fudbal, Europa liga</desc></programme>
+<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251211233000 +0000" stop="20251212023000 +0000" channel="Arenasport 6.ba"><title>Finale</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251212023000 +0000" stop="20251212030000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212030000 +0000" stop="20251212033000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212033000 +0000" stop="20251212040000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212040000 +0000" stop="20251212043000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212043000 +0000" stop="20251212060000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212060000 +0000" stop="20251212083000 +0000" channel="Arenasport 6.ba"><title>New York Islanders - Vegas Golden Knights</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251212083000 +0000" stop="20251212090000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212090000 +0000" stop="20251212110000 +0000" channel="Arenasport 6.ba"><title>Brooklyn - New Orleans</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251212110000 +0000" stop="20251212130000 +0000" channel="Arenasport 6.ba"><title>New Orleans - San Antonio</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251212130000 +0000" stop="20251212153000 +0000" channel="Arenasport 6.ba"><title>Baltimore - Pittsburghs</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251212153000 +0000" stop="20251212180000 +0000" channel="Arenasport 6.ba"><title>Los Angeles Charges - Philadelphia Eagles</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251212180000 +0000" stop="20251212203000 +0000" channel="Arenasport 6.ba"><title>Tampa Bay Buccaneers - Atlanta Falcons</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251212203000 +0000" stop="20251212230000 +0000" channel="Arenasport 6.ba"><title>Baltimore - Pittsburghs</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251212233000 +0000" stop="20251213023000 +0000" channel="Arenasport 6.ba"><title>Finale</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251213023000 +0000" stop="20251213030000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213030000 +0000" stop="20251213033000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213033000 +0000" stop="20251213040000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213040000 +0000" stop="20251213043000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213043000 +0000" stop="20251213050000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213050000 +0000" stop="20251213053000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213053000 +0000" stop="20251213060000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213060000 +0000" stop="20251213083000 +0000" channel="Arenasport 6.ba"><title>New York Islanders - Vegas Golden Knights</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251213083000 +0000" stop="20251213090000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213090000 +0000" stop="20251213110000 +0000" channel="Arenasport 6.ba"><title>Brooklyn - New Orleans</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251213110000 +0000" stop="20251213133000 +0000" channel="Arenasport 6.ba"><title>New Orleans - San Antonio</title><desc>Košarka, NBA</desc></programme>
+<programme start="20251213133000 +0000" stop="20251213153000 +0000" channel="Arenasport 6.ba"><title>Tofas - Manisa</title><desc>Košarka, Tursksa liga</desc></programme>
+<programme start="20251213153000 +0000" stop="20251213160000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213160000 +0000" stop="20251213163000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213163000 +0000" stop="20251213183000 +0000" channel="Arenasport 6.ba"><title>Vojvodina - OFK Beograd </title><desc>Fudbal, Super liga Srbije</desc></programme>
+<programme start="20251213183000 +0000" stop="20251213211500 +0000" channel="Arenasport 6.ba"><title>New Jersey - Anaheim</title><desc>Hokej, NHL</desc></programme>
+<programme start="20251213211500 +0000" stop="20251213214500 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213214500 +0000" stop="20251213221500 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213221500 +0000" stop="20251213224500 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213224500 +0000" stop="20251213233000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+<programme start="20251213233000 +0000" stop="20251214023000 +0000" channel="Arenasport 6.ba"><title>Finale</title><desc>Bejzbol, MLB</desc></programme>
+<programme start="20251214023000 +0000" stop="20251214030000 +0000" channel="Arenasport 6.ba"><title>Sporting Rivalries</title><desc>Sporting Rivalries, Emisija</desc></programme>
+</tv>
