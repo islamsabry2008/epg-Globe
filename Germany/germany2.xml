@@ -26,53 +26,42 @@
 <channel id="SWR Rheinland Pfalz.de"><display-name>SWR Rheinland Pfalz.de</display-name></channel>
 <channel id="WDR.de"><display-name>WDR.de</display-name></channel>
 <channel id="ZDF.de"><display-name>ZDF.de</display-name></channel>
-<programme start="20251216072000 +0000" stop="20251216085500 +0000" channel="BR Fernsehen.de"><title>Gym</title><desc>Turnen</desc></programme>
-<programme start="20251216085500 +0000" stop="20251216201500 +0000" channel="BR Fernsehen.de"><title>Tele-Gym</title><desc>Turnen</desc></programme>
-<programme start="20251216201500 +0000" stop="20251217072000 +0000" channel="BR Fernsehen.de"><title>Blickpunkt Sport live</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218200000 +0000" stop="20251219193000 +0000" channel="airtango.de"><title>Uni Baskets Munster - Bozic Estriche Knights Kirchheim</title><desc>Basketball</desc></programme>
 <programme start="20251217072000 +0000" stop="20251217085500 +0000" channel="BR Fernsehen.de"><title>Tele-Gym</title><desc>Turnen</desc></programme>
 <programme start="20251217085500 +0000" stop="20251218072000 +0000" channel="BR Fernsehen.de"><title>Tele-Gym</title><desc>Turnen</desc></programme>
-<programme start="20251216033000 +0000" stop="20251216123000 +0000" channel="DW TV.de"><title>REV</title><desc>Motorsport</desc></programme>
-<programme start="20251216123000 +0000" stop="20251216183000 +0000" channel="DW TV.de"><title>In Good Shape</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216183000 +0000" stop="20251217073000 +0000" channel="DW TV.de"><title>REV</title><desc>Motorsport</desc></programme>
+<programme start="20251218072000 +0000" stop="20251218085500 +0000" channel="BR Fernsehen.de"><title>Tele-Gym</title><desc>Turnen</desc></programme>
+<programme start="20251218085500 +0000" stop="20251219014000 +0000" channel="BR Fernsehen.de"><title>Tele-Gym</title><desc>Turnen</desc></programme>
+<programme start="20251219014000 +0000" stop="20251219072000 +0000" channel="BR Fernsehen.de"><title>PULS Gaminganalyse</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217073000 +0000" stop="20251217200200 +0000" channel="DW TV.de"><title>In Good Shape</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217200200 +0000" stop="20251218141500 +0000" channel="DW TV.de"><title>In Good Shape</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216170000 +0000" stop="20251216184500 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Dubai Basketball - Maccabi Playtika Tel Aviv</title><desc>Basketball</desc></programme>
-<programme start="20251216184500 +0000" stop="20251216200500 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Fenerbahçe  Beko Istanbul - Panathinaikos AKTOR Athen</title><desc>Basketball</desc></programme>
-<programme start="20251216200500 +0000" stop="20251216201500 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Hapoel Tel-Aviv - Roter Stern Meridianbet Belgrad</title><desc>Basketball</desc></programme>
-<programme start="20251216201500 +0000" stop="20251216203000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Olympiakos Piraus - Valencia Basket</title><desc>Basketball</desc></programme>
-<programme start="20251216203000 +0000" stop="20251216210000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Olimpia Milano - Real Madrid</title><desc>Basketball</desc></programme>
-<programme start="20251216210000 +0000" stop="20251217190000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Paris Basketball - FC Barcelona Lassa</title><desc>Basketball</desc></programme>
+<programme start="20251218141500 +0000" stop="20251218143000 +0000" channel="DW TV.de"><title>REV</title><desc>Motorsport</desc></programme>
+<programme start="20251218143000 +0000" stop="20251218163000 +0000" channel="DW TV.de"><title>REV</title><desc>Motorsport</desc></programme>
+<programme start="20251218163000 +0000" stop="20251218181500 +0000" channel="DW TV.de"><title>In Good Shape</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218181500 +0000" stop="20251219001500 +0000" channel="DW TV.de"><title>REV</title><desc>Motorsport</desc></programme>
+<programme start="20251219001500 +0000" stop="20251219041500 +0000" channel="DW TV.de"><title>REV</title><desc>Motorsport</desc></programme>
 <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Zalgiris Kaunas - Efes Anadolu Istanbul</title><desc>Basketball</desc></programme>
 <programme start="20251217200000 +0000" stop="20251217203000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: ASVEL Lyon-Villeurbanne - FC Bayern Munchen Basketball</title><desc>Basketball</desc></programme>
 <programme start="20251217203000 +0000" stop="20251217203000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Baskonia Vitoria-Gasteiz - AS Monaco</title><desc>Basketball</desc></programme>
 <programme start="20251217203000 +0000" stop="20251218200500 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Partizan Mozzart Bet Belgrad - Virtus Segafredo Bologna</title><desc>Basketball</desc></programme>
-<programme start="20251216013000 +0000" stop="20251216041500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
-<programme start="20251216041500 +0000" stop="20251216051500 +0000" channel="Hamburg 1.de"><title>Kalles Halbzeit im Verlies</title><desc>FuSSball</desc></programme>
-<programme start="20251216051500 +0000" stop="20251216090000 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
-<programme start="20251216090000 +0000" stop="20251216100000 +0000" channel="Hamburg 1.de"><title>Q24</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216100000 +0000" stop="20251216103000 +0000" channel="Hamburg 1.de"><title>Rasant</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216103000 +0000" stop="20251216130000 +0000" channel="Hamburg 1.de"><title>Magazin</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216130000 +0000" stop="20251216161500 +0000" channel="Hamburg 1.de"><title>Kalles Halbzeit im Verlies</title><desc>FuSSball</desc></programme>
-<programme start="20251216161500 +0000" stop="20251216193000 +0000" channel="Hamburg 1.de"><title>Kalles Halbzeit im Verlies</title><desc>FuSSball</desc></programme>
-<programme start="20251216193000 +0000" stop="20251216210000 +0000" channel="Hamburg 1.de"><title>Meine Meinung</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216210000 +0000" stop="20251216220000 +0000" channel="Hamburg 1.de"><title>Magazin</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216220000 +0000" stop="20251217014500 +0000" channel="Hamburg 1.de"><title>Magazin</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218200500 +0000" stop="20251218201500 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Maccabi Playtika Tel Aviv - Valencia Basket</title><desc>Basketball</desc></programme>
+<programme start="20251218201500 +0000" stop="20251218203000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Panathinaikos AKTOR Athen - Hapoel Tel-Aviv</title><desc>Basketball</desc></programme>
+<programme start="20251218203000 +0000" stop="20251218204500 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Olimpia Milano - Fenerbahçe  Beko Istanbul</title><desc>Basketball</desc></programme>
+<programme start="20251218204500 +0000" stop="20251219183000 +0000" channel="EuroLeagueTV.de"><title>Euroleague: Real Madrid - Paris Basketball</title><desc>Basketball</desc></programme>
 <programme start="20251217014500 +0000" stop="20251217034500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
 <programme start="20251217034500 +0000" stop="20251217090000 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
 <programme start="20251217090000 +0000" stop="20251217214500 +0000" channel="Hamburg 1.de"><title>Q24</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217214500 +0000" stop="20251218014500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
-<programme start="20251218014500 +0000" stop="20251218023000 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
-<programme start="20251218023000 +0000" stop="20251218041500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
-<programme start="20251216175500 +0000" stop="20251217175500 +0000" channel="Kabel 1.de"><title>Mein Lokal, Dein Lokal - Der Profi kommt</title><desc>FuSSball</desc></programme>
+<programme start="20251218014500 +0000" stop="20251218041500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
+<programme start="20251218041500 +0000" stop="20251218051500 +0000" channel="Hamburg 1.de"><title>Kalles Halbzeit im Verlies</title><desc>FuSSball</desc></programme>
+<programme start="20251218051500 +0000" stop="20251218090000 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
+<programme start="20251218090000 +0000" stop="20251218100000 +0000" channel="Hamburg 1.de"><title>Q24</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218100000 +0000" stop="20251218174500 +0000" channel="Hamburg 1.de"><title>Rasant</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218174500 +0000" stop="20251218193000 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
+<programme start="20251218193000 +0000" stop="20251218234500 +0000" channel="Hamburg 1.de"><title>Meine Meinung</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218234500 +0000" stop="20251219014500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
+<programme start="20251219014500 +0000" stop="20251219034500 +0000" channel="Hamburg 1.de"><title>car port</title><desc>Motorsport</desc></programme>
 <programme start="20251217175500 +0000" stop="20251218175500 +0000" channel="Kabel 1.de"><title>Mein Lokal, Dein Lokal - Der Profi kommt</title><desc>FuSSball</desc></programme>
-<programme start="20251216174500 +0000" stop="20251216174500 +0000" channel="Livebasketball.TV.de"><title>Patrioti Levice v VEF Riga (LAT)</title><desc>Basketball</desc></programme>
-<programme start="20251216174500 +0000" stop="20251216181500 +0000" channel="Livebasketball.TV.de"><title>NHSZ-Szolnoki Olajbanyasz (HUN) v AEK Betsson (GRE</title><desc>Basketball</desc></programme>
-<programme start="20251216181500 +0000" stop="20251216181500 +0000" channel="Livebasketball.TV.de"><title>Bnei Penlink Herzliya (ISR) v La Laguna Tenerife (ESP)</title><desc>Basketball</desc></programme>
-<programme start="20251216181500 +0000" stop="20251216194500 +0000" channel="Livebasketball.TV.de"><title>Tofas Bursa (TUR) v Trapani Shark (ITA)</title><desc>Basketball</desc></programme>
-<programme start="20251216194500 +0000" stop="20251216194500 +0000" channel="Livebasketball.TV.de"><title>Le Mans Sarthe Basket (FRA) v Spartak Office Shoes (SRB)</title><desc>Basketball</desc></programme>
-<programme start="20251216194500 +0000" stop="20251216194500 +0000" channel="Livebasketball.TV.de"><title>Elan Chalon (FRA) v ERA Nymburk (CZE)</title><desc>Basketball</desc></programme>
-<programme start="20251216194500 +0000" stop="20251216194500 +0000" channel="Livebasketball.TV.de"><title>ALBA BERLIN (GER) v Sabah BC (AZE)</title><desc>Basketball</desc></programme>
-<programme start="20251216194500 +0000" stop="20251217174500 +0000" channel="Livebasketball.TV.de"><title>Dreamland Gran Canaria (ESP) v SL Benfica (POR)</title><desc>Basketball</desc></programme>
+<programme start="20251218175500 +0000" stop="20251219175500 +0000" channel="Kabel 1.de"><title>Mein Lokal, Dein Lokal - Der Profi kommt</title><desc>FuSSball</desc></programme>
 <programme start="20251217174500 +0000" stop="20251217174500 +0000" channel="Livebasketball.TV.de"><title>Promitheas Vikos Cola (GRE) v Rytas Vilnius (LTU)</title><desc>Basketball</desc></programme>
 <programme start="20251217174500 +0000" stop="20251217181500 +0000" channel="Livebasketball.TV.de"><title>Legia Warszawa (POL) v MLP Academics Heidelberg (GER)</title><desc>Basketball</desc></programme>
 <programme start="20251217181500 +0000" stop="20251217181500 +0000" channel="Livebasketball.TV.de"><title>Igokea m:tel (BIH) v Galatasaray MCT Technic (TUR)</title><desc>Basketball</desc></programme>
@@ -81,40 +70,11 @@
 <programme start="20251217191500 +0000" stop="20251217194500 +0000" channel="Livebasketball.TV.de"><title>Unicaja (ESP) v Karditsa Iaponiki (GRE)</title><desc>Basketball</desc></programme>
 <programme start="20251217194500 +0000" stop="20251217194500 +0000" channel="Livebasketball.TV.de"><title>Bursaspor Basketbol v Hapoel Netanel Holon (ISR)</title><desc>Basketball</desc></programme>
 <programme start="20251217194500 +0000" stop="20251217235900 +0000" channel="Livebasketball.TV.de"><title>Cholet Basket (FRA) v Joventut Badalona (ESP)</title><desc>Basketball</desc></programme>
-<programme start="20251216191000 +0000" stop="20251216232000 +0000" channel="n tv.de"><title>NFL Aktuell</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216232000 +0000" stop="20251223191000 +0000" channel="n tv.de"><title>NFL Aktuell</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216174000 +0000" stop="20251216191000 +0000" channel="ORF 1.de"><title>FIS Ski Weltcup Slalom der Damen Courchevel</title><desc>Wintersport</desc></programme>
-<programme start="20251216191000 +0000" stop="20251216201500 +0000" channel="ORF 1.de"><title>FIS Ski Weltcup Slalom der Damen Courchevel</title><desc>Wintersport</desc></programme>
-<programme start="20251216201500 +0000" stop="20251216204000 +0000" channel="ORF 1.de"><title>FIS Ski Weltcup Slalom der Damen Courchevel</title><desc>Wintersport</desc></programme>
-<programme start="20251216204000 +0000" stop="20251218114000 +0000" channel="ORF 1.de"><title>FIS Ski Weltcup Slalom der Damen Courchevel</title><desc>Wintersport</desc></programme>
-<programme start="20251216091000 +0000" stop="20251216095500 +0000" channel="ORF 2.de"><title>Fit mit den Stars</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216095500 +0000" stop="20251216110000 +0000" channel="ORF 2.de"><title>9 Lander - ein Jahr: Der Jahresruckblick 2025</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216110000 +0000" stop="20251216123500 +0000" channel="ORF 2.de"><title>Sondersitzung des Nationalrates zur Senkung der Elektrizitatsabgabe</title><desc>FuSSball</desc></programme>
-<programme start="20251216123500 +0000" stop="20251217091000 +0000" channel="ORF 2.de"><title>Prisma</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218114000 +0000" stop="20251218132500 +0000" channel="ORF 1.de"><title>FIS Ski Weltcup Abfahrt der Herren Groden</title><desc>Wintersport</desc></programme>
+<programme start="20251218132500 +0000" stop="20251218141000 +0000" channel="ORF 1.de"><title>FIS Snowboard Weltcup Parallelriesenslalom Carezza</title><desc>Wintersport</desc></programme>
+<programme start="20251218141000 +0000" stop="20251219101000 +0000" channel="ORF 1.de"><title>IBU Biathlon Weltcup Annecy - Le Grand Bornand</title><desc>Biathlon</desc></programme>
 <programme start="20251217091000 +0000" stop="20251218091000 +0000" channel="ORF 2.de"><title>Fit mit den Stars</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216003000 +0000" stop="20251216014500 +0000" channel="ORF SPORT +.de"><title>Handball Damen WM 2025: Finale, Highlights aus Rotterdam</title><desc>Handball</desc></programme>
-<programme start="20251216014500 +0000" stop="20251216030000 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025 - Dressur CDI5* Grand Prix Freestyle, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
-<programme start="20251216030000 +0000" stop="20251216060000 +0000" channel="ORF SPORT +.de"><title>LIVE Tanzen Weltmeisterschaften Latein Formation 2025 aus Wr. Neustadt</title><desc>Tanzsport</desc></programme>
-<programme start="20251216060000 +0000" stop="20251216063300 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216063300 +0000" stop="20251216065300 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216065300 +0000" stop="20251216071200 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216071200 +0000" stop="20251216074100 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216074100 +0000" stop="20251216083000 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216083000 +0000" stop="20251216090000 +0000" channel="ORF SPORT +.de"><title>FuSSball ADMIRAL Bundesliga</title><desc>FuSSball</desc></programme>
-<programme start="20251216090000 +0000" stop="20251216103000 +0000" channel="ORF SPORT +.de"><title>FuSSball ADMIRAL Bundesliga</title><desc>FuSSball</desc></programme>
-<programme start="20251216103000 +0000" stop="20251216110000 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
-<programme start="20251216110000 +0000" stop="20251216123000 +0000" channel="ORF SPORT +.de"><title>LIVE Handball Damen WM 2025</title><desc>Handball</desc></programme>
-<programme start="20251216123000 +0000" stop="20251216143000 +0000" channel="ORF SPORT +.de"><title>Handball Damen WM 2025: Finale, Highlights aus Rotterdam</title><desc>Handball</desc></programme>
-<programme start="20251216143000 +0000" stop="20251216150000 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025 - Dressur CDI5* Grand Prix Freestyle, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
-<programme start="20251216150000 +0000" stop="20251216170000 +0000" channel="ORF SPORT +.de"><title>LIVE Tanzen Weltmeisterschaften Latein Formation 2025 aus Wr. Neustadt</title><desc>Tanzsport</desc></programme>
-<programme start="20251216170000 +0000" stop="20251216172500 +0000" channel="ORF SPORT +.de"><title>Funsport</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216172500 +0000" stop="20251216200000 +0000" channel="ORF SPORT +.de"><title>Eishockey Champions Hockey League Viertelfinale Ruckspiel: Ilves Tampere - Lulea Hockey, Highlights</title><desc>Eishockey</desc></programme>
-<programme start="20251216200000 +0000" stop="20251216201500 +0000" channel="ORF SPORT +.de"><title>Sport 20</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216201500 +0000" stop="20251216211500 +0000" channel="ORF SPORT +.de"><title>FIS Freestyle Weltcup 2025/2026: Skicross, Highlights aus Arosa</title><desc>Biathlon</desc></programme>
-<programme start="20251216211500 +0000" stop="20251216221500 +0000" channel="ORF SPORT +.de"><title>FIS Skisprung Weltcup 2025/2026</title><desc>Skispringen</desc></programme>
-<programme start="20251216221500 +0000" stop="20251216231500 +0000" channel="ORF SPORT +.de"><title>FIS Skisprung Weltcup 2025/2026</title><desc>Skispringen</desc></programme>
-<programme start="20251216231500 +0000" stop="20251216234500 +0000" channel="ORF SPORT +.de"><title>FuSSball ADMIRAL Bundesliga</title><desc>FuSSball</desc></programme>
-<programme start="20251216234500 +0000" stop="20251217010000 +0000" channel="ORF SPORT +.de"><title>FuSSball ADMIRAL Bundesliga</title><desc>FuSSball</desc></programme>
+<programme start="20251218091000 +0000" stop="20251219091000 +0000" channel="ORF 2.de"><title>Fit mit den Stars</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217010000 +0000" stop="20251217011500 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
 <programme start="20251217011500 +0000" stop="20251217024500 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
 <programme start="20251217024500 +0000" stop="20251217031000 +0000" channel="ORF SPORT +.de"><title>Funsport</title><desc>Sportmagazin</desc></programme>
@@ -145,28 +105,37 @@
 <programme start="20251217230000 +0000" stop="20251218003000 +0000" channel="ORF SPORT +.de"><title>Eishockey Champions Hockey League Viertelfinale Ruckspiel: Ilves Tampere - Lulea Hockey, Highlights</title><desc>Eishockey</desc></programme>
 <programme start="20251218003000 +0000" stop="20251218010000 +0000" channel="ORF SPORT +.de"><title>FIS Skisprung Weltcup 2025/2026</title><desc>Skispringen</desc></programme>
 <programme start="20251218010000 +0000" stop="20251218010000 +0000" channel="ORF SPORT +.de"><title>Sport</title><desc>Sportmagazin</desc></programme>
-<programme start="20251218010000 +0000" stop="20251218023000 +0000" channel="ORF SPORT +.de"><title>FIS Freestyle Weltcup 2025/2026: Skicross, Highlights aus Arosa</title><desc>Biathlon</desc></programme>
-<programme start="20251218023000 +0000" stop="20251218040000 +0000" channel="ORF SPORT +.de"><title>Funsport</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="ORF SPORT +.de"><title>FIS Freestyle Weltcup 2025/2026: Skicross, Highlights aus Arosa</title><desc>Biathlon</desc></programme>
+<programme start="20251218040000 +0000" stop="20251218043000 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
+<programme start="20251218043000 +0000" stop="20251218053000 +0000" channel="ORF SPORT +.de"><title>FIS Ski Alpin Weltcup 2025/2026</title><desc>Wintersport</desc></programme>
+<programme start="20251218053000 +0000" stop="20251218060000 +0000" channel="ORF SPORT +.de"><title>Funsport</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218060000 +0000" stop="20251218062300 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218062300 +0000" stop="20251218065200 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218065200 +0000" stop="20251218071600 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218071600 +0000" stop="20251218073100 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218073100 +0000" stop="20251218083000 +0000" channel="ORF SPORT +.de"><title>Silent Sports +</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218083000 +0000" stop="20251218103000 +0000" channel="ORF SPORT +.de"><title>LIVE FuSSball Frauen Champions League</title><desc>FuSSball</desc></programme>
+<programme start="20251218103000 +0000" stop="20251218110000 +0000" channel="ORF SPORT +.de"><title>Outdoor Sports Show 2025</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218110000 +0000" stop="20251218120000 +0000" channel="ORF SPORT +.de"><title>FIS Freestyle Weltcup 2025/2026: Skicross, Highlights aus Arosa</title><desc>Biathlon</desc></programme>
+<programme start="20251218120000 +0000" stop="20251218124000 +0000" channel="ORF SPORT +.de"><title>Funsport</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218124000 +0000" stop="20251218140500 +0000" channel="ORF SPORT +.de"><title>FIS Snowboard Weltcup 2025/2026: PGS, Highlights aus Carezza</title><desc>Wintersport</desc></programme>
+<programme start="20251218140500 +0000" stop="20251218141000 +0000" channel="ORF SPORT +.de"><title>FIS Skisprung Weltcup 2025/2026</title><desc>Skispringen</desc></programme>
+<programme start="20251218141000 +0000" stop="20251218161000 +0000" channel="ORF SPORT +.de"><title>FIS Skisprung Weltcup 2025/2026</title><desc>Skispringen</desc></programme>
+<programme start="20251218161000 +0000" stop="20251218164000 +0000" channel="ORF SPORT +.de"><title>Pferdesport Amadeus Horse 2025, Highlights aus Salzburg</title><desc>Reitsport</desc></programme>
+<programme start="20251218164000 +0000" stop="20251218170000 +0000" channel="ORF SPORT +.de"><title>Funsport</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218170000 +0000" stop="20251218184500 +0000" channel="ORF SPORT +.de"><title>LIVE IBSF Bob And Skeleton Weltcup 2025/2026</title><desc>Wintersport</desc></programme>
+<programme start="20251218184500 +0000" stop="20251218200000 +0000" channel="ORF SPORT +.de"><title>LIVE IBSF Bob And Skeleton Weltcup 2025/2026</title><desc>Wintersport</desc></programme>
+<programme start="20251218200000 +0000" stop="20251218201500 +0000" channel="ORF SPORT +.de"><title>Sport 20</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218201500 +0000" stop="20251218204500 +0000" channel="ORF SPORT +.de"><title>OHNE GRENZEN - das Behindertensport Magazin</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218204500 +0000" stop="20251218211500 +0000" channel="ORF SPORT +.de"><title>FuSSball Frauen Champions League 2025/2026 6.Spieltag, Highlights</title><desc>FuSSball</desc></programme>
+<programme start="20251218211500 +0000" stop="20251218221500 +0000" channel="ORF SPORT +.de"><title>FIS Ski Alpin Weltcup 2025/2026</title><desc>Wintersport</desc></programme>
+<programme start="20251218221500 +0000" stop="20251218231500 +0000" channel="ORF SPORT +.de"><title>FIS Snowboard Weltcup 2025/2026: PGS, Highlights aus Carezza</title><desc>Wintersport</desc></programme>
+<programme start="20251218231500 +0000" stop="20251219010000 +0000" channel="ORF SPORT +.de"><title>LIVE FuSSball Frauen Champions League</title><desc>FuSSball</desc></programme>
+<programme start="20251219010000 +0000" stop="20251219011500 +0000" channel="ORF SPORT +.de"><title>Radsport</title><desc>Radsport</desc></programme>
+<programme start="20251219011500 +0000" stop="20251219014500 +0000" channel="ORF SPORT +.de"><title>Radsport</title><desc>Radsport</desc></programme>
+<programme start="20251219014500 +0000" stop="20251219025500 +0000" channel="ORF SPORT +.de"><title>Outdoor Sports Show 2025</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217000500 +0000" stop="20251219130500 +0000" channel="Puls 4.de"><title>Wild Umstritten</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216010000 +0000" stop="20251216040000 +0000" channel="Sky Sport F1.de"><title>Formel 3</title><desc>Motorsport</desc></programme>
-<programme start="20251216040000 +0000" stop="20251216060000 +0000" channel="Sky Sport F1.de"><title>NTT IndyCar Series</title><desc>Motorsport</desc></programme>
-<programme start="20251216060000 +0000" stop="20251216070000 +0000" channel="Sky Sport F1.de"><title>World Rally Championship</title><desc>Motorsport</desc></programme>
-<programme start="20251216070000 +0000" stop="20251216083000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216083000 +0000" stop="20251216093000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216093000 +0000" stop="20251216103000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216103000 +0000" stop="20251216120000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216120000 +0000" stop="20251216140000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216140000 +0000" stop="20251216143000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216143000 +0000" stop="20251216153000 +0000" channel="Sky Sport F1.de"><title>F1 Academy</title><desc>Motorsport</desc></programme>
-<programme start="20251216153000 +0000" stop="20251216163000 +0000" channel="Sky Sport F1.de"><title>F1 Academy</title><desc>Motorsport</desc></programme>
-<programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216173000 +0000" stop="20251216180000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216180000 +0000" stop="20251216183000 +0000" channel="Sky Sport F1.de"><title>Motorsport</title><desc>Motorsport</desc></programme>
-<programme start="20251216183000 +0000" stop="20251216200000 +0000" channel="Sky Sport F1.de"><title>World Rally Championship</title><desc>Motorsport</desc></programme>
-<programme start="20251216200000 +0000" stop="20251216220000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
-<programme start="20251216220000 +0000" stop="20251217000000 +0000" channel="Sky Sport F1.de"><title>NTT IndyCar Series</title><desc>Motorsport</desc></programme>
-<programme start="20251217000000 +0000" stop="20251217010000 +0000" channel="Sky Sport F1.de"><title>F1 Academy</title><desc>Motorsport</desc></programme>
+<programme start="20251218203500 +0000" stop="20251221190000 +0000" channel="RTL.de"><title>UEFA Conference League</title><desc>FuSSball</desc></programme>
 <programme start="20251217010000 +0000" stop="20251217040000 +0000" channel="Sky Sport F1.de"><title>F1 Academy</title><desc>Motorsport</desc></programme>
 <programme start="20251217040000 +0000" stop="20251217060000 +0000" channel="Sky Sport F1.de"><title>NTT IndyCar Series</title><desc>Motorsport</desc></programme>
 <programme start="20251217060000 +0000" stop="20251217073000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
@@ -186,29 +155,55 @@
 <programme start="20251217220000 +0000" stop="20251218000000 +0000" channel="Sky Sport F1.de"><title>NTT IndyCar Series</title><desc>Motorsport</desc></programme>
 <programme start="20251218000000 +0000" stop="20251218010000 +0000" channel="Sky Sport F1.de"><title>Formel 3</title><desc>Motorsport</desc></programme>
 <programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="Sky Sport F1.de"><title>Formel 3</title><desc>Motorsport</desc></programme>
-<programme start="20251216073000 +0000" stop="20251216100000 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216100000 +0000" stop="20251216130000 +0000" channel="SPORT1.de"><title>Darts - WM</title><desc>Darts</desc></programme>
-<programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
-<programme start="20251216133000 +0000" stop="20251216173000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
-<programme start="20251216173000 +0000" stop="20251216191500 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216191500 +0000" stop="20251216200000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
-<programme start="20251216200000 +0000" stop="20251217000000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
-<programme start="20251217000000 +0000" stop="20251217070000 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218040000 +0000" stop="20251218060000 +0000" channel="Sky Sport F1.de"><title>NTT IndyCar Series</title><desc>Motorsport</desc></programme>
+<programme start="20251218060000 +0000" stop="20251218073000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218073000 +0000" stop="20251218090000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218090000 +0000" stop="20251218103000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218103000 +0000" stop="20251218120000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218120000 +0000" stop="20251218140000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218140000 +0000" stop="20251218143000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218143000 +0000" stop="20251218143000 +0000" channel="Sky Sport F1.de"><title>Formel 3</title><desc>Motorsport</desc></programme>
+<programme start="20251218143000 +0000" stop="20251218153000 +0000" channel="Sky Sport F1.de"><title>Formel 2</title><desc>Motorsport</desc></programme>
+<programme start="20251218153000 +0000" stop="20251218153000 +0000" channel="Sky Sport F1.de"><title>Formel 3</title><desc>Motorsport</desc></programme>
+<programme start="20251218153000 +0000" stop="20251218163000 +0000" channel="Sky Sport F1.de"><title>Formel 2</title><desc>Motorsport</desc></programme>
+<programme start="20251218163000 +0000" stop="20251218165500 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218165500 +0000" stop="20251218173000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218173000 +0000" stop="20251218190000 +0000" channel="Sky Sport F1.de"><title>World Rally Championship</title><desc>Motorsport</desc></programme>
+<programme start="20251218190000 +0000" stop="20251218193000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218193000 +0000" stop="20251218200000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218220000 +0000" stop="20251218223000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251218223000 +0000" stop="20251219000000 +0000" channel="Sky Sport F1.de"><title>NTT IndyCar Series</title><desc>Motorsport</desc></programme>
+<programme start="20251219000000 +0000" stop="20251219003000 +0000" channel="Sky Sport F1.de"><title>Formel 2</title><desc>Motorsport</desc></programme>
+<programme start="20251219003000 +0000" stop="20251219010000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251219010000 +0000" stop="20251219012500 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
+<programme start="20251219012500 +0000" stop="20251219040000 +0000" channel="Sky Sport F1.de"><title>Formel 1</title><desc>Formel 1</desc></programme>
 <programme start="20251217070000 +0000" stop="20251217100000 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217100000 +0000" stop="20251217133000 +0000" channel="SPORT1.de"><title>Darts - WM</title><desc>Darts</desc></programme>
 <programme start="20251217133000 +0000" stop="20251217173000 +0000" channel="SPORT1.de"><title>Darts - WM</title><desc>Darts</desc></programme>
 <programme start="20251217173000 +0000" stop="20251217200000 +0000" channel="SPORT1.de"><title>Volleyball Live - Bundesliga</title><desc>Volleyball</desc></programme>
 <programme start="20251217200000 +0000" stop="20251218070000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
-<programme start="20251216173000 +0000" stop="20251216190500 +0000" channel="SRF 2.de"><title>Ski alpin - Slalom Frauen, 1. Lauf</title><desc>Wintersport</desc></programme>
-<programme start="20251216190500 +0000" stop="20251216203000 +0000" channel="SRF 2.de"><title>Ski Freestyle - Skicross Frauen/Manner</title><desc>Biathlon</desc></programme>
-<programme start="20251216203000 +0000" stop="20251216224000 +0000" channel="SRF 2.de"><title>Ski alpin - Slalom Frauen, 2. Lauf</title><desc>Wintersport</desc></programme>
-<programme start="20251216224000 +0000" stop="20251217201000 +0000" channel="SRF 2.de"><title>Super League - Highlights</title><desc>FuSSball</desc></programme>
+<programme start="20251218070000 +0000" stop="20251218100000 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218100000 +0000" stop="20251218130000 +0000" channel="SPORT1.de"><title>Darts - WM</title><desc>Darts</desc></programme>
+<programme start="20251218130000 +0000" stop="20251218133000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
+<programme start="20251218133000 +0000" stop="20251218173000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
+<programme start="20251218173000 +0000" stop="20251218191500 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218191500 +0000" stop="20251218200000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
+<programme start="20251218200000 +0000" stop="20251219000000 +0000" channel="SPORT1.de"><title>Darts Live - WM</title><desc>Darts</desc></programme>
+<programme start="20251219000000 +0000" stop="20251219070000 +0000" channel="SPORT1.de"><title>EXATLON Germany</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217201000 +0000" stop="20251217223500 +0000" channel="SRF 2.de"><title>Fussball - Super League 18. Runde, BSC Young Boys - Grasshopper Club Zurich</title><desc>FuSSball</desc></programme>
 <programme start="20251217223500 +0000" stop="20251218113000 +0000" channel="SRF 2.de"><title>Super League - Highlights</title><desc>FuSSball</desc></programme>
-<programme start="20251216113000 +0000" stop="20251217113000 +0000" channel="SWR BW HD.de"><title>aktiv und gesund</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218113000 +0000" stop="20251218141000 +0000" channel="SRF 2.de"><title>Ski Alpin - Abfahrt Manner</title><desc>Wintersport</desc></programme>
+<programme start="20251218141000 +0000" stop="20251218203500 +0000" channel="SRF 2.de"><title>Biathlon - Sprint Frauen</title><desc>Biathlon</desc></programme>
+<programme start="20251218203500 +0000" stop="20251218230000 +0000" channel="SRF 2.de"><title>Fussball - UEFA Conference League Manner 6. Spieltag, Mainz 05 (GER) - Samsunspor (TUK)</title><desc>FuSSball</desc></programme>
+<programme start="20251218230000 +0000" stop="20251218235500 +0000" channel="SRF 2.de"><title>UEFA Conference League - Highlights Manner</title><desc>FuSSball</desc></programme>
+<programme start="20251218235500 +0000" stop="20251219035000 +0000" channel="SRF 2.de"><title>Impact</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217113000 +0000" stop="20251218113000 +0000" channel="SWR BW HD.de"><title>aktiv und gesund</title><desc>Sportmagazin</desc></programme>
-<programme start="20251216113000 +0000" stop="20251217113000 +0000" channel="SWR Rheinland Pfalz.de"><title>aktiv und gesund</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218113000 +0000" stop="20251219113000 +0000" channel="SWR BW HD.de"><title>aktiv und gesund</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217113000 +0000" stop="20251218113000 +0000" channel="SWR Rheinland Pfalz.de"><title>aktiv und gesund</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218113000 +0000" stop="20251219113000 +0000" channel="SWR Rheinland Pfalz.de"><title>aktiv und gesund</title><desc>Sportmagazin</desc></programme>
 <programme start="20251217100000 +0000" stop="20251217130000 +0000" channel="WDR.de"><title>Landtag live</title><desc>FuSSball</desc></programme>
 <programme start="20251217130000 +0000" stop="20251220140000 +0000" channel="WDR.de"><title>Landtag live</title><desc>FuSSball</desc></programme>
+<programme start="20251218140500 +0000" stop="20251218154000 +0000" channel="ZDF.de"><title>sportstudio live</title><desc>Sportmagazin</desc></programme>
+<programme start="20251218154000 +0000" stop="20251219111500 +0000" channel="ZDF.de"><title>Biathlon Nation Ein Team. Eine Mission.</title><desc>Sportmagazin</desc></programme>
 </tv>
