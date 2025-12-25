@@ -5,23 +5,6 @@
 <channel id="Arena Sport 3.si"><display-name>Arena Sport 3.si</display-name></channel>
 <channel id="Arena Sport 4.si"><display-name>Arena Sport 4.si</display-name></channel>
 <channel id="ArenaSport 1 Premium.si"><display-name>ArenaSport 1 Premium.si</display-name></channel>
-<programme start="20251224003000 +0000" stop="20251224032500 +0000" channel="Arena Sport 1.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Detroit Red Wings - Dallas Stars</desc></programme>
-<programme start="20251224032500 +0000" stop="20251224040000 +0000" channel="Arena Sport 1.si"><title>Ep. 35</title><desc>Oddaja, Shortlist</desc></programme>
-<programme start="20251224040000 +0000" stop="20251224070000 +0000" channel="Arena Sport 1.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Vegas Golden Knights - San Jose Sharks</desc></programme>
-<programme start="20251224070000 +0000" stop="20251224085500 +0000" channel="Arena Sport 1.si"><title>La Liga 2025/26</title><desc>Nogomet, Girona - Atletico Madrid</desc></programme>
-<programme start="20251224085500 +0000" stop="20251224095000 +0000" channel="Arena Sport 1.si"><title>WRC 2025 / Savdska Arabija</title><desc>Oddaja, Pregled sezone / Slo. podnapisi</desc></programme>
-<programme start="20251224095000 +0000" stop="20251224121000 +0000" channel="Arena Sport 1.si"><title>Italijanski Superpokal 2025/26 - Finale</title><desc>Nogomet, Napoli - Bologna</desc></programme>
-<programme start="20251224121000 +0000" stop="20251224124000 +0000" channel="Arena Sport 1.si"><title>Ep. 36</title><desc>Oddaja, Shortlist</desc></programme>
-<programme start="20251224124000 +0000" stop="20251224144000 +0000" channel="Arena Sport 1.si"><title>La Liga 2025/26</title><desc>Nogomet, Villarreal - Barcelona</desc></programme>
-<programme start="20251224144000 +0000" stop="20251224153500 +0000" channel="Arena Sport 1.si"><title>La Liga 2025/26</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
-<programme start="20251224153500 +0000" stop="20251224173500 +0000" channel="Arena Sport 1.si"><title>ABA Liga 2025/26</title><desc>Košarka, Krka - Partizan Mozzart Bet</desc></programme>
-<programme start="20251224173500 +0000" stop="20251224180000 +0000" channel="Arena Sport 1.si"><title>AS Podkast</title><desc>Oddaja, Pot do prvakov / Ep. 41</desc></programme>
-<programme start="20251224180000 +0000" stop="20251224200000 +0000" channel="Arena Sport 1.si"><title>ABA 2 Liga 2025/26</title><desc>Košarka, Sloboda Tuzla - Primorje 1945</desc></programme>
-<programme start="20251224200000 +0000" stop="20251224202000 +0000" channel="Arena Sport 1.si"><title>Veliki intervju Premier lige</title><desc>Oddaja, Owen Hargreaves</desc></programme>
-<programme start="20251224202000 +0000" stop="20251224223500 +0000" channel="Arena Sport 1.si"><title>Italijanski Superpokal 2025/26 - Finale</title><desc>Nogomet, Napoli - Bologna</desc></programme>
-<programme start="20251224223500 +0000" stop="20251224230500 +0000" channel="Arena Sport 1.si"><title>Ep. 37</title><desc>Oddaja, Shortlist</desc></programme>
-<programme start="20251224230500 +0000" stop="20251224235500 +0000" channel="Arena Sport 1.si"><title>N/A</title><desc>Ameriški dokumentarni film, Bilo je nekoč v Queensu 1. del</desc></programme>
-<programme start="20251224235500 +0000" stop="20251225004500 +0000" channel="Arena Sport 1.si"><title>N/A</title><desc>Ameriški dokumentarni film, Bilo je nekoč v Queensu 2. del</desc></programme>
 <programme start="20251225004500 +0000" stop="20251225013500 +0000" channel="Arena Sport 1.si"><title>N/A</title><desc>Ameriški dokumentarni film, Bilo je nekoč v Queensu 3. del</desc></programme>
 <programme start="20251225013500 +0000" stop="20251225033000 +0000" channel="Arena Sport 1.si"><title>N/A</title><desc>Ameriški dokumentarni film, Bilo je nekoč v Queensu 4. del</desc></programme>
 <programme start="20251225033000 +0000" stop="20251225052500 +0000" channel="Arena Sport 1.si"><title>ABA Liga 2025/26</title><desc>Košarka, Krka - Partizan Mozzart Bet</desc></programme>
@@ -41,20 +24,22 @@
 <programme start="20251226011000 +0000" stop="20251226014000 +0000" channel="Arena Sport 1.si"><title>Serie A 2025/26</title><desc>Oddaja, Pregled 16. kroga</desc></programme>
 <programme start="20251226014000 +0000" stop="20251226021500 +0000" channel="Arena Sport 1.si"><title>Ep. 37</title><desc>Oddaja, Shortlist</desc></programme>
 <programme start="20251226021500 +0000" stop="20251226051500 +0000" channel="Arena Sport 1.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Kansas City Chiefs - Denver Broncos</desc></programme>
-<programme start="20251224010500 +0000" stop="20251224030000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Genoa - Atalanta</desc></programme>
-<programme start="20251224030000 +0000" stop="20251224045500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Athletic Bilbao - Espanyol</desc></programme>
-<programme start="20251224045500 +0000" stop="20251224065000 +0000" channel="Arena Sport 2.si"><title>HNL 2025/26</title><desc>Nogomet, Hajduk - Vukovar 1991</desc></programme>
-<programme start="20251224065000 +0000" stop="20251224084500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Athletic Bilbao - Espanyol</desc></programme>
-<programme start="20251224084500 +0000" stop="20251224094000 +0000" channel="Arena Sport 2.si"><title>Segunda Division 2025/26</title><desc>Oddaja, Pregled 19. kroga</desc></programme>
-<programme start="20251224094000 +0000" stop="20251224113500 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, UBT Cluj Napoca - Split</desc></programme>
-<programme start="20251224113500 +0000" stop="20251224133500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Elche - Rayo Vallecano</desc></programme>
-<programme start="20251224133500 +0000" stop="20251224153000 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, SC Derby - Dubai Basketball</desc></programme>
-<programme start="20251224153000 +0000" stop="20251224162500 +0000" channel="Arena Sport 2.si"><title>FIA WEC 2025</title><desc>Avtomoto, Pregled sezone / Slo. podnapisi</desc></programme>
-<programme start="20251224162500 +0000" stop="20251224172000 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
-<programme start="20251224172000 +0000" stop="20251224192000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Fiorentina - Udinese</desc></programme>
-<programme start="20251224192000 +0000" stop="20251224212000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Genoa - Atalanta</desc></programme>
-<programme start="20251224212000 +0000" stop="20251224220500 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Oddaja, Pregled 16. kroga</desc></programme>
-<programme start="20251224220500 +0000" stop="20251225000000 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, UBT Cluj Napoca - Split</desc></programme>
+<programme start="20251226051500 +0000" stop="20251226054500 +0000" channel="Arena Sport 1.si"><title>Ep. 38</title><desc>Oddaja, Shortlist</desc></programme>
+<programme start="20251226054500 +0000" stop="20251226074000 +0000" channel="Arena Sport 1.si"><title>ABA Liga 2025/26</title><desc>Košarka, Mega Superbet - Cedevita Olimpija</desc></programme>
+<programme start="20251226074000 +0000" stop="20251226093500 +0000" channel="Arena Sport 1.si"><title>ABA Liga 2025/26</title><desc>Košarka, Krka - Partizan Mozzart Bet</desc></programme>
+<programme start="20251226093500 +0000" stop="20251226115000 +0000" channel="Arena Sport 1.si"><title>Italijanski Superpokal 2025/26 - Finale</title><desc>Nogomet, Napoli - Bologna</desc></programme>
+<programme start="20251226115000 +0000" stop="20251226122000 +0000" channel="Arena Sport 1.si"><title>Ep. 22</title><desc>Oddaja, Shortlist</desc></programme>
+<programme start="20251226122000 +0000" stop="20251226133000 +0000" channel="Arena Sport 1.si"><title>Peter Prevc</title><desc>Oddaja, 45 minut z Nejcem Vidmarjem</desc></programme>
+<programme start="20251226133000 +0000" stop="20251226153500 +0000" channel="Arena Sport 1.si"><title>EFL Championship 2025/26 - Boxing Day</title><desc>Nogomet, Birmingham - Derby County</desc></programme>
+<programme start="20251226153500 +0000" stop="20251226160000 +0000" channel="Arena Sport 1.si"><title>AS Podkast</title><desc>Oddaja, Pot do prvakov / Ep. 41</desc></programme>
+<programme start="20251226160000 +0000" stop="20251226181000 +0000" channel="Arena Sport 1.si"><title>EFL Championship 2025/26 - Boxing Day</title><desc>Nogomet, Middlesbrough - Blackburn</desc></programme>
+<programme start="20251226181000 +0000" stop="20251226201000 +0000" channel="Arena Sport 1.si"><title>La Liga 2025/26</title><desc>Nogomet, Real Madrid - Sevilla</desc></programme>
+<programme start="20251226201000 +0000" stop="20251226203000 +0000" channel="Arena Sport 1.si"><title>AS Podkast</title><desc>Oddaja, Pot do prvakov / Ep. 41</desc></programme>
+<programme start="20251226203000 +0000" stop="20251226210000 +0000" channel="Arena Sport 1.si"><title>Premier League 2025/26 - Boxing Day</title><desc>Nogomet, Arena s terena</desc></programme>
+<programme start="20251226210000 +0000" stop="20251226233500 +0000" channel="Arena Sport 1.si"><title>Premier League 2025/26 - Boxing Day</title><desc>Nogomet, Manchester United - Newcastle United</desc></programme>
+<programme start="20251226233500 +0000" stop="20251227000500 +0000" channel="Arena Sport 1.si"><title>Serie A 2025/26</title><desc>Oddaja, Napoved 17. kroga</desc></programme>
+<programme start="20251227000500 +0000" stop="20251227020000 +0000" channel="Arena Sport 1.si"><title>La Liga 2025/26</title><desc>Nogomet, Girona - Atletico Madrid</desc></programme>
+<programme start="20251227020000 +0000" stop="20251227025000 +0000" channel="Arena Sport 1.si"><title>N/A</title><desc>Ameriški dokumentarni film, Bilo je nekoč v Queensu 1. del</desc></programme>
 <programme start="20251225000000 +0000" stop="20251225015500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Valencia - Mallorca</desc></programme>
 <programme start="20251225015500 +0000" stop="20251225035000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Lazio - Cremonese</desc></programme>
 <programme start="20251225035000 +0000" stop="20251225054500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Osasuna - Deportivo Alaves</desc></programme>
@@ -71,20 +56,21 @@
 <programme start="20251225204500 +0000" stop="20251225224000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Lazio - Cremonese</desc></programme>
 <programme start="20251225224000 +0000" stop="20251226003500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Elche - Rayo Vallecano</desc></programme>
 <programme start="20251226003500 +0000" stop="20251226023000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Genoa - Atalanta</desc></programme>
-<programme start="20251224015000 +0000" stop="20251224034500 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Varaždin - Istra 1961</desc></programme>
-<programme start="20251224034500 +0000" stop="20251224054000 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Nogomet, Eibar - Real Valladolid</desc></programme>
-<programme start="20251224054000 +0000" stop="20251224073500 +0000" channel="Arena Sport 3.si"><title>ABA Liga 2025/26</title><desc>Košarka, FMP - Igokea m:tel</desc></programme>
-<programme start="20251224073500 +0000" stop="20251224093000 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Dinamo - Lokomotiva Zagreb</desc></programme>
-<programme start="20251224093000 +0000" stop="20251224112500 +0000" channel="Arena Sport 3.si"><title>La Liga 2025/26</title><desc>Nogomet, Real Oviedo - Celta Vigo</desc></programme>
-<programme start="20251224112500 +0000" stop="20251224122000 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Oddaja, Pregled 19. kroga</desc></programme>
-<programme start="20251224122000 +0000" stop="20251224141500 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Nogomet, Eibar - Real Valladolid</desc></programme>
-<programme start="20251224141500 +0000" stop="20251224161000 +0000" channel="Arena Sport 3.si"><title>Serie A 2025/26</title><desc>Nogomet, Cagliari - Pisa</desc></programme>
-<programme start="20251224161000 +0000" stop="20251224165500 +0000" channel="Arena Sport 3.si"><title>Serie A 2025/26</title><desc>Oddaja, Pregled 16. kroga</desc></programme>
-<programme start="20251224165500 +0000" stop="20251224185000 +0000" channel="Arena Sport 3.si"><title>Serie A 2025/26</title><desc>Nogomet, Sassuolo - Torino</desc></programme>
-<programme start="20251224185000 +0000" stop="20251224204500 +0000" channel="Arena Sport 3.si"><title>La Liga 2025/26</title><desc>Nogomet, Real Betis - Getafe</desc></programme>
-<programme start="20251224204500 +0000" stop="20251224214000 +0000" channel="Arena Sport 3.si"><title>La Liga 2025/26</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
-<programme start="20251224214000 +0000" stop="20251224233500 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Nogomet, Eibar - Real Valladolid</desc></programme>
-<programme start="20251224233500 +0000" stop="20251225003000 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Oddaja, Pregled 19. kroga</desc></programme>
+<programme start="20251226023000 +0000" stop="20251226042500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Athletic Bilbao - Espanyol</desc></programme>
+<programme start="20251226042500 +0000" stop="20251226062000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Fiorentina - Udinese</desc></programme>
+<programme start="20251226062000 +0000" stop="20251226081500 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, UBT Cluj Napoca - Split</desc></programme>
+<programme start="20251226081500 +0000" stop="20251226091500 +0000" channel="Arena Sport 2.si"><title>Peter Prevc</title><desc>Oddaja, 45 minut z Nejcem Vidmarjem</desc></programme>
+<programme start="20251226091500 +0000" stop="20251226111000 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Valencia - Mallorca</desc></programme>
+<programme start="20251226111000 +0000" stop="20251226130000 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, SC Derby - Dubai Basketball</desc></programme>
+<programme start="20251226130000 +0000" stop="20251226150000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Nogomet, Lazio - Cremonese</desc></programme>
+<programme start="20251226150000 +0000" stop="20251226170000 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, Dubai Basketball - Krka</desc></programme>
+<programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="Arena Sport 2.si"><title>WRC 2025 / Savdska Arabija</title><desc>Oddaja, Pregled dirke / Slo. podnapisi</desc></programme>
+<programme start="20251226180000 +0000" stop="20251226200000 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, Budućnost VOLI - Mega Superbet</desc></programme>
+<programme start="20251226200000 +0000" stop="20251226220000 +0000" channel="Arena Sport 2.si"><title>ABA Liga 2025/26</title><desc>Košarka, UBT Cluj Napoca - SC Derby</desc></programme>
+<programme start="20251226220000 +0000" stop="20251226223000 +0000" channel="Arena Sport 2.si"><title>Serie A 2025/26</title><desc>Oddaja, Napoved 17. kroga</desc></programme>
+<programme start="20251226223000 +0000" stop="20251226230500 +0000" channel="Arena Sport 2.si"><title>Ep. 16</title><desc>Oddaja, NFL Game Day</desc></programme>
+<programme start="20251226230500 +0000" stop="20251227010500 +0000" channel="Arena Sport 2.si"><title>La Liga 2025/26</title><desc>Nogomet, Athletic Bilbao - Espanyol</desc></programme>
+<programme start="20251227010500 +0000" stop="20251227030000 +0000" channel="Arena Sport 2.si"><title>ABA 2 Liga 2025/26</title><desc>Košarka, Zlatibor - MZT Skopje</desc></programme>
 <programme start="20251225003000 +0000" stop="20251225022500 +0000" channel="Arena Sport 3.si"><title>ABA Liga 2025/26</title><desc>Košarka, Spartak Office Shoes - Bosna BH Telecom</desc></programme>
 <programme start="20251225022500 +0000" stop="20251225042000 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Rijeka - Gorica</desc></programme>
 <programme start="20251225042000 +0000" stop="20251225061500 +0000" channel="Arena Sport 3.si"><title>ABA Liga 2025/26</title><desc>Košarka, Budućnost VOLI - Vienna</desc></programme>
@@ -101,20 +87,20 @@
 <programme start="20251225232500 +0000" stop="20251226012000 +0000" channel="Arena Sport 3.si"><title>Serie A 2025/26</title><desc>Nogomet, Sassuolo - Torino</desc></programme>
 <programme start="20251226012000 +0000" stop="20251226021500 +0000" channel="Arena Sport 3.si"><title>FIA WEC 2025</title><desc>Avtomoto, Pregled sezone / Slo. podnapisi</desc></programme>
 <programme start="20251226021500 +0000" stop="20251226041000 +0000" channel="Arena Sport 3.si"><title>La Liga 2025/26</title><desc>Nogomet, Real Oviedo - Celta Vigo</desc></programme>
-<programme start="20251224003000 +0000" stop="20251224005500 +0000" channel="Arena Sport 4.si"><title>Ep. 29</title><desc>Oddaja, Xtreme CollXtion</desc></programme>
-<programme start="20251224005500 +0000" stop="20251224032500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Denver Broncos - Jacksonville Jaguars</desc></programme>
-<programme start="20251224032500 +0000" stop="20251224052500 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Tampa Bay Lightning - St. Louis Blues</desc></programme>
-<programme start="20251224052500 +0000" stop="20251224082000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Baltimore Ravens - New England Patriots</desc></programme>
-<programme start="20251224082000 +0000" stop="20251224102000 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Toronto Maple Leafs - Pittsburgh Penguins</desc></programme>
-<programme start="20251224102000 +0000" stop="20251224122000 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Detroit Red Wings - Dallas Stars</desc></programme>
-<programme start="20251224122000 +0000" stop="20251224125000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Oddaja, Pregled 16. tedna</desc></programme>
-<programme start="20251224125000 +0000" stop="20251224152000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Carolina Panthers - Tampa Bay Buccaneers</desc></programme>
-<programme start="20251224152000 +0000" stop="20251224154500 +0000" channel="Arena Sport 4.si"><title>Ep. 31</title><desc>Oddaja, Xtreme CollXtion</desc></programme>
-<programme start="20251224154500 +0000" stop="20251224174500 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Carolina Hurricanes - Florida Panthers</desc></programme>
-<programme start="20251224174500 +0000" stop="20251224201500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Indianapolis Colts - San Francisco 49ers</desc></programme>
-<programme start="20251224201500 +0000" stop="20251224204500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Oddaja, Pregled 16. tedna</desc></programme>
-<programme start="20251224204500 +0000" stop="20251224224500 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Vegas Golden Knights - San Jose Sharks</desc></programme>
-<programme start="20251224224500 +0000" stop="20251225004500 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Toronto Maple Leafs - Pittsburgh Penguins</desc></programme>
+<programme start="20251226041000 +0000" stop="20251226060500 +0000" channel="Arena Sport 3.si"><title>Serie A 2025/26</title><desc>Nogomet, Sassuolo - Torino</desc></programme>
+<programme start="20251226060500 +0000" stop="20251226080000 +0000" channel="Arena Sport 3.si"><title>ABA Liga 2025/26</title><desc>Košarka, Budućnost VOLI - Vienna</desc></programme>
+<programme start="20251226080000 +0000" stop="20251226095500 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Varaždin - Istra 1961</desc></programme>
+<programme start="20251226095500 +0000" stop="20251226105500 +0000" channel="Arena Sport 3.si"><title>(Ne)uspeh prvakov</title><desc>Oddaja, Luka Modrić - 1. del</desc></programme>
+<programme start="20251226105500 +0000" stop="20251226115500 +0000" channel="Arena Sport 3.si"><title>(Ne)uspeh prvakov</title><desc>Oddaja, Luka Modrić - 2. del</desc></programme>
+<programme start="20251226115500 +0000" stop="20251226125500 +0000" channel="Arena Sport 3.si"><title>(Ne)uspeh prvakov</title><desc>Oddaja, Luka Modrić - 3. del</desc></programme>
+<programme start="20251226125500 +0000" stop="20251226145000 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Nogomet, Eibar - Real Valladolid</desc></programme>
+<programme start="20251226145000 +0000" stop="20251226154500 +0000" channel="Arena Sport 3.si"><title>Segunda Division 2025/26</title><desc>Oddaja, Pregled 19. kroga</desc></programme>
+<programme start="20251226154500 +0000" stop="20251226174000 +0000" channel="Arena Sport 3.si"><title>Serie A 2025/26</title><desc>Nogomet, Cagliari - Pisa</desc></programme>
+<programme start="20251226174000 +0000" stop="20251226193500 +0000" channel="Arena Sport 3.si"><title>ABA Liga 2025/26</title><desc>Košarka, FMP - Igokea m:tel</desc></programme>
+<programme start="20251226193500 +0000" stop="20251226213000 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Dinamo - Lokomotiva Zagreb</desc></programme>
+<programme start="20251226213000 +0000" stop="20251226232500 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Rijeka - Gorica</desc></programme>
+<programme start="20251226232500 +0000" stop="20251227012500 +0000" channel="Arena Sport 3.si"><title>La Liga 2025/26</title><desc>Nogomet, Real Oviedo - Celta Vigo</desc></programme>
+<programme start="20251227012500 +0000" stop="20251227032000 +0000" channel="Arena Sport 3.si"><title>HNL 2025/26</title><desc>Nogomet, Varaždin - Istra 1961</desc></programme>
 <programme start="20251225004500 +0000" stop="20251225031500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Carolina Panthers - Tampa Bay Buccaneers</desc></programme>
 <programme start="20251225031500 +0000" stop="20251225034000 +0000" channel="Arena Sport 4.si"><title>Ep. 31</title><desc>Oddaja, Xtreme CollXtion</desc></programme>
 <programme start="20251225034000 +0000" stop="20251225063500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Baltimore Ravens - New England Patriots</desc></programme>
@@ -129,25 +115,23 @@
 <programme start="20251225203000 +0000" stop="20251225233000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Baltimore Ravens - New England Patriots</desc></programme>
 <programme start="20251225233000 +0000" stop="20251226013000 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Toronto Maple Leafs - Pittsburgh Penguins</desc></programme>
 <programme start="20251226013000 +0000" stop="20251226033000 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Minnesota Wild - Edmonton Oilers</desc></programme>
-<programme start="20251224010000 +0000" stop="20251224033000 +0000" channel="ArenaSport 1 Premium.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Carolina Hurricanes - Florida Panthers</desc></programme>
-<programme start="20251224033000 +0000" stop="20251224040000 +0000" channel="ArenaSport 1 Premium.si"><title>EFL Championship 2025/26</title><desc>Oddaja, Pregled 22. kroga</desc></programme>
-<programme start="20251224040000 +0000" stop="20251224055500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Newcastle United - Chelsea</desc></programme>
-<programme start="20251224055500 +0000" stop="20251224075000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Manchester City - West Ham United</desc></programme>
-<programme start="20251224075000 +0000" stop="20251224084500 +0000" channel="ArenaSport 1 Premium.si"><title>WRC 2025 / Savdska Arabija</title><desc>Oddaja, Pregled dirke / Slo. podnapisi</desc></programme>
-<programme start="20251224084500 +0000" stop="20251224104500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Fulham - Nottingham Forest</desc></programme>
-<programme start="20251224104500 +0000" stop="20251224114000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2024/25</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
-<programme start="20251224114000 +0000" stop="20251224134000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Aston Villa - Manchester United</desc></programme>
-<programme start="20251224134000 +0000" stop="20251224154000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Leeds United - Crystal Palace</desc></programme>
-<programme start="20251224154000 +0000" stop="20251224174000 +0000" channel="ArenaSport 1 Premium.si"><title>Carabao Cup 2025/26 - Četrtfinale</title><desc>Nogomet, Arsenal - Crystal Palace</desc></programme>
-<programme start="20251224174000 +0000" stop="20251224181000 +0000" channel="ArenaSport 1 Premium.si"><title>EFL Championship 2025/26</title><desc>Oddaja, Pregled 22. kroga</desc></programme>
-<programme start="20251224181000 +0000" stop="20251224201000 +0000" channel="ArenaSport 1 Premium.si"><title>EFL Championship 2025/26</title><desc>Nogomet, Swansea - Wrexham</desc></programme>
-<programme start="20251224201000 +0000" stop="20251224204000 +0000" channel="ArenaSport 1 Premium.si"><title>Zgodbe iz Premier lige</title><desc>Oddaja, Zgodba o nasledstvu</desc></programme>
-<programme start="20251224204000 +0000" stop="20251224224000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Manchester City - West Ham United</desc></programme>
-<programme start="20251224224000 +0000" stop="20251224233500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2024/25</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
-<programme start="20251224233500 +0000" stop="20251225003500 +0000" channel="ArenaSport 1 Premium.si"><title>Neuspeh prvakov</title><desc>Oddaja, Janica Kostelić 1. del</desc></programme>
+<programme start="20251226033000 +0000" stop="20251226060000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Washington Commanders - Philadelphia Eagles</desc></programme>
+<programme start="20251226060000 +0000" stop="20251226063000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Oddaja, Pregled 16. tedna</desc></programme>
+<programme start="20251226063000 +0000" stop="20251226090000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Carolina Panthers - Tampa Bay Buccaneers</desc></programme>
+<programme start="20251226090000 +0000" stop="20251226092500 +0000" channel="Arena Sport 4.si"><title>Ep. 35</title><desc>Oddaja, Xtreme CollXtion</desc></programme>
+<programme start="20251226092500 +0000" stop="20251226112500 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Toronto Maple Leafs - Pittsburgh Penguins</desc></programme>
+<programme start="20251226112500 +0000" stop="20251226135500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Kansas City Chiefs - Denver Broncos</desc></programme>
+<programme start="20251226135500 +0000" stop="20251226142500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Oddaja, Pregled 16. tedna</desc></programme>
+<programme start="20251226142500 +0000" stop="20251226162000 +0000" channel="Arena Sport 4.si"><title>Lega Basket Serie A 2025/26</title><desc>Košarka, Dinamo Sassari - Trapani</desc></programme>
+<programme start="20251226162000 +0000" stop="20251226182000 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Detroit Red Wings - Dallas Stars</desc></programme>
+<programme start="20251226182000 +0000" stop="20251226205000 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Denver Broncos - Jacksonville Jaguars</desc></programme>
+<programme start="20251226205000 +0000" stop="20251226212500 +0000" channel="Arena Sport 4.si"><title>Ep. 16</title><desc>Oddaja, NFL Game Day</desc></programme>
+<programme start="20251226212500 +0000" stop="20251226232500 +0000" channel="Arena Sport 4.si"><title>NHL 2025/26</title><desc>Hokej na ledu, Vegas Golden Knights - San Jose Sharks</desc></programme>
+<programme start="20251226232500 +0000" stop="20251227015500 +0000" channel="Arena Sport 4.si"><title>NFL 2025/26</title><desc>Ameriški nogomet, Kansas City Chiefs - Denver Broncos</desc></programme>
+<programme start="20251227015500 +0000" stop="20251227023000 +0000" channel="Arena Sport 4.si"><title>Ep. 16</title><desc>Oddaja, NFL Game Day</desc></programme>
 <programme start="20251225003500 +0000" stop="20251225013500 +0000" channel="ArenaSport 1 Premium.si"><title>(Ne)uspeh prvakov</title><desc>Oddaja, Janica Kostelić - 2. del</desc></programme>
-<programme start="20251225013500 +0000" stop="20251225033500 +0000" channel="ArenaSport 1 Premium.si"><title>Carabao Cup 2025/26 - Četrtfinale</title><desc>Nogomet, Arsenal - Crystal Palace</desc></programme>
-<programme start="20251225033500 +0000" stop="20251225040500 +0000" channel="ArenaSport 1 Premium.si"><title>Veliki intervju Premier lige</title><desc>Oddaja, Cody Gakpo</desc></programme>
+<programme start="20251225013500 +0000" stop="20251225035500 +0000" channel="ArenaSport 1 Premium.si"><title>Carabao Cup 2025/26 - Četrtfinale</title><desc>Nogomet, Arsenal - Crystal Palace</desc></programme>
+<programme start="20251225035500 +0000" stop="20251225040500 +0000" channel="ArenaSport 1 Premium.si"><title>AS Podkast</title><desc>Oddaja, Pot do prvakov / Ep. 41</desc></programme>
 <programme start="20251225040500 +0000" stop="20251225060000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Fulham - Nottingham Forest</desc></programme>
 <programme start="20251225060000 +0000" stop="20251225065500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2024/25</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
 <programme start="20251225065500 +0000" stop="20251225085500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Leeds United - Crystal Palace</desc></programme>
@@ -164,4 +148,20 @@
 <programme start="20251225232000 +0000" stop="20251226002000 +0000" channel="ArenaSport 1 Premium.si"><title>Peter Prevc</title><desc>Oddaja, 45 minut z Nejcem Vidmarjem</desc></programme>
 <programme start="20251226002000 +0000" stop="20251226005000 +0000" channel="ArenaSport 1 Premium.si"><title>Zgodbe iz Premier lige</title><desc>Oddaja, Edwin van der Sar</desc></programme>
 <programme start="20251226005000 +0000" stop="20251226023500 +0000" channel="ArenaSport 1 Premium.si"><title>N/A</title><desc>Ameriški dokumentarni film, Vick - 1. del</desc></programme>
+<programme start="20251226023500 +0000" stop="20251226041500 +0000" channel="ArenaSport 1 Premium.si"><title>N/A</title><desc>Ameriški dokumentarni film, Vick - 1. del</desc></programme>
+<programme start="20251226041500 +0000" stop="20251226061000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Fulham - Nottingham Forest</desc></programme>
+<programme start="20251226061000 +0000" stop="20251226080500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Newcastle United - Chelsea</desc></programme>
+<programme start="20251226080500 +0000" stop="20251226100000 +0000" channel="ArenaSport 1 Premium.si"><title>EFL Championship 2025/26</title><desc>Nogomet, Swansea - Wrexham</desc></programme>
+<programme start="20251226100000 +0000" stop="20251226105500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2024/25</title><desc>Oddaja, Pregled 17. kroga</desc></programme>
+<programme start="20251226105500 +0000" stop="20251226130500 +0000" channel="ArenaSport 1 Premium.si"><title>Carabao Cup 2025/26 - Četrtfinale</title><desc>Nogomet, Arsenal - Crystal Palace</desc></programme>
+<programme start="20251226130500 +0000" stop="20251226132500 +0000" channel="ArenaSport 1 Premium.si"><title>AS Podkast</title><desc>Oddaja, Pot do prvakov / Ep. 41</desc></programme>
+<programme start="20251226132500 +0000" stop="20251226152500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Leeds United - Crystal Palace</desc></programme>
+<programme start="20251226152500 +0000" stop="20251226160000 +0000" channel="ArenaSport 1 Premium.si"><title>Zgodbe iz Premier lige</title><desc>Oddaja, Newcastle United</desc></programme>
+<programme start="20251226160000 +0000" stop="20251226180500 +0000" channel="ArenaSport 1 Premium.si"><title>EFL League Two 2025/26 - Boxing Day</title><desc>Nogomet, Chesterfield - Notts County</desc></programme>
+<programme start="20251226180500 +0000" stop="20251226183000 +0000" channel="ArenaSport 1 Premium.si"><title>30 let Premier lige</title><desc>Oddaja, Leicestrovi pravljični lisjaki</desc></programme>
+<programme start="20251226183000 +0000" stop="20251226204000 +0000" channel="ArenaSport 1 Premium.si"><title>EFL Championship 2025/26 - Boxing Day</title><desc>Nogomet, Wrexham - Sheffield United</desc></programme>
+<programme start="20251226204000 +0000" stop="20251226224000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Aston Villa - Manchester United</desc></programme>
+<programme start="20251226224000 +0000" stop="20251226231000 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2024/25</title><desc>Oddaja, Napoved 18. kroga</desc></programme>
+<programme start="20251226231000 +0000" stop="20251227010500 +0000" channel="ArenaSport 1 Premium.si"><title>Premier League 2025/26</title><desc>Nogomet, Tottenham - Liverpool</desc></programme>
+<programme start="20251227010500 +0000" stop="20251227030000 +0000" channel="ArenaSport 1 Premium.si"><title>Carabao Cup 2025/26 - Četrtfinale</title><desc>Nogomet, Newcastle United - Fulham</desc></programme>
 </tv>
